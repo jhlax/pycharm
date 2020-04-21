@@ -45,8 +45,8 @@
         <entry>%s/shadow-lg/shadow-sm/g</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -92,12 +92,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1587509779499">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1587510168623">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="120" />
-        <mark key="]" line="31" column="125" />
-        <mark key="^" line="31" column="125" />
-        <mark key="." line="31" column="124" />
+        <mark key="[" line="71" column="226" />
+        <mark key="]" line="71" column="226" />
+        <mark key="^" line="71" column="226" />
+        <mark key="." line="71" column="225" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/package.json" timestamp="1587498254052">
         <mark key="[" line="33" column="0" />
@@ -336,7 +336,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGItYnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUtcHJpbWFyeSIgcGlsbD5GdWNrPC9iLWJ1dHRvbj4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
