@@ -92,6 +92,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1587508334917">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="2" />
+        <mark key="^" line="47" column="2" />
+        <mark key="." line="47" column="1" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/package.json" timestamp="1587498254052">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -130,13 +136,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1587499399022">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/blog.html" timestamp="1586677523235">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="174" column="14" />
-        <mark key="." line="174" column="14" />
-        <mark key="^" line="174" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1587498633979">
         <mark key="[" line="61" column="13" />
@@ -293,10 +292,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, render_template</text>
+        <text>Other Standard</text>
       </register>
       <register name="-" type="4">
-        <text>, render_template</text>
+        <text>Other Standard</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
@@ -305,34 +304,35 @@
         <text encoding="base64">PHN0eWxlIHNjb3BlZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInBsdWdpbjp2dWUvYm9vdHN0cmFwIiwK</text>
+        <text>- Multi-DNS</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>- Full SEO compliance
+- Multi-DNS</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZiBhcHBsaWVzIHRvIGJvdGggeCBhbmQgeQo=</text>
+        <text encoding="base64">ICAgICAgInBsdWdpbjp2dWUvYm9vdHN0cmFwIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKiNhcHAgeyovCiAgICAvKiAgICBmb250LWZhbWlseTogQXZlbmlyLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyovCiAgICAvKiAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsqLwogICAgLyogICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTsqLwogICAgLyogICAgdGV4dC1hbGlnbjogY2VudGVyOyovCiAgICAvKiAgICBjb2xvcjogIzJjM2U1MDsqLwogICAgLyogICAgbWFyZ2luLXRvcDogNjBweDsqLwogICAgLyp9Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGItYnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUtcHJpbWFyeSIgcGlsbD5GdWNrPC9iLWJ1dHRvbj4K</text>
+        <text encoding="base64">ZiBhcHBsaWVzIHRvIGJvdGggeCBhbmQgeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAvKiNhcHAgeyovCiAgICAvKiAgICBmb250LWZhbWlseTogQXZlbmlyLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyovCiAgICAvKiAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsqLwogICAgLyogICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTsqLwogICAgLyogICAgdGV4dC1hbGlnbjogY2VudGVyOyovCiAgICAvKiAgICBjb2xvcjogIzJjM2U1MDsqLwogICAgLyogICAgbWFyZ2luLXRvcDogNjBweDsqLwogICAgLyp9Ki8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0iVnVlIGxvZ28iIHNyYz0iLi9hc3NldHMvbG9nby5wbmciPgogICAgICAgIDxIZWxsb1dvcmxkIG1zZz0iV2VsY29tZSB0byBZb3VyIFZ1ZS5qcyBBcHAiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGItYnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUtcHJpbWFyeSIgcGlsbD5GdWNrPC9iLWJ1dHRvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Yi1idXR0b24+SGVsbG88L2ItYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZiJ7cGF0aH0gcmVxdWVzdGVkISIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0iVnVlIGxvZ28iIHNyYz0iLi9hc3NldHMvbG9nby5wbmciPgogICAgICAgIDxIZWxsb1dvcmxkIG1zZz0iV2VsY29tZSB0byBZb3VyIFZ1ZS5qcyBBcHAiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
