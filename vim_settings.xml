@@ -43,9 +43,9 @@
         <entry encoding="base64">JzwsJz5zL2hvbWUvc2hvcC9n</entry>
         <entry encoding="base64">JzwsJz5zL215LTAvbXktNS9n</entry>
         <entry>%s/shadow-lg/shadow-sm/g</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -92,6 +92,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/package.json" timestamp="1587498254052">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/static/css/site.css" timestamp="1586680807520">
         <mark key="[" line="84" column="36" />
         <mark key="]" line="84" column="38" />
@@ -106,10 +111,10 @@
         <mark key="^" line="215" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587493495694">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="20" />
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/static/particles.json" timestamp="1586680560828">
         <mark key="[" line="59" column="16" />
@@ -117,27 +122,13 @@
         <mark key="." line="59" column="20" />
         <mark key="^" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/scss/custom.dark.scss" timestamp="1586674366583">
-        <mark key="'" line="287" column="49" />
-        <mark key="[" line="132" column="49" />
-        <mark key="]" line="132" column="49" />
-        <mark key="^" line="132" column="49" />
-        <mark key="." line="132" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587498676218">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587496270387">
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="6" />
-        <mark key="^" line="20" column="6" />
-        <mark key="." line="20" column="5" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/base.html" timestamp="1586668330468">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="119" column="114" />
-        <mark key="]" line="119" column="113" />
-        <mark key="." line="119" column="113" />
-        <mark key="^" line="119" column="113" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587495851051">
+      <file name="/Dummy.txt" timestamp="1587499399022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/blog.html" timestamp="1586677523235">
@@ -147,14 +138,14 @@
         <mark key="." line="174" column="14" />
         <mark key="^" line="174" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1587495123652">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="46" column="12" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1587498633979">
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="62" column="4" />
+        <mark key="^" line="62" column="4" />
+        <mark key="." line="62" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/HelloWorld.vue" timestamp="1587497101018">
-        <mark key="[" line="46" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/HelloWorld.vue" timestamp="1587498308746">
+        <mark key="[" line="46" column="11" />
         <mark key="]" line="46" column="6" />
         <mark key="." line="46" column="6" />
       </file>
@@ -302,10 +293,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHNjb3BlZA==</text>
+        <text>, render_template</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNjb3BlZA==</text>
+        <text>, render_template</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
@@ -314,34 +305,34 @@
         <text encoding="base64">PHN0eWxlIHNjb3BlZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgInBsdWdpbjp2dWUvYm9vdHN0cmFwIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZiBhcHBsaWVzIHRvIGJvdGggeCBhbmQgeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKiNhcHAgeyovCiAgICAvKiAgICBmb250LWZhbWlseTogQXZlbmlyLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyovCiAgICAvKiAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsqLwogICAgLyogICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTsqLwogICAgLyogICAgdGV4dC1hbGlnbjogY2VudGVyOyovCiAgICAvKiAgICBjb2xvcjogIzJjM2U1MDsqLwogICAgLyogICAgbWFyZ2luLXRvcDogNjBweDsqLwogICAgLyp9Ki8K</text>
+        <text encoding="base64">ZiBhcHBsaWVzIHRvIGJvdGggeCBhbmQgeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGItYnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUtcHJpbWFyeSIgcGlsbD5GdWNrPC9iLWJ1dHRvbj4K</text>
+        <text encoding="base64">CiAgICAvKiNhcHAgeyovCiAgICAvKiAgICBmb250LWZhbWlseTogQXZlbmlyLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyovCiAgICAvKiAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsqLwogICAgLyogICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTsqLwogICAgLyogICAgdGV4dC1hbGlnbjogY2VudGVyOyovCiAgICAvKiAgICBjb2xvcjogIzJjM2U1MDsqLwogICAgLyogICAgbWFyZ2luLXRvcDogNjBweDsqLwogICAgLyp9Ki8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGItYnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUtcHJpbWFyeSIgcGlsbD5GdWNrPC9iLWJ1dHRvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0iVnVlIGxvZ28iIHNyYz0iLi9hc3NldHMvbG9nby5wbmciPgogICAgICAgIDxIZWxsb1dvcmxkIG1zZz0iV2VsY29tZSB0byBZb3VyIFZ1ZS5qcyBBcHAiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Yi1idXR0b24+SGVsbG88L2ItYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0iVnVlIGxvZ28iIHNyYz0iLi9hc3NldHMvbG9nby5wbmciPgogICAgICAgIDxIZWxsb1dvcmxkIG1zZz0iV2VsY29tZSB0byBZb3VyIFZ1ZS5qcyBBcHAiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZiJ7cGF0aH0gcmVxdWVzdGVkISIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8Yi1idXR0b24+SGVsbG88L2ItYnV0dG9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZiJ7cGF0aH0gcmVxdWVzdGVkISIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
