@@ -1,0 +1,344 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.8" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/2074263336" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (sadmin)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\sadmin-t0fHv1w6\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/sadmin-t0fHv1w6/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/sadmin-t0fHv1w6/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/sadmin-t0fHv1w6" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/sadmin-t0fHv1w6/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-994590480" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/sadmin" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (3blue1brown)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\3blue1brown-0pvtCxdD\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/3blue1brown-0pvtCxdD/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/3blue1brown-0pvtCxdD/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/3blue1brown-0pvtCxdD" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/3blue1brown-0pvtCxdD/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-193827803" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/3blue1brown" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (sndalgo)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\sndalgo-KoMHHi1m\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/sndalgo-KoMHHi1m/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/sndalgo-KoMHHi1m/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/sndalgo-KoMHHi1m" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/sndalgo-KoMHHi1m/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/567843622" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/sndalgo" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (allmaths)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\allmaths-9iRCcyjX\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/allmaths-9iRCcyjX/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/allmaths-9iRCcyjX/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/allmaths-9iRCcyjX" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/allmaths-9iRCcyjX/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/allmaths-9iRCcyjX/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/allmaths-9iRCcyjX/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/allmaths-9iRCcyjX/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-2028647727" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/allmaths" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (dev137)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\dev137-xWwM8ToF\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/dev137-xWwM8ToF/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dev137-xWwM8ToF/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dev137-xWwM8ToF" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dev137-xWwM8ToF/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/833710692" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/dev137" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (gene)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\gene-jS-LigC4\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/gene-jS-LigC4/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/gene-jS-LigC4/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/gene-jS-LigC4" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/gene-jS-LigC4/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1734220598" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/gene" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (neurodial)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\neurodial-pOsLIsqF\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/neurodial-pOsLIsqF/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/neurodial-pOsLIsqF/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/neurodial-pOsLIsqF" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/neurodial-pOsLIsqF/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/neurodial-pOsLIsqF/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/neurodial-pOsLIsqF/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/neurodial-pOsLIsqF/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1075418278" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/neurodial" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (peers)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\peers-Vb9yQxRk\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/peers-Vb9yQxRk/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/peers-Vb9yQxRk/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/peers-Vb9yQxRk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/peers-Vb9yQxRk/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1223974091" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/peers" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (1111)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\1111-4E9cQyIY\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/1111-4E9cQyIY/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/1111-4E9cQyIY/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/1111-4E9cQyIY" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/1111-4E9cQyIY/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-34452743" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/1111" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (pydope)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\pydope-yfsZiq3Q\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/pydope-yfsZiq3Q/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/pydope-yfsZiq3Q/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/pydope-yfsZiq3Q" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/pydope-yfsZiq3Q/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/2007262267" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/pydope" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (curriculum)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\jhlax\.virtualenvs\curriculum-Zn596-zP\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/curriculum-Zn596-zP/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/curriculum-Zn596-zP/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/curriculum-Zn596-zP" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/curriculum-Zn596-zP/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1474988418" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/curriculum" IS_PIPENV="true" />
+    </jdk>
+  </component>
+</application>
