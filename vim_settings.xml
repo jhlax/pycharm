@@ -32,7 +32,6 @@
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz4vJF4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Zsb2F0L25wLmZsb2F0NjQvZw==</entry>
-        <entry>q</entry>
         <entry>q!</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -46,6 +45,7 @@
         <entry>%s/shadow-lg/shadow-sm/g</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -92,24 +92,52 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/1111/sandbox.py" timestamp="1585992367896">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="63" column="13" />
-        <mark key="]" line="63" column="12" />
-        <mark key="." line="63" column="12" />
-        <mark key="^" line="63" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/dev137/web/static/css/site.css" timestamp="1586680807520">
+        <mark key="[" line="84" column="36" />
+        <mark key="]" line="84" column="38" />
+        <mark key="^" line="84" column="38" />
+        <mark key="." line="84" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587492104221">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/dev137/game plan.md" timestamp="1587492097108">
+        <mark key="'" line="220" column="0" />
+        <mark key="[" line="213" column="11" />
+        <mark key="]" line="215" column="19" />
+        <mark key="." line="215" column="19" />
+        <mark key="^" line="215" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/1111/o4/personal/music/waveforms.py" timestamp="1586600522797">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="101" column="43" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587493495694">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1586514751367">
+      <file name="$USER_HOME$/PycharmProjects/dev137/web/static/particles.json" timestamp="1586680560828">
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="59" column="20" />
+        <mark key="." line="59" column="20" />
+        <mark key="^" line="59" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dev137/web/scss/custom.dark.scss" timestamp="1586674366583">
+        <mark key="'" line="287" column="49" />
+        <mark key="[" line="132" column="49" />
+        <mark key="]" line="132" column="49" />
+        <mark key="^" line="132" column="49" />
+        <mark key="." line="132" column="49" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587496270387">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/base.html" timestamp="1586668330468">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="119" column="114" />
+        <mark key="]" line="119" column="113" />
+        <mark key="." line="119" column="113" />
+        <mark key="^" line="119" column="113" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587495851051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/blog.html" timestamp="1586677523235">
@@ -119,36 +147,16 @@
         <mark key="." line="174" column="14" />
         <mark key="^" line="174" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/static/css/site.css" timestamp="1586680807520">
-        <mark key="[" line="84" column="36" />
-        <mark key="]" line="84" column="38" />
-        <mark key="^" line="84" column="38" />
-        <mark key="." line="84" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1587495123652">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="46" column="12" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/home.py" timestamp="1586646494355">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/shop.py" timestamp="1586648847849">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/game plan.md" timestamp="1587492097108">
-        <mark key="'" line="220" column="0" />
-        <mark key="[" line="213" column="11" />
-        <mark key="]" line="215" column="19" />
-        <mark key="." line="215" column="19" />
-        <mark key="^" line="215" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/static/particles.json" timestamp="1586680560828">
-        <mark key="[" line="59" column="16" />
-        <mark key="]" line="59" column="20" />
-        <mark key="." line="59" column="20" />
-        <mark key="^" line="59" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/HelloWorld.vue" timestamp="1587497101018">
+        <mark key="[" line="46" column="6" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/services.html" timestamp="1586681224307">
         <mark key="[" line="178" column="0" />
@@ -156,43 +164,23 @@
         <mark key="^" line="177" column="38" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/scss/custom.dark.scss" timestamp="1586674366583">
-        <mark key="'" line="287" column="49" />
-        <mark key="[" line="132" column="49" />
-        <mark key="]" line="132" column="49" />
-        <mark key="^" line="132" column="49" />
-        <mark key="." line="132" column="49" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" timestamp="1586677867036">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/1111/webwork.py" timestamp="1586543913383">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="80" column="72" />
-        <mark key="]" line="80" column="72" />
-        <mark key="." line="80" column="72" />
-        <mark key="^" line="80" column="72" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1587497362055">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/index.html" timestamp="1586679162682">
         <mark key="[" line="51" column="14" />
         <mark key="]" line="51" column="14" />
         <mark key="." line="51" column="14" />
         <mark key="^" line="51" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/1111/o4/personal/music/pyplant.py" timestamp="1586591268725">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/__init__.py" timestamp="1586648992217">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/scss/custom.light.scss" timestamp="1587491097456">
         <mark key="[" line="6" column="15" />
@@ -206,13 +194,6 @@
         <mark key="]" line="195" column="49" />
         <mark key="." line="195" column="49" />
         <mark key="^" line="195" column="49" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/base.html" timestamp="1586668330468">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="119" column="114" />
-        <mark key="]" line="119" column="113" />
-        <mark key="." line="119" column="113" />
-        <mark key="^" line="119" column="113" />
       </file>
     </filemarks>
     <jumps>
@@ -320,48 +301,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1ha2VmaWxlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHNjb3BlZA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHNjb3BlZA==</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmZhZGVfaW5fc2xvdyB7CiAgICBhbmltYXRpb246IGZhZGVJbkFuaW1hdGlvbiBlYXNlIDIuM3M7CiAgICBhbmltYXRpb24taXRlcmF0aW9uLWNvdW50OiAxOwogICAgYW5pbWF0aW9uLWZpbGwtbW9kZTogZm9yd2FyZHM7Cn0KCg==</text>
+        <text encoding="base64">PHN0eWxlIHNjb3BlZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1ha2VmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERFUEVOREVOQ0lFUy5tZAo=</text>
+        <text encoding="base64">ZiBhcHBsaWVzIHRvIGJvdGggeCBhbmQgeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBjb25maWd1cmF0aW9ucwo=</text>
+        <text encoding="base64">CiAgICAvKiNhcHAgeyovCiAgICAvKiAgICBmb250LWZhbWlseTogQXZlbmlyLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOyovCiAgICAvKiAgICAtd2Via2l0LWZvbnQtc21vb3RoaW5nOiBhbnRpYWxpYXNlZDsqLwogICAgLyogICAgLW1vei1vc3gtZm9udC1zbW9vdGhpbmc6IGdyYXlzY2FsZTsqLwogICAgLyogICAgdGV4dC1hbGlnbjogY2VudGVyOyovCiAgICAvKiAgICBjb2xvcjogIzJjM2U1MDsqLwogICAgLyogICAgbWFyZ2luLXRvcDogNjBweDsqLwogICAgLyp9Ki8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGItYnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUtcHJpbWFyeSIgcGlsbD5GdWNrPC9iLWJ1dHRvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGhlc2UgdmFyeSBvbiBkb21haW4gbmFtZS4K</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0iVnVlIGxvZ28iIHNyYz0iLi9hc3NldHMvbG9nby5wbmciPgogICAgICAgIDxIZWxsb1dvcmxkIG1zZz0iV2VsY29tZSB0byBZb3VyIFZ1ZS5qcyBBcHAiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIyMgZXhhbXBsZQoKZm9yIGEgY29tcGFueSBfWFlaIENvbXBhbnksIExMQ18sIHdlIHdvdWxkIGF0dGVtcHQgdG8gYWNxdWlyZToKCjEuIGB4eXouY29tYCAocHJvYmFibHkgaW1wb3NzaWJsZSBvciAuLi4gKnZlcnkqIHVuYWZmb3JkYWJsZSkKMS4gYHh5emNvLmNvbWAgKGFueXRoaW5nIGluIGAuY29tYCB0aGF0IGlzbid0IG5vbnNlbnNlPykKMS4gYHh5ei5jb2AgKFhZWiBkb3QgQ28gX21wYW55XykKMS4gYHh5emNvbXBhbnkuY29tYCAoYW5kIG90aGVyIGVuZGluZ3MgYmVzaWRlcyBgLmNvbWApCjEuIGBnb3h5ei5jb2AgKHNob3J0LiBjYXRjaHksIGFuZCBub3Qgbm9uc2Vuc2UpCjEuIGB4dHJlbWV5b2dhemVuLmNvbWAgKGZvciB0aGUgZnVsbCBuYW1lLCB3aGljaCBuZXZlciBodXJ0cykKCg==</text>
+        <text encoding="base64">ICAgICAgICA8Yi1idXR0b24+SGVsbG88L2ItYnV0dG9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29tcGFueSBuYW1lCjogeHl6IGxsYwo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZiJ7cGF0aH0gcmVxdWVzdGVkISIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text>[company name]
-    sdfdf</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
