@@ -161,11 +161,11 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1587497362055">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1587501626986">
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="12" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/index.html" timestamp="1586679162682">
         <mark key="[" line="51" column="14" />
