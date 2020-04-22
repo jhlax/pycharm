@@ -34,7 +34,6 @@
         <entry encoding="base64">JzwsJz5zL2Zsb2F0L25wLmZsb2F0NjQvZw==</entry>
         <entry>q!</entry>
         <entry>e</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL2hlYWRlci9mb290ZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Zvb3Rlci9wYWdlX2NvbnRlbnQvZw==</entry>
         <entry encoding="base64">JzwsJz48Mg==</entry>
@@ -46,6 +45,7 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -133,14 +133,16 @@
         <mark key="." line="59" column="20" />
         <mark key="^" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587540335353">
-        <mark key="[" line="188" column="38" />
-        <mark key="]" line="269" column="22" />
-        <mark key="." line="269" column="21" />
-        <mark key="^" line="269" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587543883131">
+        <mark key="'" line="342" column="6" />
+        <mark key="[" line="265" column="31" />
+        <mark key="]" line="265" column="37" />
+        <mark key="." line="265" column="36" />
+        <mark key="^" line="265" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587538145045">
+      <file name="/Dummy.txt" timestamp="1587542102316">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1587498633979">
         <mark key="[" line="61" column="13" />
@@ -187,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="42" column="21" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="48" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
@@ -287,51 +288,52 @@
       <jump line="17" column="12" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/FrontPage.vue" />
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/FrontPage.vue" />
       <jump line="12" column="15" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="342" column="6" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNSBjbGFzcz0ibWItMyI+SW5wdXQ8L2g1Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiLXRleHRhcmVhIHYtbW9kZWw9ImZvcm11bGEiIGNvbHM9IjMwIiByb3dzPSIxMCIgY2xhc3M9Im1iLTUiPgoKICAgICAgICAgICAgICAgIDwvYi10ZXh0YXJlYT4KCg==</text>
+        <text encoding="base64">ICAgIEBpbXBvcnQgIi4vYXNzZXRzL2ZvbnRzLmNzcyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNSBjbGFzcz0ibWItMyI+SW5wdXQ8L2g1Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2dWUtbWFya2Rvd24gOnNvdXJjZT0ibWFya2Rvd24iIGNsYXNzPSJwLTUiPjwvdnVlLW1hcmtkb3duPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNSBjbGFzcz0ibWItMyI+T3V0cHV0PC9oNT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXdlaWdodDogbGlnaHRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNSBjbGFzcz0ibWItMyI+SW5wdXQ8L2g1Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjb3JlLWpzIjogIl4zLjYuNCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLW9wYWNpdHk6IDAuNSAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBib2R5IHsKICAgICAgICBoZWlnaHQ6IDEwMCU7CiAgICB9CgogICAgZGl2I2FwcCB7CiAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0byBzZWUgYSBjaGVhdCBzaGVldCBmb3Igc3ludHguCg==</text>
+        <text encoding="base64">ICAgIGNvZGUgewogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1hdGhqYXggPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChtYXRoamF4KTsK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDAwICFpbXBvcnRhbnQ7CiAgICAgICAgY29sb3I6ICNmZmYgIWltcG9ydGFudDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDNweCAhaW1wb3J0YW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
