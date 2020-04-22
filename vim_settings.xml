@@ -133,11 +133,11 @@
         <mark key="." line="59" column="20" />
         <mark key="^" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587539042580">
-        <mark key="[" line="211" column="57" />
-        <mark key="]" line="211" column="45" />
-        <mark key="." line="211" column="44" />
-        <mark key="^" line="211" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587539530467">
+        <mark key="[" line="202" column="68" />
+        <mark key="]" line="202" column="69" />
+        <mark key="." line="202" column="68" />
+        <mark key="^" line="202" column="69" />
       </file>
       <file name="/Dummy.txt" timestamp="1587538145045">
         <mark key="[" line="0" column="0" />
@@ -291,11 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
