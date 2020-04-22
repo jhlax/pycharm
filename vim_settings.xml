@@ -42,11 +42,11 @@
         <entry encoding="base64">JzwsJz5zL215LTAvbXktNS9n</entry>
         <entry>%s/shadow-lg/shadow-sm/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>Wq</entry>
+        <entry>wq</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,20 +122,21 @@
         <mark key="." line="54" column="26" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587556101036">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587557650337">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="71" />
+        <mark key="." line="8" column="70" />
+        <mark key="^" line="8" column="71" />
       </file>
       <file name="/JavaScript Console" timestamp="1587555639274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587556401807">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587558956074">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="179" column="20" />
+        <mark key="]" line="181" column="31" />
+        <mark key="." line="181" column="30" />
+        <mark key="^" line="181" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/CodePrism.vue" timestamp="1587555751712">
         <mark key="[" line="8" column="32" />
@@ -143,13 +144,20 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/base.html" timestamp="1587559171805">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="119" column="114" />
+        <mark key="]" line="119" column="113" />
+        <mark key="." line="119" column="113" />
+        <mark key="^" line="119" column="113" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/MathJax.vue" timestamp="1587552637609">
         <mark key="[" line="3" column="65" />
         <mark key="]" line="3" column="71" />
         <mark key="." line="3" column="70" />
         <mark key="^" line="3" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587546095005">
+      <file name="/Dummy.txt" timestamp="1587557655293">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -164,6 +172,13 @@
         <mark key="]" line="46" column="6" />
         <mark key="." line="46" column="6" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" timestamp="1587559047655">
+        <mark key="'" line="25" column="36" />
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1587501626986">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -177,37 +192,21 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/static/js/main.js" timestamp="1587553445604">
-        <mark key="'" line="55" column="75" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="59" />
-        <mark key="." line="195" column="49" />
-        <mark key="^" line="195" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/dev137/web/static/js/main.js" timestamp="1587559074175">
+        <mark key="'" line="54" column="75" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="194" column="49" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" timestamp="1587559022767">
+        <mark key="[" line="68" column="76" />
+        <mark key="]" line="68" column="77" />
+        <mark key="." line="68" column="76" />
+        <mark key="^" line="68" column="77" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="63" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="69" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="71" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="73" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="77" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="79" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="93" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="95" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="107" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="112" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="114" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="125" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="127" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="131" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="137" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="139" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="142" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="144" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="147" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="149" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="154" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
@@ -286,6 +285,28 @@
       <jump line="137" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="139" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="146" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
+      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
+      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
+      <jump line="88" column="35" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="311" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="307" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="298" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="286" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="284" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="282" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="276" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="271" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="263" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="259" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="255" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="239" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="233" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="238" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="247" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
+      <jump line="25" column="36" filename="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,13 +315,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHYtZGVkZW50IHYtaGlnaGxpZ2h0IGNsYXNzPSJsYW5ndWFnZS1weXRob24i</text>
+        <text encoding="base64">IHYtaGlnaGxpZ2h0</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
       </register>
-      <register name="0" type="8">
-        <text>;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0aW9uICgpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICBzdHJpcGU6IHVuZGVmaW5lZCwKICAgICAgICAgICAgY2FyZDogdW5kZWZpbmVkLAogICAgICAgICAgICBtc2c6IHVuZGVmaW5lZCwKICAgICAgICAgICAgZXJyOiB1bmRlZmluZWQsCiAgICAgICAgICAgIHBheUFtb3VudDogIiQxMDAuMDAiLAogICAgICAgICAgICBsb2NrU3VibWl0OiBmYWxzZSwKCiAgICAgICAgfQogICAgfSwKICAgIHRlbXBsYXRlOiBgCiAgICAgICAgPGRpdiBjbGFzcz0icm93IGZhZGVfaW5fc2xvdyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0xMiBvZmZzZXQtc20tMCBjb2wtbWQtMTIgb2Zmc2V0LW1kLTAgY29sLWxnLTEwIG9mZnNldC1sZy0xIGNvbC14bC04IG9mZnNldC14bC0yIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgc2hhZG93Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgICAgICAgICA8Zm9ybSBpZD0ic3RyaXBlLXBheW1lbnQtZm9ybSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDUgY2xhc3M9InNhbnMtc2VyaWYgZm9udC13ZWlnaHQtbGlnaHQiPkNyZWRpdCBDYXJkIFBheW1lbnQ8L2g1PgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LW11dGVkIHRleHQtc21hbGxjYXBzIj5hIHt7cGF5QW1vdW50fX0gY2hhcmdlIHdpbGwgYmUgcGxhY2VkIG9uIHlvdXIgY2FyZC48L3A+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGhyPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBmbGV4LXdyYXAgbXQtNCBwLTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC04IGgtMTAwIG15LTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHJlZj0iY2FyZCIgY2xhc3M9Im0tMyBteC1uMyBiZy13aGl0ZSBmb3JtLWNvbnRyb2wtc20gYm9yZGVyLWdvbGQgc2hhZG93LWxnIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00IHRleHQteGwtbGVmdCB0ZXh0LXNtLWNlbnRlciB0ZXh0LW1kLWNlbnRlciB0ZXh0LWxnLWNlbnRlciI+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQgdGV4dC1jZW50ZXIgbXktMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InctMTAwIG1iLTMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiA6ZGlzYWJsZWQ9ImxvY2tTdWJtaXQiIHYtY2xvYWsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tc20gZmxleC1maWxsIG0tMyBtbC1uMyBtci00IiBpZD0ic3VibWl0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LW9uOmNsaWNrLnByZXZlbnQ9InB1cmNoYXNlKCkiPlBheSBOb3cKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3d3dy5zdHJpcGUuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii9zdGF0aWMvaW1nL3N0cmlwZS5wbmciIHdpZHRoPSIxMDAiIGFsdD0iIiBjbGFzcz0iaC1hdXRvIG0tbjMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWlmPSJtc2ciIGNsYXNzPSJtYi1uNCBteC1uMyBmYWRlX2luIiBpZD0iY2FyZC1zdWNjZXNzIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImJvcmRlciBhbGVydCBhbGVydC1zdWNjZXNzIGJvcmRlci1zdWNjZXNzIHRleHQtY2VudGVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InAtMCBtbC1uMyBtYi0zIHJvdW5kZWQtc20gZmFkZV9pbl9zbG93Ij57e21zZ319PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWlmPSJlcnIiIGNsYXNzPSJtYi1uNCBteC1uMyBmYWRlX2luIiBpZD0iY2FyZC1lcnJvciIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJib3JkZXIgYWxlcnQgYWxlcnQtZGFuZ2VyIGJvcmRlci1kYW5nZXIgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icC0wIG1sLW4zIG1iLTMgcm91bmRlZC1zbSBmYWRlX2luX3Nsb3ciPnt7ZXJyfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZm9ybT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIGAsCiAgICBtZXRob2RzOiB7CiAgICAgICAgcHVyY2hhc2UoKSB7CiAgICAgICAgICAgIHZhciBzZWxmID0gdGhpczsKCiAgICAgICAgICAgIGlmIChzZWxmLmxvY2tTdWJtaXQpIHsKICAgICAgICAgICAgICAgIHNlbGYuZXJyID0gIlRoZSB0cmFuc2FjdGlvbiBoYXMgYWxyZWFkeSBiZWVuIGNvbXBsZXRlZC4iCiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHNlbGYubG9ja1N1Ym1pdCA9IHRydWU7CiAgICAgICAgICAgIHNlbGYuc3RyaXBlLmNyZWF0ZVRva2VuKHNlbGYuY2FyZCkudGhlbihmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgICAgICAgICBpZiAocmVzLmVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgc2VsZi5lcnIgPSByZXMuZXJyb3IubWVzc2FnZTsKICAgICAgICAgICAgICAgICAgICBzZWxmLiRmb3JjZVVwZGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIHNlbGYubG9ja1N1Ym1pdCA9IGZhbHNlOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBzZWxmLnByb2Nlc3NUcmFuc2FjdGlvbihyZXMudG9rZW4uaWQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KS5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgICAgICAgICBhbGVydChlcnIubWVzc2FnZSk7CiAgICAgICAgICAgICAgICBzZWxmLmxvY2tTdWJtaXQgPSBmYWxzZTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSwKICAgICAgICBwcm9jZXNzVHJhbnNhY3Rpb24odG9rZW4pIHsKICAgICAgICAgICAgdGhpcy5tc2cgPSAiUHVyY2hhc2Ugc3VjY2Vzc2Z1bGx5IGNvbXBsZXRlZC4iOwogICAgICAgICAgICB0aGlzLmVyciA9IHVuZGVmaW5lZDsKICAgICAgICAgICAgdGhpcy5sb2NrU3VibWl0ID0gdHJ1ZTsKICAgICAgICB9CiAgICB9LAogICAgbW91bnRlZDogZnVuY3Rpb24gKCkgewogICAgICAgIHZhciBzZWxmID0gdGhpczsKICAgICAgICBzZWxmLnN0cmlwZSA9IFN0cmlwZSgncGtfdGVzdF8yRXQzdVpuYXpXdW42MExKc2dwY3NTSVkwMGl6dVNKeGZLJyk7CiAgICAgICAgc2VsZi5jYXJkID0gc2VsZi5zdHJpcGUuZWxlbWVudHMoKS5jcmVhdGUoImNhcmQiKTsKICAgICAgICBzZWxmLmNhcmQubW91bnQoc2VsZi4kcmVmcy5jYXJkKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -309,28 +330,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVnVlUHJpc20sCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTogYAogICAgICAgICAgIGAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cmF3Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIDxmdWNrIT8+PC9mdWNrPgogICAgICAgICAgICAgICAgICAgIDwvcmF3Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgZmFkZV9pbl9zbG93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTEyIG9mZnNldC1zbS0wIGNvbC1tZC0xMiBvZmZzZXQtbWQtMCBjb2wtbGctMTAgb2Zmc2V0LWxnLTEgY29sLXhsLTggb2Zmc2V0LXhsLTIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZCBzaGFkb3ciPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmb3JtIGlkPSJzdHJpcGUtcGF5bWVudC1mb3JtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNSBjbGFzcz0ic2Fucy1zZXJpZiBmb250LXdlaWdodC1saWdodCI+Q3JlZGl0IENhcmQgUGF5bWVudDwvaDU+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtbXV0ZWQgdGV4dC1zbWFsbGNhcHMiPmEge3twYXlBbW91bnR9fSBjaGFyZ2Ugd2lsbCBiZSBwbGFjZWQgb24geW91ciBjYXJkLjwvcD4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aHI+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IGZsZXgtd3JhcCBtdC00IHAtMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTggaC0xMDAgbXktMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgcmVmPSJjYXJkIiBjbGFzcz0ibS0zIG14LW4zIGJnLXdoaXRlIGZvcm0tY29udHJvbC1zbSBib3JkZXItZ29sZCBzaGFkb3ctbGciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQgdGV4dC14bC1sZWZ0IHRleHQtc20tY2VudGVyIHRleHQtbWQtY2VudGVyIHRleHQtbGctY2VudGVyIj4tLT4KICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNCB0ZXh0LWNlbnRlciBteS0yIj4KICAgICAgICAgICA8ZGl2IGNsYXNzPSJ3LTEwMCBtYi0zIj4KICAgICAgICAgICA8YnV0dG9uIDpkaXNhYmxlZD0ibG9ja1N1Ym1pdCIgdi1jbG9hawogICAgICAgICAgIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXNtIGZsZXgtZmlsbCBtLTMgbWwtbjMgbXItNCIgaWQ9InN1Ym1pdCIKICAgICAgICAgICB2LW9uOmNsaWNrLnByZXZlbnQ9InB1cmNoYXNlKCkiPlBheSBOb3cKICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnN0cmlwZS5jb20vIiB0YXJnZXQ9Il9ibGFuayI+LS0+CiAgICAgICAgICAgPGltZyBzcmM9Ii9zdGF0aWMvaW1nL3N0cmlwZS5wbmciIHdpZHRoPSIxMDAiIGFsdD0iIiBjbGFzcz0iaC1hdXRvIG0tbjMiPgogICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPi0tPgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICA8ZGl2IHYtaWY9Im1zZyIgY2xhc3M9Im1iLW40IG14LW4zIGZhZGVfaW4iIGlkPSJjYXJkLXN1Y2Nlc3MiIHJvbGU9ImFsZXJ0Ij4KICAgICAgICAgICA8cCBjbGFzcz0iYm9yZGVyIGFsZXJ0IGFsZXJ0LXN1Y2Nlc3MgYm9yZGVyLXN1Y2Nlc3MgdGV4dC1jZW50ZXIiPgogICAgICAgICAgIDxzcGFuIGNsYXNzPSJwLTAgbWwtbjMgbWItMyByb3VuZGVkLXNtIGZhZGVfaW5fc2xvdyI+e3ttc2d9fTwvc3Bhbj4KICAgICAgICAgICA8L3A+CiAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgPGRpdiB2LWlmPSJlcnIiIGNsYXNzPSJtYi1uNCBteC1uMyBmYWRlX2luIiBpZD0iY2FyZC1lcnJvciIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgIDxwIGNsYXNzPSJib3JkZXIgYWxlcnQgYWxlcnQtZGFuZ2VyIGJvcmRlci1kYW5nZXIgdGV4dC1jZW50ZXIiPgogICAgICAgICAgIDxzcGFuIGNsYXNzPSJwLTAgbWwtbjMgbWItMyByb3VuZGVkLXNtIGZhZGVfaW5fc2xvdyI+e3tlcnJ9fTwvc3Bhbj4KICAgICAgICAgICA8L3A+CiAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGU8L3Rlc3Q+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZUNvZGVIaWdobGlnaHQgZnJvbSAidnVlLWNvZGUtaGlnaGxpZ2h0IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz5UZXN0cz88L2gzPgoKICAgICAgICAgICAgICAgIDxwcmU+PGNvZGUgdi1kZWRlbnQgdi1oaWdobGlnaHQgY2xhc3M9Imxhbmd1YWdlLWphdmFzY3JpcHQiPgogICAgICAgICAgICAgICAgICAgIHZhciBhID0gZnVuY3Rpb24oKSB7IHRoaXMudm0gPSBhOyB9OwogICAgICAgICAgICAgICAgPC9jb2RlPjwvcHJlPgogICAgICAgICAgICAgICAgPHByZT48Y29kZSB2LWRlZGVudCB2LWhpZ2hsaWdodCBjbGFzcz0ibGFuZ3VhZ2UtcHl0aG9uIj4KICAgICAgICAgICAgICAgICAgICBhID0gbGFtYmRhIF86IF8gKiogMgogICAgICAgICAgICAgICAgPC9jb2RlPjwvcHJlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVDb2RlSGlnaGxpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUoKSB7CiAgICAgICAgICAgIFZ1ZVByaXNtLgogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdwcmlzbSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAiYXNzZXRzL3ByaXNtIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVnVlUHJpc20sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
