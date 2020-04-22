@@ -117,11 +117,11 @@
         <mark key="." line="215" column="19" />
         <mark key="^" line="215" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587493495694">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587518447104">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/static/particles.json" timestamp="1586680560828">
         <mark key="[" line="59" column="16" />
@@ -129,11 +129,11 @@
         <mark key="." line="59" column="20" />
         <mark key="^" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587514765307">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="4" column="68" />
-        <mark key="^" line="4" column="68" />
-        <mark key="." line="4" column="67" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587518718779">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="86" />
+        <mark key="." line="37" column="85" />
+        <mark key="^" line="37" column="86" />
       </file>
       <file name="/Dummy.txt" timestamp="1587499399022">
         <mark key="[" line="0" column="0" />
@@ -167,12 +167,11 @@
         <mark key="." line="51" column="14" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/FrontPage.vue" timestamp="1587515253010">
-        <mark key="'" line="27" column="12" />
-        <mark key="[" line="6" column="101" />
-        <mark key="]" line="8" column="125" />
-        <mark key="." line="8" column="124" />
-        <mark key="^" line="8" column="125" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/FrontPage.vue" timestamp="1587517581752">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/scss/custom.light.scss" timestamp="1587491097456">
         <mark key="[" line="6" column="15" />
@@ -293,11 +292,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Git</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFZ1ZU1hdGhqYXggZnJvbSAndnVlLW1hdGhqYXgnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Git</text>
+        <text>https://www.google.com/recaptcha/api.js</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
@@ -306,34 +305,34 @@
         <text encoding="base64">PHN0eWxlIHNjb3BlZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEEgbmV3IHdheSB0byB3ZWJ6Lgo=</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZU1hdGhqYXggZnJvbSAndnVlLW1hdGhqYXgnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEhlbGxvV29ybGQgbXNnPSJXZWxjb21lIHRvIFlvdXIgVnVlLmpzIEFwcCIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBIZWxsb1dvcmxkIGZyb20gJy4vY29tcG9uZW50cy9IZWxsb1dvcmxkLnZ1ZScK</text>
+        <text encoding="base64">ICAgIGxldCBzdHJpcGVTY3JpcHQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgIHN0cmlwZVNjcmlwdC5zZXRBdHRyaWJ1dGUoJ3NyYycsICdodHRwczovL2pzLnN0cmlwZS5jb20vdjMvJyk7CiAgICBkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKHN0cmlwZVNjcmlwdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVsbG9Xb3JsZAo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vanMuc3RyaXBlLmNvbS92My8iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">VnVlLmNvbmZpZy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxiLWNvbnRhaW5lcj4KCiAgICA8L2ItY29udGFpbmVyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBQbGF0Zm9ybSBEZXZlbG9wbWVudCAoZG93biB0aGUgcm9hZCBpZiBhdCBhbGwsIHdoaWNoIEkgZG8gYnV0IHRha2VzIGEgZmV3IG1vbnRocykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg0PklkZWFzPC9oND4KICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgIDxiLWxpbmsgaHJlZj0iaHR0cHM6Ly9nb2dzLmlvLyI+R29nczwvYi1saW5rPgogICAgICAgICAgICAgICAgICAgIGZvciBpbnRlcm5hbCBzZWxmLWhvc3RpbmcgR2l0LgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICA8Yi1saW5rIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9hcGVydHVyZWxlc3MvdnVlLWNoYXJ0anMiPnZ1ZS1jaGFydGpzPC9iLWxpbms+CiAgICAgICAgICAgICAgICAgICAgZm9yIGNoYXJ0aW5nIDxlbT5mb3Igbm93LjwvZW0+PC9saT4KICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICA8Yi1saW5rIGhyZWY9Imh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL3Z1ZS1tYXRoamF4Ij52dWUtbWF0aGpheDwvYi1saW5rPgogICAgICAgICAgICAgICAgICAgIGZvciA8ZW0+bWF0aGVtYXRpY3MuPC9lbT48L2xpPgogICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Tm90aGluZyBob3VybHkganVzdCBmbGF0Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>- Multi-DNS</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZyb250UGFnZS8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
