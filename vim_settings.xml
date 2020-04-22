@@ -45,8 +45,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Wq</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -157,7 +157,7 @@
         <mark key="." line="3" column="70" />
         <mark key="^" line="3" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587557655293">
+      <file name="/Dummy.txt" timestamp="1587559828148">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
