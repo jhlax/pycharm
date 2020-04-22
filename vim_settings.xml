@@ -129,11 +129,11 @@
         <mark key="." line="59" column="20" />
         <mark key="^" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587526134403">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="86" />
-        <mark key="." line="37" column="85" />
-        <mark key="^" line="37" column="86" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587532320887">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1587499399022">
         <mark key="[" line="0" column="0" />
@@ -292,11 +292,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFZ1ZU1hdGhqYXggZnJvbSAndnVlLW1hdGhqYXgnCg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.google.com/recaptcha/api.js</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
