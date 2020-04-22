@@ -133,14 +133,14 @@
         <mark key="." line="59" column="20" />
         <mark key="^" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587543883131">
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587545158800">
         <mark key="'" line="342" column="6" />
-        <mark key="[" line="265" column="31" />
-        <mark key="]" line="265" column="37" />
-        <mark key="." line="265" column="36" />
-        <mark key="^" line="265" column="37" />
+        <mark key="[" line="327" column="31" />
+        <mark key="]" line="327" column="35" />
+        <mark key="." line="327" column="34" />
+        <mark key="^" line="327" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587542102316">
+      <file name="/Dummy.txt" timestamp="1587546095005">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -293,17 +293,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNSBjbGFzcz0ibWItMyI+SW5wdXQ8L2g1Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>light</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>light</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBpbXBvcnQgIi4vYXNzZXRzL2ZvbnRzLmNzcyI7Cg==</text>
+        <text encoding="base64">ICAgIC8qQGltcG9ydCAiLi9hc3NldHMvY3VzdG9tLmxpZ2h0LmNzcyI7Ki8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNSBjbGFzcz0ibWItMyI+SW5wdXQ8L2g1Pgo=</text>
