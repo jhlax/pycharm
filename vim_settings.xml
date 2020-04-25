@@ -99,13 +99,6 @@
         <mark key="^" line="195" column="4" />
         <mark key="." line="195" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" timestamp="1587551234991">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="7" />
-        <mark key="^" line="59" column="8" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587557650337">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="71" />
@@ -117,9 +110,6 @@
         <mark key="]" line="85" column="62" />
         <mark key="^" line="85" column="62" />
         <mark key="." line="85" column="61" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1587555639274">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/util.py" timestamp="1587809670656">
         <mark key="[" line="13" column="35" />
@@ -135,12 +125,6 @@
         <mark key="." line="181" column="30" />
         <mark key="^" line="181" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/CodePrism.vue" timestamp="1587555751712">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="32" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/base.html" timestamp="1587559171805">
         <mark key="'" line="27" column="4" />
         <mark key="[" line="119" column="114" />
@@ -148,18 +132,16 @@
         <mark key="." line="119" column="113" />
         <mark key="^" line="119" column="113" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/MathJax.vue" timestamp="1587552637609">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="3" column="71" />
-        <mark key="." line="3" column="70" />
-        <mark key="^" line="3" column="71" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587810437090">
+      <file name="/Dummy.txt" timestamp="1587811081904">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/1111/o4/personal/music/waveforms.py" timestamp="1587811255397" />
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1587809124453" />
       <file name="$USER_HOME$/PycharmProjects/sndalgo/scripts/pnote" timestamp="1587810627596" />
+      <file name="/Sound Stuff - Splines, Oscillators" timestamp="1587811156396">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/pitch.py" timestamp="1587809562179" />
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" timestamp="1587559047655">
         <mark key="'" line="25" column="36" />
@@ -167,6 +149,9 @@
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
+      </file>
+      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1587810921440">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/models/audio/oscil.py" timestamp="1587809436501" />
       <file name="$USER_HOME$/PycharmProjects/dev137/web/static/js/main.js" timestamp="1587559074175">
@@ -182,6 +167,7 @@
         <mark key="." line="68" column="76" />
         <mark key="^" line="68" column="77" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" timestamp="1587810862734" />
     </filemarks>
     <jumps>
       <jump line="149" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
