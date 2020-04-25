@@ -92,21 +92,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/babel.config.js" timestamp="1587537795685">
-        <mark key="[" line="3" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1587510168623">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="226" />
-        <mark key="]" line="71" column="226" />
-        <mark key="^" line="71" column="226" />
-        <mark key="." line="71" column="225" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/package.json" timestamp="1587537942906">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" timestamp="1587810321263">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="212" column="13" />
+        <mark key="]" line="195" column="4" />
+        <mark key="^" line="195" column="4" />
+        <mark key="." line="195" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" timestamp="1587551234991">
         <mark key="'" line="62" column="0" />
@@ -115,22 +106,28 @@
         <mark key="." line="59" column="7" />
         <mark key="^" line="59" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/LoremIpsum.vue" timestamp="1587550934028">
-        <mark key="'" line="2" column="4" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="27" />
-        <mark key="." line="54" column="26" />
-        <mark key="^" line="54" column="27" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587557650337">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="71" />
         <mark key="." line="8" column="70" />
         <mark key="^" line="8" column="71" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/waves.py" timestamp="1587809782353">
+        <mark key="[" line="85" column="63" />
+        <mark key="]" line="85" column="62" />
+        <mark key="^" line="85" column="62" />
+        <mark key="." line="85" column="61" />
+      </file>
       <file name="/JavaScript Console" timestamp="1587555639274">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/util.py" timestamp="1587809670656">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="34" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/scripts/synadd" timestamp="1587810462818" />
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587558956074">
         <mark key="'" line="251" column="0" />
         <mark key="[" line="179" column="20" />
@@ -157,21 +154,13 @@
         <mark key="." line="3" column="70" />
         <mark key="^" line="3" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587559828148">
+      <file name="/Dummy.txt" timestamp="1587810437090">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1587498633979">
-        <mark key="[" line="61" column="13" />
-        <mark key="]" line="62" column="4" />
-        <mark key="^" line="62" column="4" />
-        <mark key="." line="62" column="3" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/HelloWorld.vue" timestamp="1587498308746">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="6" />
-        <mark key="." line="46" column="6" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1587809124453" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/scripts/pnote" timestamp="1587810627596" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/pitch.py" timestamp="1587809562179" />
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" timestamp="1587559047655">
         <mark key="'" line="25" column="36" />
         <mark key="[" line="25" column="21" />
@@ -179,19 +168,7 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1587501626986">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/FrontPage.vue" timestamp="1587534362256">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="17" column="52" />
-        <mark key="^" line="17" column="52" />
-        <mark key="." line="17" column="51" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/models/audio/oscil.py" timestamp="1587809436501" />
       <file name="$USER_HOME$/PycharmProjects/dev137/web/static/js/main.js" timestamp="1587559074175">
         <mark key="'" line="54" column="75" />
         <mark key="[" line="23" column="0" />
@@ -207,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="149" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="154" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
       <jump line="157" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
@@ -307,15 +283,16 @@
       <jump line="238" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="247" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="25" column="36" filename="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" />
+      <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHYtaGlnaGxpZ2h0</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
