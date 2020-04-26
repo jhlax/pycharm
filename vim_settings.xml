@@ -96,12 +96,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587893850144">
-        <mark key="'" line="128" column="21" />
-        <mark key="[" line="139" column="36" />
-        <mark key="]" line="139" column="37" />
-        <mark key="." line="139" column="36" />
-        <mark key="^" line="139" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587894182432">
+        <mark key="'" line="123" column="21" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="134" column="32" />
+        <mark key="." line="134" column="31" />
+        <mark key="^" line="134" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" timestamp="1587810321263">
         <mark key="'" line="85" column="0" />
@@ -280,10 +280,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>1.</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>1.</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
@@ -292,34 +292,34 @@
         <text encoding="base64">ICAgICMgcmVtb3ZlIG5vbiBmaW5pdGUgdmFsdWVzCiAgICAjIGluZGV4ZXMgPSBucC5pc2Zpbml0ZSh4KQogICAgIyB4ID0geFtpbmRleGVzXQogICAgIyB5ID0geVtpbmRleGVzXQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4MCA9IG5wLmludCh4MCkK</text>
+        <text encoding="base64">ICAgICMgcmVtb3ZlIG5vbiBmaW5pdGUgdmFsdWVzCiAgICBpbmRleGVzID0gbnAuaXNmaW5pdGUoeCkKICAgIHggPSB4W2luZGV4ZXNdCiAgICB5ID0geVtpbmRleGVzXQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4MCkK</text>
+        <text encoding="base64">ICAgICAgICB4MCA9IG5wLmludCh4MCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4MCA9IG5wLmFzZmFycmF5KHgwKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHgwID0gbnAuYXNmYXJyYXkoeDApCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHgwLCB4LCB5LCB6KQogICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHgsIHksIHopCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh4MCkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB4MCA9IG5wLmFzZmFycmF5KHgwKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHgwID0gbnAuYXNmYXJyYXkoeDApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KHgwLCB4LCB5LCB6KQogICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KHgsIHksIHopCgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSB5CiAgICAgICAgc2VsZi56ID0gY3JlYXRlX3NwbGluZSh4LCB5KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh4MCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
