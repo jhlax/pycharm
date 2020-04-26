@@ -96,6 +96,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587891705740">
+        <mark key="'" line="124" column="21" />
+        <mark key="[" line="103" column="39" />
+        <mark key="]" line="104" column="8" />
+        <mark key="^" line="104" column="8" />
+        <mark key="." line="104" column="7" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" timestamp="1587810321263">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="212" column="13" />
@@ -161,47 +168,13 @@
         <mark key="." line="119" column="113" />
         <mark key="^" line="119" column="113" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" timestamp="1587889006316">
+        <mark key="'" line="254" column="0" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="259" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="154" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="157" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="160" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="163" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="165" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="171" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="173" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="175" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="181" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="183" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="187" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="190" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="192" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="195" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="196" column="0" filename="$USER_HOME$/PycharmProjects/dev137/game plan.md" />
-      <jump line="31" column="135" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" />
-      <jump line="17" column="12" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/FrontPage.vue" />
-      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/FrontPage.vue" />
-      <jump line="12" column="15" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="342" column="6" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="236" column="21" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="2" column="4" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/LoremIpsum.vue" />
-      <jump line="45" column="35" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="57" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="64" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="71" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="92" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="99" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="101" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
-      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
-      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
-      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
-      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
-      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
       <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
       <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
       <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
@@ -263,51 +236,90 @@
       <jump line="247" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="25" column="36" filename="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" />
       <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="191" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="200" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="205" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="211" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="213" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="221" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="227" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="233" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="239" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="245" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="249" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="259" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="262" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="266" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="263" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="260" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="0" column="17" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="19" column="19" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="129" column="15" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="123" column="21" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>SplineInterpolator.</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>SplineInterpolator.</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0aW9uICgpIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgICBzdHJpcGU6IHVuZGVmaW5lZCwKICAgICAgICAgICAgY2FyZDogdW5kZWZpbmVkLAogICAgICAgICAgICBtc2c6IHVuZGVmaW5lZCwKICAgICAgICAgICAgZXJyOiB1bmRlZmluZWQsCiAgICAgICAgICAgIHBheUFtb3VudDogIiQxMDAuMDAiLAogICAgICAgICAgICBsb2NrU3VibWl0OiBmYWxzZSwKCiAgICAgICAgfQogICAgfSwKICAgIHRlbXBsYXRlOiBgCiAgICAgICAgPGRpdiBjbGFzcz0icm93IGZhZGVfaW5fc2xvdyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0xMiBvZmZzZXQtc20tMCBjb2wtbWQtMTIgb2Zmc2V0LW1kLTAgY29sLWxnLTEwIG9mZnNldC1sZy0xIGNvbC14bC04IG9mZnNldC14bC0yIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgc2hhZG93Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgICAgICAgICA8Zm9ybSBpZD0ic3RyaXBlLXBheW1lbnQtZm9ybSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDUgY2xhc3M9InNhbnMtc2VyaWYgZm9udC13ZWlnaHQtbGlnaHQiPkNyZWRpdCBDYXJkIFBheW1lbnQ8L2g1PgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LW11dGVkIHRleHQtc21hbGxjYXBzIj5hIHt7cGF5QW1vdW50fX0gY2hhcmdlIHdpbGwgYmUgcGxhY2VkIG9uIHlvdXIgY2FyZC48L3A+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGhyPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBmbGV4LXdyYXAgbXQtNCBwLTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC04IGgtMTAwIG15LTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHJlZj0iY2FyZCIgY2xhc3M9Im0tMyBteC1uMyBiZy13aGl0ZSBmb3JtLWNvbnRyb2wtc20gYm9yZGVyLWdvbGQgc2hhZG93LWxnIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00IHRleHQteGwtbGVmdCB0ZXh0LXNtLWNlbnRlciB0ZXh0LW1kLWNlbnRlciB0ZXh0LWxnLWNlbnRlciI+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQgdGV4dC1jZW50ZXIgbXktMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InctMTAwIG1iLTMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiA6ZGlzYWJsZWQ9ImxvY2tTdWJtaXQiIHYtY2xvYWsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tc20gZmxleC1maWxsIG0tMyBtbC1uMyBtci00IiBpZD0ic3VibWl0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LW9uOmNsaWNrLnByZXZlbnQ9InB1cmNoYXNlKCkiPlBheSBOb3cKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3d3dy5zdHJpcGUuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii9zdGF0aWMvaW1nL3N0cmlwZS5wbmciIHdpZHRoPSIxMDAiIGFsdD0iIiBjbGFzcz0iaC1hdXRvIG0tbjMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWlmPSJtc2ciIGNsYXNzPSJtYi1uNCBteC1uMyBmYWRlX2luIiBpZD0iY2FyZC1zdWNjZXNzIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImJvcmRlciBhbGVydCBhbGVydC1zdWNjZXNzIGJvcmRlci1zdWNjZXNzIHRleHQtY2VudGVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InAtMCBtbC1uMyBtYi0zIHJvdW5kZWQtc20gZmFkZV9pbl9zbG93Ij57e21zZ319PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWlmPSJlcnIiIGNsYXNzPSJtYi1uNCBteC1uMyBmYWRlX2luIiBpZD0iY2FyZC1lcnJvciIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJib3JkZXIgYWxlcnQgYWxlcnQtZGFuZ2VyIGJvcmRlci1kYW5nZXIgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icC0wIG1sLW4zIG1iLTMgcm91bmRlZC1zbSBmYWRlX2luX3Nsb3ciPnt7ZXJyfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZm9ybT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIGAsCiAgICBtZXRob2RzOiB7CiAgICAgICAgcHVyY2hhc2UoKSB7CiAgICAgICAgICAgIHZhciBzZWxmID0gdGhpczsKCiAgICAgICAgICAgIGlmIChzZWxmLmxvY2tTdWJtaXQpIHsKICAgICAgICAgICAgICAgIHNlbGYuZXJyID0gIlRoZSB0cmFuc2FjdGlvbiBoYXMgYWxyZWFkeSBiZWVuIGNvbXBsZXRlZC4iCiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHNlbGYubG9ja1N1Ym1pdCA9IHRydWU7CiAgICAgICAgICAgIHNlbGYuc3RyaXBlLmNyZWF0ZVRva2VuKHNlbGYuY2FyZCkudGhlbihmdW5jdGlvbiAocmVzKSB7CiAgICAgICAgICAgICAgICBpZiAocmVzLmVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgc2VsZi5lcnIgPSByZXMuZXJyb3IubWVzc2FnZTsKICAgICAgICAgICAgICAgICAgICBzZWxmLiRmb3JjZVVwZGF0ZSgpOwogICAgICAgICAgICAgICAgICAgIHNlbGYubG9ja1N1Ym1pdCA9IGZhbHNlOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBzZWxmLnByb2Nlc3NUcmFuc2FjdGlvbihyZXMudG9rZW4uaWQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KS5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgICAgICAgICBhbGVydChlcnIubWVzc2FnZSk7CiAgICAgICAgICAgICAgICBzZWxmLmxvY2tTdWJtaXQgPSBmYWxzZTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSwKICAgICAgICBwcm9jZXNzVHJhbnNhY3Rpb24odG9rZW4pIHsKICAgICAgICAgICAgdGhpcy5tc2cgPSAiUHVyY2hhc2Ugc3VjY2Vzc2Z1bGx5IGNvbXBsZXRlZC4iOwogICAgICAgICAgICB0aGlzLmVyciA9IHVuZGVmaW5lZDsKICAgICAgICAgICAgdGhpcy5sb2NrU3VibWl0ID0gdHJ1ZTsKICAgICAgICB9CiAgICB9LAogICAgbW91bnRlZDogZnVuY3Rpb24gKCkgewogICAgICAgIHZhciBzZWxmID0gdGhpczsKICAgICAgICBzZWxmLnN0cmlwZSA9IFN0cmlwZSgncGtfdGVzdF8yRXQzdVpuYXpXdW42MExKc2dwY3NTSVkwMGl6dVNKeGZLJyk7CiAgICAgICAgc2VsZi5jYXJkID0gc2VsZi5zdHJpcGUuZWxlbWVudHMoKS5jcmVhdGUoImNhcmQiKTsKICAgICAgICBzZWxmLmNhcmQubW91bnQoc2VsZi4kcmVmcy5jYXJkKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICMgZmluZCBpbmRleAogICAgaW5kZXggPSB4LnNlYXJjaHNvcnRlZCh4MCkKICAgIG5wLmNsaXAoaW5kZXgsIDEsIHNpemUgLSAxLCBpbmRleCkKCiAgICB4aTEsIHhpMCA9IHhbaW5kZXhdLCB4W2luZGV4IC0gMV0KICAgIHlpMSwgeWkwID0geVtpbmRleF0sIHlbaW5kZXggLSAxXQogICAgemkxLCB6aTAgPSB6W2luZGV4XSwgeltpbmRleCAtIDFdCiAgICBoaTEgPSB4aTEgLSB4aTAKCiAgICAjIGNhbGN1bGF0ZSBjdWJpYwogICAgZjAgPSB6aTAgLyAoNiAqIGhpMSkgKiAoeGkxIC0geDApICoqIDMgKyB6aTEgLyAoNiAqIGhpMSkgKiAoeDAgLSB4aTApICoqIDMgKyAoeWkxIC8gaGkxIC0gemkxICogaGkxIC8gNikgKiAoCiAgICAgICAgICAgIHgwIC0geGkwKSArICh5aTAgLyBoaTEgLSB6aTAgKiBoaTEgLyA2KSAqICh4aTEgLSB4MCkKICAgIHJldHVybiBmMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZTogYAogICAgICAgICAgIGAsCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X21vZChzZWxmLCB4MCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zcGxpbmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgZmFkZV9pbl9zbG93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTEyIG9mZnNldC1zbS0wIGNvbC1tZC0xMiBvZmZzZXQtbWQtMCBjb2wtbGctMTAgb2Zmc2V0LWxnLTEgY29sLXhsLTggb2Zmc2V0LXhsLTIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZCBzaGFkb3ciPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmb3JtIGlkPSJzdHJpcGUtcGF5bWVudC1mb3JtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNSBjbGFzcz0ic2Fucy1zZXJpZiBmb250LXdlaWdodC1saWdodCI+Q3JlZGl0IENhcmQgUGF5bWVudDwvaDU+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtbXV0ZWQgdGV4dC1zbWFsbGNhcHMiPmEge3twYXlBbW91bnR9fSBjaGFyZ2Ugd2lsbCBiZSBwbGFjZWQgb24geW91ciBjYXJkLjwvcD4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aHI+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IGZsZXgtd3JhcCBtdC00IHAtMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTggaC0xMDAgbXktMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgcmVmPSJjYXJkIiBjbGFzcz0ibS0zIG14LW4zIGJnLXdoaXRlIGZvcm0tY29udHJvbC1zbSBib3JkZXItZ29sZCBzaGFkb3ctbGciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQgdGV4dC14bC1sZWZ0IHRleHQtc20tY2VudGVyIHRleHQtbWQtY2VudGVyIHRleHQtbGctY2VudGVyIj4tLT4KICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNCB0ZXh0LWNlbnRlciBteS0yIj4KICAgICAgICAgICA8ZGl2IGNsYXNzPSJ3LTEwMCBtYi0zIj4KICAgICAgICAgICA8YnV0dG9uIDpkaXNhYmxlZD0ibG9ja1N1Ym1pdCIgdi1jbG9hawogICAgICAgICAgIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXNtIGZsZXgtZmlsbCBtLTMgbWwtbjMgbXItNCIgaWQ9InN1Ym1pdCIKICAgICAgICAgICB2LW9uOmNsaWNrLnByZXZlbnQ9InB1cmNoYXNlKCkiPlBheSBOb3cKICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnN0cmlwZS5jb20vIiB0YXJnZXQ9Il9ibGFuayI+LS0+CiAgICAgICAgICAgPGltZyBzcmM9Ii9zdGF0aWMvaW1nL3N0cmlwZS5wbmciIHdpZHRoPSIxMDAiIGFsdD0iIiBjbGFzcz0iaC1hdXRvIG0tbjMiPgogICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPi0tPgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICA8ZGl2IHYtaWY9Im1zZyIgY2xhc3M9Im1iLW40IG14LW4zIGZhZGVfaW4iIGlkPSJjYXJkLXN1Y2Nlc3MiIHJvbGU9ImFsZXJ0Ij4KICAgICAgICAgICA8cCBjbGFzcz0iYm9yZGVyIGFsZXJ0IGFsZXJ0LXN1Y2Nlc3MgYm9yZGVyLXN1Y2Nlc3MgdGV4dC1jZW50ZXIiPgogICAgICAgICAgIDxzcGFuIGNsYXNzPSJwLTAgbWwtbjMgbWItMyByb3VuZGVkLXNtIGZhZGVfaW5fc2xvdyI+e3ttc2d9fTwvc3Bhbj4KICAgICAgICAgICA8L3A+CiAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgPGRpdiB2LWlmPSJlcnIiIGNsYXNzPSJtYi1uNCBteC1uMyBmYWRlX2luIiBpZD0iY2FyZC1lcnJvciIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgIDxwIGNsYXNzPSJib3JkZXIgYWxlcnQgYWxlcnQtZGFuZ2VyIGJvcmRlci1kYW5nZXIgdGV4dC1jZW50ZXIiPgogICAgICAgICAgIDxzcGFuIGNsYXNzPSJwLTAgbWwtbjMgbWItMyByb3VuZGVkLXNtIGZhZGVfaW5fc2xvdyI+e3tlcnJ9fTwvc3Bhbj4KICAgICAgICAgICA8L3A+CiAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2PgogICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4MGkgPSBucC5hc2FycmF5KHgwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz5UZXN0cz88L2gzPgoKICAgICAgICAgICAgICAgIDxwcmU+PGNvZGUgdi1kZWRlbnQgdi1oaWdobGlnaHQgY2xhc3M9Imxhbmd1YWdlLWphdmFzY3JpcHQiPgogICAgICAgICAgICAgICAgICAgIHZhciBhID0gZnVuY3Rpb24oKSB7IHRoaXMudm0gPSBhOyB9OwogICAgICAgICAgICAgICAgPC9jb2RlPjwvcHJlPgogICAgICAgICAgICAgICAgPHByZT48Y29kZSB2LWRlZGVudCB2LWhpZ2hsaWdodCBjbGFzcz0ibGFuZ3VhZ2UtcHl0aG9uIj4KICAgICAgICAgICAgICAgICAgICBhID0gbGFtYmRhIF86IF8gKiogMgogICAgICAgICAgICAgICAgPC9jb2RlPjwvcHJlPgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNpemUgPSBsZW4od2F2ZWZvcm0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGUoKSB7CiAgICAgICAgICAgIFZ1ZVByaXNtLgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAogICAgZGVmIGludGVycG9sYXRlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVnVlUHJpc20sCg==</text>
+        <text encoding="base64">ICAgIGRlZiBpbnRlcnBvbGF0ZV8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
