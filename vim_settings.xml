@@ -30,7 +30,6 @@
         <entry encoding="base64">JzwsJz4vJF4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Zsb2F0L25wLmZsb2F0NjQvZw==</entry>
         <entry>q!</entry>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL2hlYWRlci9mb290ZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Zvb3Rlci9wYWdlX2NvbnRlbnQvZw==</entry>
         <entry encoding="base64">JzwsJz48Mg==</entry>
@@ -41,11 +40,12 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Wq</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3gvcC9n</entry>
         <entry>s</entry>
         <entry>:w</entry>
+        <entry>W</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -96,12 +96,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587969646780">
-        <mark key="'" line="308" column="25" />
-        <mark key="[" line="352" column="11" />
-        <mark key="]" line="352" column="12" />
-        <mark key="^" line="352" column="12" />
-        <mark key="." line="352" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587972416041">
+        <mark key="'" line="310" column="25" />
+        <mark key="[" line="360" column="5" />
+        <mark key="]" line="360" column="11" />
+        <mark key="." line="360" column="10" />
+        <mark key="^" line="360" column="11" />
       </file>
       <file name="/Python Console" timestamp="1587966032298">
         <mark key="[" line="0" column="0" />
@@ -270,10 +270,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>7.8</text>
+        <text>inputs</text>
       </register>
       <register name="-" type="4">
-        <text>7.8</text>
+        <text>inputs</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -282,34 +282,34 @@
         <text encoding="base64">ICAgIHJldHVybiBhWzBdICogeXNbMF0gKyBhWzFdICogbXNbMF0gKyBhWzJdICogbXNbMV0gKyBhWzNdICogeXNbMl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhWzBdICogeXNbMF0gKyBhWzFdICogbXNbMF0gKyBhWzJdICogbXNbMV0gKyBhWzNdICogeXNbMl1VCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG11ID0gc2VsZi5zcGxpbmVzW2N1cl1bMl1bMl0gLSB4Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh5cywgdGVucywgYmlhc2VzLCBtX2kpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnVuYyA9IGludCh4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHlzLCBtcywgbXUpCg==</text>
+        <text encoding="base64">ICAgICAgICBtdSA9IHggLSB0cnVuYwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleCA9IGludCh4KQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnVuYyA9IGludCh4KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleCA9IGludCh4KQo=</text>
+        <text encoding="base64">cHJpbnQodGFibGVbMF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpYXNlcyA9IGNhbGN1bGF0ZV9iaWFzZXMoYmlhcykK</text>
+        <text encoding="base64">dGFibGUgPSBTcGxpbmVUYWJsZShbaSAqKiAyIGZvciBpIGluIHJhbmdlKDE2KV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG11cyA9IGNhbGN1bGF0ZV9tdXMobXUpCg==</text>
+        <text encoding="base64">bG9jYXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG11cyA9IGNhbGN1bGF0ZV9tdXMobXUpCiAgICBhID0gY2FsY3VsYXRlX2FzKG11cykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSBzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBhWzBdICogeXNbMF0gKyBhWzFdICogbXNbMF0gKyBhWzJdICogbXNbMV0gKyBhWzNdICogeXNbMl1VCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
