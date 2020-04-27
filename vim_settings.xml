@@ -113,12 +113,6 @@
       <file name="/Sound Stuff - Splines, Oscillators" timestamp="1587811156396">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1587557650337">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="8" column="70" />
-        <mark key="^" line="8" column="71" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" timestamp="1587559047655">
         <mark key="'" line="25" column="36" />
         <mark key="[" line="25" column="21" />
@@ -128,6 +122,12 @@
       </file>
       <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1587891734497">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/iinterpolators.c" timestamp="1587956854327">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="37" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/waves.py" timestamp="1587809782353">
         <mark key="[" line="85" column="63" />
@@ -141,13 +141,6 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1587558956074">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="179" column="20" />
-        <mark key="]" line="181" column="31" />
-        <mark key="." line="181" column="30" />
-        <mark key="^" line="181" column="31" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/static/js/main.js" timestamp="1587559074175">
         <mark key="'" line="54" column="75" />
         <mark key="[" line="23" column="0" />
@@ -160,6 +153,12 @@
         <mark key="]" line="68" column="77" />
         <mark key="." line="68" column="76" />
         <mark key="^" line="68" column="77" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.h" timestamp="1587956357388">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="10" column="51" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/base.html" timestamp="1587559171805">
         <mark key="'" line="27" column="4" />
@@ -280,46 +279,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1.</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>1.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>shadow-lg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcmVtb3ZlIG5vbiBmaW5pdGUgdmFsdWVzCiAgICAjIGluZGV4ZXMgPSBucC5pc2Zpbml0ZSh4KQogICAgIyB4ID0geFtpbmRleGVzXQogICAgIyB5ID0geVtpbmRleGVzXQoK</text>
+        <text encoding="base64">Ly8gdHdvIHBvaW50IGludGVycG9sYXRvcnMKZG91YmxlIGxpbmVhcl9pbnRlcnAoZG91YmxlIHkxLCBkb3VibGUgeTIsIGRvdWJsZSBtdSk7CmRvdWJsZSBjb3NpbmVfaW50ZXJwKGRvdWJsZSB5MSwgZG91YmxlIHkyLCBkb3VibGUgbXUpOwoKLy8gZm91ciBwb2ludCBpbnRlcnBvbGF0b3JzCmRvdWJsZSBjdWJpY19pbnRlcnAoZG91YmxlIHkwLCBkb3VibGUgeTEsIGRvdWJsZSB5MiwgZG91YmxlIHkzLCBkb3VibGUgbXUpOwpkb3VibGUgaGVybWl0ZV9pbnRlcnAoZG91YmxlIHkwLCBkb3VibGUgeTEsIGRvdWJsZSB5MiwgZG91YmxlIHkzLCBkb3VibGUgbXUsCiAgICAgICAgICAgICAgICAgICAgICBkb3VibGUgdGVuc2lvbiwgZG91YmxlIGJpYXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcmVtb3ZlIG5vbiBmaW5pdGUgdmFsdWVzCiAgICBpbmRleGVzID0gbnAuaXNmaW5pdGUoeCkKICAgIHggPSB4W2luZGV4ZXNdCiAgICB5ID0geVtpbmRleGVzXQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4MCA9IG5wLmludCh4MCkK</text>
+        <text encoding="base64">ZG91YmxlIGxpbmVhcl9pbnRlcnAoZG91YmxlIHkxLCBkb3VibCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4MCkK</text>
+        <text encoding="base64">I2lmbmRlZiBfSU5URVJQT0xBVE9SU19ICiNkZWZpbmUgX0lOVEVSUE9MQVRPUlNfSCAxCgpkb3VibGUgbGluZWFyX2ludGVycChkb3VibGUgeTEsIGRvdWJsZSB5MiwgZG91YmxlIG11KTsKCgojZW5kaWYKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4MCA9IG5wLmFzZmFycmF5KHgwKQo=</text>
+        <text encoding="base64">ICAgICMgcmVtb3ZlIG5vbiBmaW5pdGUgdmFsdWVzCiAgICBpbmRleGVzID0gbnAuaXNmaW5pdGUoeCkKICAgIHggPSB4W2luZGV4ZXNdCiAgICB5ID0geVtpbmRleGVzXQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHgwID0gbnAuYXNmYXJyYXkoeDApCg==</text>
+        <text encoding="base64">ICAgICAgICB4MCA9IG5wLmludCh4MCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHgwLCB4LCB5LCB6KQogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh4MCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHgsIHksIHopCgo=</text>
+        <text encoding="base64">ICAgICAgICB4MCA9IG5wLmFzZmFycmF5KHgwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHgwID0gbnAuYXNmYXJyYXkoeDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4MCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHgwLCB4LCB5LCB6KQogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
