@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>white</entry>
         <entry>dark</entry>
         <entry>light</entry>
         <entry>span</entry>
@@ -25,9 +24,9 @@
         <entry>Libertinus</entry>
         <entry>my-0</entry>
         <entry>shadow-lg</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
-        <entry>316</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz4vJF4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Zsb2F0L25wLmZsb2F0NjQvZw==</entry>
@@ -43,9 +42,10 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry>W</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3gvcC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -123,11 +123,18 @@
       <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1587891734497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/iinterpolators.c" timestamp="1587956854327">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="5" />
-        <mark key="^" line="37" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" timestamp="1587958441222">
+        <mark key="'" line="53" column="43" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="49" />
+        <mark key="^" line="53" column="48" />
+        <mark key="." line="56" column="49" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/iinterpolators.c" timestamp="1587957510359">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/waves.py" timestamp="1587809782353">
         <mark key="[" line="85" column="63" />
@@ -148,18 +155,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="194" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" timestamp="1587559022767">
-        <mark key="[" line="68" column="76" />
-        <mark key="]" line="68" column="77" />
-        <mark key="." line="68" column="76" />
-        <mark key="^" line="68" column="77" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.h" timestamp="1587956357388">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="10" column="51" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="21" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/base.html" timestamp="1587559171805">
         <mark key="'" line="27" column="4" />
         <mark key="[" line="119" column="114" />
@@ -174,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
       <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
       <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
       <jump line="57" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/SiteModules.vue" />
@@ -274,18 +268,19 @@
       <jump line="71" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="129" column="15" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="123" column="21" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="53" column="43" filename="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>shadow-lg</text>
+        <text>x</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gdHdvIHBvaW50IGludGVycG9sYXRvcnMKZG91YmxlIGxpbmVhcl9pbnRlcnAoZG91YmxlIHkxLCBkb3VibGUgeTIsIGRvdWJsZSBtdSk7CmRvdWJsZSBjb3NpbmVfaW50ZXJwKGRvdWJsZSB5MSwgZG91YmxlIHkyLCBkb3VibGUgbXUpOwoKLy8gZm91ciBwb2ludCBpbnRlcnBvbGF0b3JzCmRvdWJsZSBjdWJpY19pbnRlcnAoZG91YmxlIHkwLCBkb3VibGUgeTEsIGRvdWJsZSB5MiwgZG91YmxlIHkzLCBkb3VibGUgbXUpOwpkb3VibGUgaGVybWl0ZV9pbnRlcnAoZG91YmxlIHkwLCBkb3VibGUgeTEsIGRvdWJsZSB5MiwgZG91YmxlIHkzLCBkb3VibGUgbXUsCiAgICAgICAgICAgICAgICAgICAgICBkb3VibGUgdGVuc2lvbiwgZG91YmxlIGJpYXMpOwo=</text>
@@ -327,11 +322,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>shadow-lg</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>shadow-lg</last-pattern>
-      <last-replace>shadow-sm</last-replace>
-      <last-substitute>shadow-lg</last-substitute>
+      <last-pattern>x</last-pattern>
+      <last-replace>p</last-replace>
+      <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
