@@ -96,14 +96,14 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587972416041">
-        <mark key="'" line="310" column="25" />
-        <mark key="[" line="360" column="5" />
-        <mark key="]" line="360" column="11" />
-        <mark key="." line="360" column="10" />
-        <mark key="^" line="360" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587973614933">
+        <mark key="'" line="312" column="25" />
+        <mark key="[" line="355" column="19" />
+        <mark key="]" line="355" column="20" />
+        <mark key="^" line="355" column="20" />
+        <mark key="." line="355" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1587966032298">
+      <file name="/Python Console" timestamp="1587973629172">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" timestamp="1587810321263">
@@ -270,10 +270,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>inputs</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>inputs</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -282,34 +282,34 @@
         <text encoding="base64">ICAgIHJldHVybiBhWzBdICogeXNbMF0gKyBhWzFdICogbXNbMF0gKyBhWzJdICogbXNbMV0gKyBhWzNdICogeXNbMl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG11ID0gc2VsZi5zcGxpbmVzW2N1cl1bMl1bMl0gLSB4Cg==</text>
+        <text encoding="base64">cGxvdChpbnB1dHMpCnNob3coKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVuYyA9IGludCh4KQo=</text>
+        <text encoding="base64">eCA9IG5wLmxpbnNwYWNlKDEsIDEyLjksIDEwMDAsIGR0eXBlPWZsb2F0KQp5ID0gW3RhYmxlW2ldIGZvciBpIGluIHhdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtdSA9IHggLSB0cnVuYwoK</text>
+        <text encoding="base64">dGFibGUgPSBTcGxpbmVUYWJsZShpbnB1dHMpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVuYyA9IGludCh4KQo=</text>
+        <text encoding="base64">aW5wdXRzID0gbnAuc2luKDIgKiBucC5waSAqIG5wLmxpbnNwYWNlKDAsIDEsIDEwMjQsIGR0eXBlPWZsb2F0KSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQodGFibGVbMF0pCg==</text>
+        <text encoding="base64">cHJpbnQoaGVybWl0ZV9pbnRlcnAoMSwgMywgMiwgNSwgMC43KSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFibGUgPSBTcGxpbmVUYWJsZShbaSAqKiAyIGZvciBpIGluIHJhbmdlKDE2KV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG11ID0gc2VsZi5zcGxpbmVzW2N1cl1bMl1bMl0gLSB4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9jYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICB0cnVuYyA9IGludCh4KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSBzcwo=</text>
+        <text encoding="base64">ICAgICAgICBtdSA9IHggLSB0cnVuYwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhWzBdICogeXNbMF0gKyBhWzFdICogbXNbMF0gKyBhWzJdICogbXNbMV0gKyBhWzNdICogeXNbMl1VCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnVuYyA9IGludCh4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
