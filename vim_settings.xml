@@ -44,8 +44,8 @@
         <entry encoding="base64">JzwsJz5zL3gvcC9n</entry>
         <entry>s</entry>
         <entry>:w</entry>
-        <entry>W</entry>
         <entry>e</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -96,12 +96,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587973614933">
-        <mark key="'" line="312" column="25" />
-        <mark key="[" line="355" column="19" />
-        <mark key="]" line="355" column="20" />
-        <mark key="^" line="355" column="20" />
-        <mark key="." line="355" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1587974471082">
+        <mark key="[" line="353" column="0" />
+        <mark key="]" line="355" column="42" />
+        <mark key="." line="355" column="41" />
+        <mark key="^" line="355" column="42" />
       </file>
       <file name="/Python Console" timestamp="1587973629172">
         <mark key="[" line="0" column="0" />
@@ -165,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="118" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="120" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="133" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
@@ -265,15 +263,16 @@
       <jump line="297" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="300" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="308" column="25" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="355" column="19" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBwcmludChbaGVybWl0ZV9pbnRlcnAoMSwgMiwgMTYsIDMyLCB4IC8gbl9zdGVwcywgdGVuc2lvbj10ZW5zaW9uLCBiaWFzPWJpYXMpIGZvciB4IGluIHJhbmdlKG5fc3RlcHMpXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
@@ -282,34 +281,34 @@
         <text encoding="base64">ICAgIHJldHVybiBhWzBdICogeXNbMF0gKyBhWzFdICogbXNbMF0gKyBhWzJdICogbXNbMV0gKyBhWzNdICogeXNbMl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGxvdChpbnB1dHMpCnNob3coKQo=</text>
+        <text encoding="base64">IyBwcmludChbaGVybWl0ZV9pbnRlcnAoMSwgMiwgMTYsIDMyLCB4IC8gbl9zdGVwcywgdGVuc2lvbj10ZW5zaW9uLCBiaWFzPWJpYXMpIGZvciB4IGluIHJhbmdlKG5fc3RlcHMpXSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eCA9IG5wLmxpbnNwYWNlKDEsIDEyLjksIDEwMDAsIGR0eXBlPWZsb2F0KQp5ID0gW3RhYmxlW2ldIGZvciBpIGluIHhdCg==</text>
+        <text encoding="base64">YmlhcyA9IDAKbl9zdGVwcyA9IDE2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFibGUgPSBTcGxpbmVUYWJsZShpbnB1dHMpCgo=</text>
+        <text encoding="base64">CnRlbnNpb24gPSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5wdXRzID0gbnAuc2luKDIgKiBucC5waSAqIG5wLmxpbnNwYWNlKDAsIDEsIDEwMjQsIGR0eXBlPWZsb2F0KSkKCg==</text>
+        <text encoding="base64">cGxvdCh4LCB5KQpzaG93KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoaGVybWl0ZV9pbnRlcnAoMSwgMywgMiwgNSwgMC43KSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG11ID0gc2VsZi5zcGxpbmVzW2N1cl1bMl1bMl0gLSB4Cg==</text>
+        <text encoding="base64">eCA9IG5wLmxpbnNwYWNlKDMsIDIsIDEwMCwgZHR5cGU9ZmxvYXQpCnkgPSBucC5hc2ZhcnJheShbaGVybWl0ZV9pbnRlcnAoMSwgMywgMiwgNSwgeF8pIGZvciB4XyBpbiB4XSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVuYyA9IGludCh4KQo=</text>
+        <text encoding="base64">Cgp3YXZlZm9ybSA9IG5wLnNpbigyICogbnAucGkgKiBucC5saW5zcGFjZSgwLCAxLCAxMjgsIGR0eXBlPWZsb2F0KSkKcHJlZml4ID0gd2F2ZWZvcm1bLTJdCnBvc3RmaXggPSB3YXZlZm9ybVsxOjJdCnRlbXBmb3JtID0gcHJlZml4ICsgbGlzdCh3YXZlZm9ybSkgKyBwb3N0Zml4Cgp4ID0gbnAubGluc3BhY2UoMCwgMSwgNTAwKQp5ID0gbnAuemVyb3MobGVuKHdhdmVmb3JtKSwgZHR5cGU9ZmxvYXQpCmZvciBpIGluIHg6CiAgICB5W2ldID0gaGVybWl0ZV9pbnRlcnAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtdSA9IHggLSB0cnVuYwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVuYyA9IGludCh4KQo=</text>
+        <text encoding="base64">c3BsaWNlcyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
