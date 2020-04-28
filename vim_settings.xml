@@ -45,8 +45,8 @@
         <entry encoding="base64">JzwsJz5zL1lbL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3kvWS4vZw==</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,14 +140,14 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/complete/Makefile" timestamp="1588065807387">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/complete/Makefile" timestamp="1588066926104">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/MathJax.vue" timestamp="1588041130707" />
-      <file name="/Dummy.txt" timestamp="1588065956254">
+      <file name="/Dummy.txt" timestamp="1588067066333">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -174,6 +174,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="53" column="48" />
         <mark key="." line="56" column="49" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/complete/scripts/hello.py" timestamp="1588067058564">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
         <mark key="[" line="12" column="18" />
@@ -287,11 +293,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHlsYWIgPSAiKiIK</text>
+      <register name="&quot;" type="4">
+        <text>gcc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm9kZSwg</text>
+        <text>gcc</text>
       </register>
       <register name="/" type="4">
         <text>y</text>
@@ -330,7 +336,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
