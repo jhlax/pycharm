@@ -92,16 +92,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587811081904">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1588039865220">
-        <mark key="[" line="365" column="0" />
-        <mark key="]" line="365" column="0" />
-        <mark key="." line="365" column="0" />
-        <mark key="^" line="364" column="14" />
-      </file>
       <file name="/Python Console" timestamp="1587973629172">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,18 +102,11 @@
         <mark key="^" line="195" column="4" />
         <mark key="." line="195" column="3" />
       </file>
-      <file name="/Sound Stuff - Splines, Oscillators" timestamp="1587811156396">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1587891734497">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" timestamp="1587963574670">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="53" column="48" />
-        <mark key="." line="56" column="49" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1588040877389">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="71" />
+        <mark key="." line="8" column="70" />
+        <mark key="^" line="8" column="71" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/iinterpolators.c" timestamp="1587957510359">
         <mark key="[" line="8" column="33" />
@@ -143,19 +126,29 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/static/js/main.js" timestamp="1587559074175">
-        <mark key="'" line="54" column="75" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="194" column="49" />
+      <file name="/Dummy.txt" timestamp="1587811081904">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/base.html" timestamp="1587559171805">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="119" column="114" />
-        <mark key="]" line="119" column="113" />
-        <mark key="." line="119" column="113" />
-        <mark key="^" line="119" column="113" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1588039865220">
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="365" column="0" />
+        <mark key="." line="365" column="0" />
+        <mark key="^" line="364" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1588040931623" />
+      <file name="/Sound Stuff - Splines, Oscillators" timestamp="1587811156396">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1587891734497">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" timestamp="1587963574670">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="53" column="48" />
+        <mark key="." line="56" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" timestamp="1587889006316">
         <mark key="'" line="254" column="0" />
