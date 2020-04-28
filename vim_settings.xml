@@ -121,11 +121,10 @@
         <mark key="^" line="85" column="62" />
         <mark key="." line="85" column="61" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/util.py" timestamp="1587809670656">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="35" />
-        <mark key="^" line="13" column="35" />
-        <mark key="." line="13" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/project-hotspot/README.md" timestamp="1588044990533">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/MathJax.vue" timestamp="1588041130707" />
       <file name="/Dummy.txt" timestamp="1587811081904">
@@ -151,6 +150,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="53" column="48" />
         <mark key="." line="56" column="49" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" timestamp="1587889006316">
         <mark key="'" line="254" column="0" />
@@ -264,10 +269,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogPHNwYW4gc3R5bGU9ImNvbG9yOiByZWQiPkZ1Y2s8L3NwYW4+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">bm9kZSwg</text>
       </register>
       <register name="/" type="4">
         <text>y</text>
@@ -276,34 +281,34 @@
         <text encoding="base64">ICAgIHJldHVybiBhWzBdICogeXNbMF0gKyBhWzFdICogbXNbMF0gKyBhWzJdICogbXNbMV0gKyBhWzNdICogeXNbMl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogPHNwYW4gc3R5bGU9ImNvbG9yOiByZWQiPkZ1Y2s8L3NwYW4+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGEwID0gLTAuNSAqIFlbMF0gKyAxLjUgKiBZWzFdIC0gMS41ICogWVsyXSArIDAuNSAqIFlbM10KICAgIGExID0gWVswXSAtIDIuNSAqIFlbMV0gKyAyICogWVsyXSAtIDAuNSAqIFlbM10KICAgIGEyID0gLTAuNSAqIFlbMF0gKyAwLjUgKiBZWzJdCiAgICBhMyA9IFlbMV0KCg==</text>
+        <text encoding="base64">ICAgICogbm9kZSwgbnBtIGluc3RhbGxlZAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChbaGVybWl0ZV9pbnRlcnAoMSwgMiwgMTYsIDMyLCB4IC8gbl9zdGVwcywgdGVuc2lvbj10ZW5zaW9uLCBiaWFzPWJpYXMpIGZvciB4IGluIHJhbmdlKG5fc3RlcHMpXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmlhcyA9IDAKbl9zdGVwcyA9IDE2Cg==</text>
+        <text encoding="base64">ICAgIGEwID0gLTAuNSAqIFlbMF0gKyAxLjUgKiBZWzFdIC0gMS41ICogWVsyXSArIDAuNSAqIFlbM10KICAgIGExID0gWVswXSAtIDIuNSAqIFlbMV0gKyAyICogWVsyXSAtIDAuNSAqIFlbM10KICAgIGEyID0gLTAuNSAqIFlbMF0gKyAwLjUgKiBZWzJdCiAgICBhMyA9IFlbMV0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnRlbnNpb24gPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGxvdCh4LCB5KQpzaG93KCkK</text>
+        <text encoding="base64">IyBwcmludChbaGVybWl0ZV9pbnRlcnAoMSwgMiwgMTYsIDMyLCB4IC8gbl9zdGVwcywgdGVuc2lvbj10ZW5zaW9uLCBiaWFzPWJpYXMpIGZvciB4IGluIHJhbmdlKG5fc3RlcHMpXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmlhcyA9IDAKbl9zdGVwcyA9IDE2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
