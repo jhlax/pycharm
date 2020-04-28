@@ -38,7 +38,6 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Wq</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3gvcC9n</entry>
         <entry>:w</entry>
         <entry>e</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz5zL3kvWS4vZw==</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,7 +109,19 @@
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/scripts/README.md" timestamp="1588052091749">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/complete/Pipfile" timestamp="1588065498636">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/LoremIpsum.vue" timestamp="1588041123977" />
+      <file name="$USER_HOME$/PycharmProjects/complete/src/sandbox.c" timestamp="1588065739904">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1588040877389">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="71" />
@@ -128,8 +140,14 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/complete/Makefile" timestamp="1588065807387">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/MathJax.vue" timestamp="1588041130707" />
-      <file name="/Dummy.txt" timestamp="1588065225725">
+      <file name="/Dummy.txt" timestamp="1588065956254">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -143,9 +161,6 @@
         <mark key="'" line="46" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="60" column="13" />
-      </file>
-      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1587891734497">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/config.py" timestamp="1588052072812">
         <mark key="[" line="0" column="0" />
@@ -165,11 +180,6 @@
         <mark key="]" line="13" column="13" />
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" timestamp="1587889006316">
-        <mark key="'" line="254" column="0" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="259" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -278,7 +288,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCkBhcHAucm91dGUoIi8iLCBkZWZhdWx0cz17InBhdGgiOiAiIn0pCkBhcHAucm91dGUoIi88cGF0aDpwYXRoPiIpCmRlZiBzcGEocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImluZGV4Lmh0bWwiKQo=</text>
+        <text encoding="base64">cHlsYWIgPSAiKiIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bm9kZSwg</text>
@@ -290,37 +300,37 @@
         <text encoding="base64">IiIiCnRoZSBucG0gYnVpbGQgZXhwb3J0cyB0byBkaXN0LCB3aGljaCBoYXMgb3VyIGJ1aWx0IGFuZCBvcHRpbWl6ZWQgc3RhdGljIGZpbGVzLiBpbiBvcmRlciB0byB1c2UgZGlzdCBhcyB0aGUgc3RhdGljCmZvbGRlciB3aGlsZSBub3QgYnJlYWtpbmcgdGhlIGxpbmtzIGFuZCBzdWNoIGluIHRoZSBidWlsdCBqcyAvIGNzcyAvIGh0bWwsIHdlIGFkZCBhIHJvdXRlIGZvciBlYWNoIG9mIHRoZSBzdGF0aWMgdHlwZXMKdGhhdCB0aGlzIHdlYiBhcHAgdXNlczoKCi0gY3NzCi0ganMKLSBpbWcKLSBmYXZpY29uCgpzb21ld2hhdCBvZiBhIGhhY2sgYnV0IGkgZG8gbm90IGNhcmUuIGl0IHdvcmtzLgoiIiIKCgpAYXBwLnJvdXRlKCIvY3NzLzxwYXRoOnBhdGg+IikKZGVmIGNzcyhwYXRoKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiY3NzLyIgKyBwYXRoKQoKCkBhcHAucm91dGUoIi9qcy88cGF0aDpwYXRoPiIpCmRlZiBqcyhwYXRoKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgianMvIiArIHBhdGgpCgoKQGFwcC5yb3V0ZSgiL2ltZy88cGF0aDpwYXRoPiIpCmRlZiBpbWcocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImltZy8iICsgcGF0aCkKCgpAYXBwLnJvdXRlKCIvZmF2aWNvbi5pY28iKQpkZWYgZmF2aWNvbigpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCJmYXZpY29uLmljbyIpCgoKIiIiCnNpbmdsZS1wYWdlIGFwcGxpY2F0aW9uIGNhdGNoLWFsbCByb3V0ZS4KIiIiCgoKQGFwcC5yb3V0ZSgiLyIsIGRlZmF1bHRzPXsicGF0aCI6ICIifSkKQGFwcC5yb3V0ZSgiLzxwYXRoOnBhdGg+IikKZGVmIGluZGV4KHBhdGgpOgogICAgZGVsIHBhdGgKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiaW5kZXguaHRtbCIpCgoKIiIiCnJ1biB0aGUgbWFpbiBpZiB0aGlzIHNjcmlwdCBpcyBleGVjdXRlZC4KIiIiCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYXBwLnJ1bigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCkBhcHAucm91dGUoIi8iLCBkZWZhdWx0cz17InBhdGgiOiAiIn0pCkBhcHAucm91dGUoIi88cGF0aDpwYXRoPiIpCmRlZiBzcGEocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImluZGV4Lmh0bWwiKQo=</text>
+        <text encoding="base64">cHlsYWIgPSAiKiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICogPHNwYW4gc3R5bGU9ImNvbG9yOiByZWQiPkZ1Y2s8L3NwYW4+Cg==</text>
+        <text encoding="base64">CgoKCkBhcHAucm91dGUoIi8iLCBkZWZhdWx0cz17InBhdGgiOiAiIn0pCkBhcHAucm91dGUoIi88cGF0aDpwYXRoPiIpCmRlZiBzcGEocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImluZGV4Lmh0bWwiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICogPHNwYW4gc3R5bGU9ImNvbG9yOiByZWQiPkZ1Y2s8L3NwYW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICogbm9kZSwgbnBtIGluc3RhbGxlZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogbm9kZSwgbnBtIGluc3RhbGxlZAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEwID0gLTAuNSAqIFlbMF0gKyAxLjUgKiBZWzFdIC0gMS41ICogWVsyXSArIDAuNSAqIFlbM10KICAgIGExID0gWVswXSAtIDIuNSAqIFlbMV0gKyAyICogWVsyXSAtIDAuNSAqIFlbM10KICAgIGEyID0gLTAuNSAqIFlbMF0gKyAwLjUgKiBZWzJdCiAgICBhMyA9IFlbMV0KCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGEwID0gLTAuNSAqIFlbMF0gKyAxLjUgKiBZWzFdIC0gMS41ICogWVsyXSArIDAuNSAqIFlbM10KICAgIGExID0gWVswXSAtIDIuNSAqIFlbMV0gKyAyICogWVsyXSAtIDAuNSAqIFlbM10KICAgIGEyID0gLTAuNSAqIFlbMF0gKyAwLjUgKiBZWzJdCiAgICBhMyA9IFlbMV0KCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwcmludChbaGVybWl0ZV9pbnRlcnAoMSwgMiwgMTYsIDMyLCB4IC8gbl9zdGVwcywgdGVuc2lvbj10ZW5zaW9uLCBiaWFzPWJpYXMpIGZvciB4IGluIHJhbmdlKG5fc3RlcHMpXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
