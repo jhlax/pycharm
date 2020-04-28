@@ -92,6 +92,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/complete/app.py" timestamp="1588064679623">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1587973629172">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,7 +129,7 @@
         <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/MathJax.vue" timestamp="1588041130707" />
-      <file name="/Dummy.txt" timestamp="1588049532978">
+      <file name="/Dummy.txt" timestamp="1588065225725">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -134,9 +139,10 @@
         <mark key="." line="365" column="0" />
         <mark key="^" line="364" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1588040931623" />
-      <file name="/Sound Stuff - Splines, Oscillators" timestamp="1587811156396">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1588064668817">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="60" column="13" />
       </file>
       <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1587891734497">
         <mark key="[" line="0" column="0" />
@@ -167,16 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="133" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="135" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="137" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="139" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="146" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
-      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
-      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
-      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
       <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/components/CardPayment.vue" />
       <jump line="88" column="35" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="311" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
@@ -267,12 +263,22 @@
       <jump line="308" column="25" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="355" column="19" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="361" column="9" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
+      <jump line="9" column="2" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/complete/app.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogPHNwYW4gc3R5bGU9ImNvbG9yOiByZWQiPkZ1Y2s8L3NwYW4+Cg==</text>
+        <text encoding="base64">CgoKCkBhcHAucm91dGUoIi8iLCBkZWZhdWx0cz17InBhdGgiOiAiIn0pCkBhcHAucm91dGUoIi88cGF0aDpwYXRoPiIpCmRlZiBzcGEocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImluZGV4Lmh0bWwiKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bm9kZSwg</text>
@@ -281,37 +287,37 @@
         <text>y</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhWzBdICogeXNbMF0gKyBhWzFdICogbXNbMF0gKyBhWzJdICogbXNbMV0gKyBhWzNdICogeXNbMl0K</text>
+        <text encoding="base64">IiIiCnRoZSBucG0gYnVpbGQgZXhwb3J0cyB0byBkaXN0LCB3aGljaCBoYXMgb3VyIGJ1aWx0IGFuZCBvcHRpbWl6ZWQgc3RhdGljIGZpbGVzLiBpbiBvcmRlciB0byB1c2UgZGlzdCBhcyB0aGUgc3RhdGljCmZvbGRlciB3aGlsZSBub3QgYnJlYWtpbmcgdGhlIGxpbmtzIGFuZCBzdWNoIGluIHRoZSBidWlsdCBqcyAvIGNzcyAvIGh0bWwsIHdlIGFkZCBhIHJvdXRlIGZvciBlYWNoIG9mIHRoZSBzdGF0aWMgdHlwZXMKdGhhdCB0aGlzIHdlYiBhcHAgdXNlczoKCi0gY3NzCi0ganMKLSBpbWcKLSBmYXZpY29uCgpzb21ld2hhdCBvZiBhIGhhY2sgYnV0IGkgZG8gbm90IGNhcmUuIGl0IHdvcmtzLgoiIiIKCgpAYXBwLnJvdXRlKCIvY3NzLzxwYXRoOnBhdGg+IikKZGVmIGNzcyhwYXRoKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiY3NzLyIgKyBwYXRoKQoKCkBhcHAucm91dGUoIi9qcy88cGF0aDpwYXRoPiIpCmRlZiBqcyhwYXRoKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgianMvIiArIHBhdGgpCgoKQGFwcC5yb3V0ZSgiL2ltZy88cGF0aDpwYXRoPiIpCmRlZiBpbWcocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImltZy8iICsgcGF0aCkKCgpAYXBwLnJvdXRlKCIvZmF2aWNvbi5pY28iKQpkZWYgZmF2aWNvbigpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCJmYXZpY29uLmljbyIpCgoKIiIiCnNpbmdsZS1wYWdlIGFwcGxpY2F0aW9uIGNhdGNoLWFsbCByb3V0ZS4KIiIiCgoKQGFwcC5yb3V0ZSgiLyIsIGRlZmF1bHRzPXsicGF0aCI6ICIifSkKQGFwcC5yb3V0ZSgiLzxwYXRoOnBhdGg+IikKZGVmIGluZGV4KHBhdGgpOgogICAgZGVsIHBhdGgKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiaW5kZXguaHRtbCIpCgoKIiIiCnJ1biB0aGUgbWFpbiBpZiB0aGlzIHNjcmlwdCBpcyBleGVjdXRlZC4KIiIiCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYXBwLnJ1bigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogPHNwYW4gc3R5bGU9ImNvbG9yOiByZWQiPkZ1Y2s8L3NwYW4+Cg==</text>
+        <text encoding="base64">CgoKCkBhcHAucm91dGUoIi8iLCBkZWZhdWx0cz17InBhdGgiOiAiIn0pCkBhcHAucm91dGUoIi88cGF0aDpwYXRoPiIpCmRlZiBzcGEocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImluZGV4Lmh0bWwiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICogPHNwYW4gc3R5bGU9ImNvbG9yOiByZWQiPkZ1Y2s8L3NwYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogbm9kZSwgbnBtIGluc3RhbGxlZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogbm9kZSwgbnBtIGluc3RhbGxlZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGEwID0gLTAuNSAqIFlbMF0gKyAxLjUgKiBZWzFdIC0gMS41ICogWVsyXSArIDAuNSAqIFlbM10KICAgIGExID0gWVswXSAtIDIuNSAqIFlbMV0gKyAyICogWVsyXSAtIDAuNSAqIFlbM10KICAgIGEyID0gLTAuNSAqIFlbMF0gKyAwLjUgKiBZWzJdCiAgICBhMyA9IFlbMV0KCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGEwID0gLTAuNSAqIFlbMF0gKyAxLjUgKiBZWzFdIC0gMS41ICogWVsyXSArIDAuNSAqIFlbM10KICAgIGExID0gWVswXSAtIDIuNSAqIFlbMV0gKyAyICogWVsyXSAtIDAuNSAqIFlbM10KICAgIGEyID0gLTAuNSAqIFlbMF0gKyAwLjUgKiBZWzJdCiAgICBhMyA9IFlbMV0KCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwcmludChbaGVybWl0ZV9pbnRlcnAoMSwgMiwgMTYsIDMyLCB4IC8gbl9zdGVwcywgdGVuc2lvbj10ZW5zaW9uLCBiaWFzPWJpYXMpIGZvciB4IGluIHJhbmdlKG5fc3RlcHMpXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmlhcyA9IDAKbl9zdGVwcyA9IDE2Cg==</text>
+        <text encoding="base64">IyBwcmludChbaGVybWl0ZV9pbnRlcnAoMSwgMiwgMTYsIDMyLCB4IC8gbl9zdGVwcywgdGVuc2lvbj10ZW5zaW9uLCBiaWFzPWJpYXMpIGZvciB4IGluIHJhbmdlKG5fc3RlcHMpXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
