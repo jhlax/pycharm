@@ -95,12 +95,11 @@
       <file name="/Python Console" timestamp="1587973629172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" timestamp="1587810321263">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="212" column="13" />
-        <mark key="]" line="195" column="4" />
-        <mark key="^" line="195" column="4" />
-        <mark key="." line="195" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/project-hotspot/auth.py" timestamp="1588052016618">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="69" />
+        <mark key="^" line="1" column="69" />
+        <mark key="." line="1" column="68" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/LoremIpsum.vue" timestamp="1588041123977" />
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1588040877389">
@@ -109,17 +108,17 @@
         <mark key="." line="8" column="70" />
         <mark key="^" line="8" column="71" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/project-hotspot/business/README.md" timestamp="1588051939992">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/iinterpolators.c" timestamp="1587957510359">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/waves.py" timestamp="1587809782353">
-        <mark key="[" line="85" column="63" />
-        <mark key="]" line="85" column="62" />
-        <mark key="^" line="85" column="62" />
-        <mark key="." line="85" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/MathJax.vue" timestamp="1588041130707" />
       <file name="/Dummy.txt" timestamp="1588049532978">
@@ -138,6 +137,12 @@
       </file>
       <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1587891734497">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/project-hotspot/config.py" timestamp="1588052072812">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" timestamp="1587963574670">
         <mark key="'" line="48" column="0" />
