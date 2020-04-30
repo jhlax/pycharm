@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>128</entry>
         <entry>8196</entry>
         <entry>8192</entry>
         <entry>mono</entry>
@@ -25,9 +24,9 @@
         <entry>x</entry>
         <entry>Y[/g</entry>
         <entry>y</entry>
+        <entry>Memory</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2hlYWRlci9mb290ZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Zvb3Rlci9wYWdlX2NvbnRlbnQvZw==</entry>
         <entry encoding="base64">JzwsJz48Mg==</entry>
         <entry encoding="base64">JzwsJz5zL15cdy4qLy9n</entry>
@@ -40,12 +39,13 @@
         <entry encoding="base64">JzwsJz5zL3gvcC9n</entry>
         <entry>:w</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL1lbL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3kvWS4vZw==</entry>
         <entry>s</entry>
         <entry>wq</entry>
         <entry>ws</entry>
+        <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL01lbW9yeS9SZWdpc3Rlci9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -97,7 +97,7 @@
         <mark key="]" line="55" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587973629172">
+      <file name="/Python Console" timestamp="1588240111567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/auth.py" timestamp="1588052016618">
@@ -114,6 +114,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="20" column="11" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1588238719824">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/components/LoremIpsum.vue" timestamp="1588041123977" />
       <file name="$USER_HOME$/PycharmProjects/complete/src/sandbox.c" timestamp="1588065739904">
@@ -162,24 +165,18 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" timestamp="1587963574670">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="53" column="48" />
-        <mark key="." line="56" column="49" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/complete/scripts/hello.py" timestamp="1588067058564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/complete/sandbox.py" timestamp="1588238207821">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/complete/sandbox.py" timestamp="1588245971487">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="63" column="54" />
+        <mark key="]" line="63" column="84" />
+        <mark key="." line="63" column="83" />
+        <mark key="^" line="63" column="84" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
         <mark key="[" line="12" column="18" />
@@ -189,19 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="298" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="286" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="284" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="282" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="276" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="271" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="263" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="259" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="255" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="239" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="233" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="238" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="247" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
       <jump line="25" column="36" filename="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" />
       <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" />
@@ -288,52 +272,65 @@
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/complete/app.py" />
       <jump line="35" column="50" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
       <jump line="3" column="10" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="0" column="21" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="24" column="10" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="27" column="23" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="59" column="21" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="14" column="26" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="54" column="8" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="101" column="29" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="78" column="8" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="82" column="42" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="119" column="29" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="15" column="17" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>y</text>
+        <text>Memory</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IiIiCnRoZSBucG0gYnVpbGQgZXhwb3J0cyB0byBkaXN0LCB3aGljaCBoYXMgb3VyIGJ1aWx0IGFuZCBvcHRpbWl6ZWQgc3RhdGljIGZpbGVzLiBpbiBvcmRlciB0byB1c2UgZGlzdCBhcyB0aGUgc3RhdGljCmZvbGRlciB3aGlsZSBub3QgYnJlYWtpbmcgdGhlIGxpbmtzIGFuZCBzdWNoIGluIHRoZSBidWlsdCBqcyAvIGNzcyAvIGh0bWwsIHdlIGFkZCBhIHJvdXRlIGZvciBlYWNoIG9mIHRoZSBzdGF0aWMgdHlwZXMKdGhhdCB0aGlzIHdlYiBhcHAgdXNlczoKCi0gY3NzCi0ganMKLSBpbWcKLSBmYXZpY29uCgpzb21ld2hhdCBvZiBhIGhhY2sgYnV0IGkgZG8gbm90IGNhcmUuIGl0IHdvcmtzLgoiIiIKCgpAYXBwLnJvdXRlKCIvY3NzLzxwYXRoOnBhdGg+IikKZGVmIGNzcyhwYXRoKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiY3NzLyIgKyBwYXRoKQoKCkBhcHAucm91dGUoIi9qcy88cGF0aDpwYXRoPiIpCmRlZiBqcyhwYXRoKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgianMvIiArIHBhdGgpCgoKQGFwcC5yb3V0ZSgiL2ltZy88cGF0aDpwYXRoPiIpCmRlZiBpbWcocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImltZy8iICsgcGF0aCkKCgpAYXBwLnJvdXRlKCIvZmF2aWNvbi5pY28iKQpkZWYgZmF2aWNvbigpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCJmYXZpY29uLmljbyIpCgoKIiIiCnNpbmdsZS1wYWdlIGFwcGxpY2F0aW9uIGNhdGNoLWFsbCByb3V0ZS4KIiIiCgoKQGFwcC5yb3V0ZSgiLyIsIGRlZmF1bHRzPXsicGF0aCI6ICIifSkKQGFwcC5yb3V0ZSgiLzxwYXRoOnBhdGg+IikKZGVmIGluZGV4KHBhdGgpOgogICAgZGVsIHBhdGgKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiaW5kZXguaHRtbCIpCgoKIiIiCnJ1biB0aGUgbWFpbiBpZiB0aGlzIHNjcmlwdCBpcyBleGVjdXRlZC4KIiIiCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYXBwLnJ1bigpCg==</text>
+        <text encoding="base64">ICAgIHNpemU6IGludCA9IDggKiAoMiAqKiAxNikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAoKV09SRFNaID0gMTYKCgpjbGFzcyBCdXNPYmplY3Q6CiAgICBzdGF0ZSA9IHt9CiAgICBfX3NoYXJlZF9zdGF0ZSA9IHt9CgogICAgYWRkcmVzczogaWQgPSBOb25lCgogICAgcmVhZDogYm9vbCA9IEZhbHNlCiAgICB3cml0ZTogYm9vbCA9IEZhbHNlCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc2VsZi5zdGF0ZSA9IHNlbGYuX19jbGFzc19fLl9fc2hhcmVkX3N0YXRlCiAgICAgICAgc2VsZi5zdGF0ZVtpZChzZWxmKV0gPSBzZWxmCiAgICAgICAgc2VsZi5hZGRyZXNzID0gaWQoc2VsZikKCgpjbGFzcyBDbG9jayhCdXNPYmplY3QpOgogICAgY291bnRlciA9IDAKCiAgICBkZWYgX19pbml0X18oc2VsZiwgc3BlZWQ6IGZsb2F0ID0gMS4sICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgc2VsZi5zcGVlZCA9IHNwZWVkCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgbGVuKGFyZ3MpID4gMDoKICAgICAgICAgICAgY291bnRlciA9IGFyZ3NbMF0KCiAgICAgICAgc2xlZXAoc2VsZi5zcGVlZCkKCiAgICBkZWYgaGFsdChzZWxmKToKICAgICAgICByYWlzZSBFeGNlcHRpb24oIkhhbHRFeGNlcHRpb24iKQoKCmNsYXNzIFJlZ2lzdGVyKEJ1c09iamVjdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgc3ltYm9sLCBzaXplOiBpbnQgPSBXT1JEU1osICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgQnVzT2JqZWN0Ll9faW5pdF9fKHNlbGYpCiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgc2VsZi5zeW1ib2wgPSBzeW1ib2wKICAgICAgICBzZWxmLnNpemUgPSBzaXplCgogICAgICAgIGlmICJyZWdpc3RlcnMiIGluIHNlbGYuc3RhdGU6CiAgICAgICAgICAgIHNlbGYuX19zaGFyZWRfc3RhdGVbInJlZ2lzdGVycyJdLnVwZGF0ZSh7c3ltYm9sOiBzZWxmfSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9fc2hhcmVkX3N0YXRlWyJyZWdpc3RlcnMiXSA9IHtzeW1ib2w6IHNlbGZ9CgoKY2xhc3MgVmlydHVhbENvbXB1dGVyKEJ1c09iamVjdCk6CiAgICBjbG9ja3MgPSBOb25lCiAgICByZWdpc3RlcnMgPSBOb25lCiAgICBhbHUgPSBOb25lCiAgICByYW0gPSBOb25lCiAgICBidXMgPSBOb25lCiAgICBjb250cm9sID0gTm9uZQogICAgcHJvZ3JhbV9jb3VudGVyID0gTm9uZQogICAgaW5zdHJ1Y3Rpb25zID0gTm9uZQoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmNsb2NrcyA9IFtDbG9jaygpXQogICAgICAgIHNlbGYucmVnaXN0ZXJzID0gW1JlZ2lzdGVyKCJhIiksIFJlZ2lzdGVyKCJiIildCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgbGVuKGFyZ3MpOgogICAgICAgICAgICBzZWxmLmluc3RydWN0aW9ucyA9IGludCgnJy5qb2luKGFyZ3MpKQoKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmhhbHQoKQoKICAgIGRlZiBoYWx0KHNlbGYpOgogICAgICAgIGZvciBjbG9jayBpbiBzZWxmLmNsb2NrczoKICAgICAgICAgICAgY2xvY2suaGFsdCgpCgoKY29tcCA9IFZpcnR1YWxDb21wdXRlcigpCgpwcmludChjb21wLnJlZ2lzdGVycywgY29tcC5jbG9ja3MsIGNvbXAucHJvZ3JhbV9jb3VudGVyLCBjb21wLnN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJ1c09iamVjdC5zdGF0ZVsicmVnaXN0ZXJzIl0gPSB7fQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBUYWJsZS50YWJsZS51cGRhdGUoe2lkKHNlbGYpOiBzZWxmfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNpemUgPSBzaXplCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3MgPSAK</text>
+        <text encoding="base64">ICAgIHBvc3NpYmxlID0gUXVldWUoImFiY2RlZmciKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHlsYWIgPSAiKiIK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCkBhcHAucm91dGUoIi8iLCBkZWZhdWx0cz17InBhdGgiOiAiIn0pCkBhcHAucm91dGUoIi88cGF0aDpwYXRoPiIpCmRlZiBzcGEocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImluZGV4Lmh0bWwiKQo=</text>
+        <text>print(Table.table)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogPHNwYW4gc3R5bGU9ImNvbG9yOiByZWQiPkZ1Y2s8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHtzZWxmLnRhYmxlfQogICAgICAgICIiIikuc3RyaXAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -342,11 +339,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>y</last-search>
+      <last-search>Memory</last-search>
       <last-offset />
-      <last-pattern>y</last-pattern>
-      <last-replace>Y.</last-replace>
-      <last-substitute>y</last-substitute>
+      <last-pattern>Memory</last-pattern>
+      <last-replace>Register</last-replace>
+      <last-substitute>Memory</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
