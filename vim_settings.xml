@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>8196</entry>
         <entry>8192</entry>
         <entry>mono</entry>
         <entry>font</entry>
@@ -25,6 +24,7 @@
         <entry>Y[/g</entry>
         <entry>y</entry>
         <entry>Memory</entry>
+        <entry>lw</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Zvb3Rlci9wYWdlX2NvbnRlbnQvZw==</entry>
@@ -170,12 +170,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588327085892">
-        <mark key="'" line="281" column="73" />
-        <mark key="[" line="312" column="32" />
-        <mark key="]" line="312" column="32" />
-        <mark key="^" line="312" column="32" />
-        <mark key="." line="312" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588328162088">
+        <mark key="'" line="322" column="43" />
+        <mark key="[" line="325" column="48" />
+        <mark key="]" line="325" column="63" />
+        <mark key="^" line="325" column="63" />
+        <mark key="." line="325" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
         <mark key="[" line="12" column="18" />
@@ -191,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="195" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="200" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="205" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
@@ -291,18 +290,19 @@
       <jump line="189" column="0" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
       <jump line="207" column="0" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
       <jump line="277" column="73" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
+      <jump line="322" column="43" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>func</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>func</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>Memory</text>
+        <text>lw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNpemU6IGludCA9IDggKiAoMiAqKiAxNikK</text>
@@ -344,9 +344,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Memory</last-search>
+      <last-search>lw</last-search>
       <last-offset />
-      <last-pattern>Memory</last-pattern>
+      <last-pattern>lw</last-pattern>
       <last-replace>Register</last-replace>
       <last-substitute>Memory</last-substitute>
       <last-dir>1</last-dir>
