@@ -170,11 +170,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588319512035">
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="23" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588323401304">
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="198" column="20" />
+        <mark key="]" line="198" column="30" />
+        <mark key="." line="198" column="29" />
+        <mark key="^" line="198" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
         <mark key="[" line="12" column="18" />
@@ -190,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" />
-      <jump line="25" column="36" filename="$USER_HOME$/PycharmProjects/dev137/web/templates/shop-test.html" />
       <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" />
       <jump line="182" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="191" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
@@ -290,15 +289,17 @@
       <jump line="82" column="42" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
       <jump line="119" column="29" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
       <jump line="15" column="17" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
+      <jump line="167" column="10" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEFOQUxPRyA9IDQK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>Memory</text>
@@ -307,7 +308,7 @@
         <text encoding="base64">ICAgIHNpemU6IGludCA9IDggKiAoMiAqKiAxNikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEFOQUxPRyA9IDQK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -316,25 +317,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBUYWJsZS50YWJsZS51cGRhdGUoe2lkKHNlbGYpOiBzZWxmfSkK</text>
+        <text encoding="base64">ICBpbmZvcm1hdGlvbiBpcyB0aGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">YSBmZXcgc3BsaXQgdXAgaW50byBhIGZldyBkaXNjcmV0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc3NpYmxlID0gUXVldWUoImFiY2RlZmciKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>print(Table.table)</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBUYWJsZS50YWJsZS51cGRhdGUoe2lkKHNlbGYpOiBzZWxmfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtzZWxmLnRhYmxlfQogICAgICAgICIiIikuc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgIHBvc3NpYmxlID0gUXVldWUoImFiY2RlZmciKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
