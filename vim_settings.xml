@@ -41,11 +41,11 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL1lbL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3kvWS4vZw==</entry>
-        <entry>s</entry>
         <entry>wq</entry>
         <entry>ws</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL01lbW9yeS9SZWdpc3Rlci9n</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -97,11 +97,11 @@
         <mark key="]" line="55" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588272911233">
+      <file name="/Dummy.txt" timestamp="1588326756597">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1588272911029">
+      <file name="/Python Console" timestamp="1588326616777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/auth.py" timestamp="1588052016618">
@@ -170,12 +170,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588323401304">
-        <mark key="'" line="189" column="0" />
-        <mark key="[" line="198" column="20" />
-        <mark key="]" line="198" column="30" />
-        <mark key="." line="198" column="29" />
-        <mark key="^" line="198" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588327085892">
+        <mark key="'" line="281" column="73" />
+        <mark key="[" line="312" column="32" />
+        <mark key="]" line="312" column="32" />
+        <mark key="^" line="312" column="32" />
+        <mark key="." line="312" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
         <mark key="[" line="12" column="18" />
@@ -191,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" />
-      <jump line="182" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="191" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="195" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="200" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
@@ -291,15 +289,17 @@
       <jump line="15" column="17" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
       <jump line="167" column="10" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
       <jump line="189" column="0" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
+      <jump line="277" column="73" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFOQUxPRyA9IDQK</text>
+      <register name="&quot;" type="4">
+        <text>func</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>func</text>
       </register>
       <register name="/" type="4">
         <text>Memory</text>
@@ -308,34 +308,34 @@
         <text encoding="base64">ICAgIHNpemU6IGludCA9IDggKiAoMiAqKiAxNikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFOQUxPRyA9IDQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mdW5jID0gbGFtYmRhICppOiBpICAjIGEgcGFzcy10aHJ1IGZ1bmN0aW9uIGFzIGRlZmF1bHQ7IGEgd2lyZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgZnVuYyBpcyBOb25lOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmZvcm1hdGlvbiBpcyB0aGUgCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcGluczogCiAgICAgICAgOnBhcmFtIGZ1bmM6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YSBmZXcgc3BsaXQgdXAgaW50byBhIGZldyBkaXNjcmV0ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBUYWJsZS50YWJsZS51cGRhdGUoe2lkKHNlbGYpOiBzZWxmfSkK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2l6ZToKICAgICAgICA6cGFyYW0gdmFsdWU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc3NpYmxlID0gUXVldWUoImFiY2RlZmciKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
