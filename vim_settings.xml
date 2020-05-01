@@ -101,12 +101,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1588039865220">
-        <mark key="[" line="365" column="0" />
-        <mark key="]" line="365" column="0" />
-        <mark key="." line="365" column="0" />
-        <mark key="^" line="364" column="14" />
-      </file>
       <file name="/Python Console" timestamp="1588272911029">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,7 +157,7 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/complete/sandbox.py" timestamp="1588245971487">
+      <file name="$USER_HOME$/PycharmProjects/complete/sandbox.py" timestamp="1588319062976">
         <mark key="'" line="15" column="17" />
         <mark key="[" line="63" column="54" />
         <mark key="]" line="63" column="84" />
@@ -175,6 +169,12 @@
         <mark key="]" line="9" column="4" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588319512035">
+        <mark key="[" line="19" column="69" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
         <mark key="[" line="12" column="18" />
