@@ -124,7 +124,7 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1588238719824">
+      <file name="/a.dummy" timestamp="1589308155803">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" timestamp="1589296104752">
@@ -166,11 +166,12 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="84" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" timestamp="1589297915840">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" timestamp="1589309363308">
+        <mark key="'" line="30" column="29" />
+        <mark key="[" line="143" column="26" />
+        <mark key="]" line="145" column="8" />
+        <mark key="^" line="145" column="8" />
+        <mark key="." line="145" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/complete/Makefile" timestamp="1588066926104">
         <mark key="[" line="9" column="4" />
@@ -199,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="239" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="245" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="249" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
@@ -299,51 +299,52 @@
       <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
       <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
       <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
+      <jump line="30" column="29" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogVW5pdAogICAgIyBUT0RPOiBTZXQKICAgICMgVE9ETzogRGVsdGEKICAgICMgVE9ETzogQm9vbGVhbgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Residual</text>
+        <text>(Residual)</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNpemU6IGludCA9IDggKiAoMiAqKiAxNikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoYXJnLCBTaWV2ZSk6CiAgICAgICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJoYXZlbid0IGltcGxlbWVudGVkIHlldCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogVW5pdAogICAgIyBUT0RPOiBTZXQKICAgICMgVE9ETzogRGVsdGEKICAgICMgVE9ETzogQm9vbGVhbgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgejogQW55W0l0ZXJhYmxlXQogICAgIyB4czogQW55WydYZW5ha2lzU3RydWN0dXJlJ10K</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoYXJnLCBSZXNpZHVhbCk6CiAgICAgICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJoYXZlbid0IGltcGxlbWVudGVkIHlldCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShhcmcsIFNpZXZlUmVzdWx0KToKICAgICAgICAgICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUmVzaWR1YWwoWGVuYWtpc1N0cnVjdHVyZSk6CiAgICBwYXNzCgoK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgcGFzcwo=</text>
+        <text encoding="base64">Y2xhc3MgU2lldmUoUmVzaWR1YWwpOgogICAgIiIiCiAgICB0aGUgZW5jYXBzdWxhdGlvbiBjbGFzcyBvZiBhIHJlc2lkdWFsLCBvciBvbmUgb3IgbW9yZSBpbnRlcnNlY3Rpb24gb3IgdW5pb24gZ3JvdXBzLiBoYXMgdmFyaW91cwogICAgYWRkaXRpb25hbCBtZXRob2RzIGZvciBmb3JtYXR0aW5nLCB0ZXN0aW5nLCBhbmQgaW50ZXJhY3Rpbmcgd2l0aCBvdGhlciBYZW5ha2lzIFN0cnVjdHVyZXMuCiAgICAiIiIKCiAgICB0eXBlID0gInNpZXZlIgoKICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBEQwo=</text>
+        <text encoding="base64">CiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJoYXZlbid0IGltcGxlbWVudGVkIHlldCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFDID0gMAogICAgREMgPSAxCgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHNlbGYudm9sdGFnZSAhPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IFN0cmluZyByZXByZXNlbnRhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
