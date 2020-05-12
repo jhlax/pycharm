@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mono</entry>
         <entry>font</entry>
         <entry>$^</entry>
         <entry>float</entry>
@@ -25,9 +24,9 @@
         <entry>Memory</entry>
         <entry>lw</entry>
         <entry>Node</entry>
+        <entry>Sieve</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz48Mg==</entry>
         <entry encoding="base64">JzwsJz5zL15cdy4qLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2hvbWUvc2hvcC9n</entry>
         <entry encoding="base64">JzwsJz5zL215LTAvbXktNS9n</entry>
@@ -46,6 +45,7 @@
         <entry encoding="base64">JzwsJz5zL05vZGUvQ29tcG9uZW50L2c=</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL1NpZXZlL0dyb3VwL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -166,12 +166,12 @@
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="84" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" timestamp="1589309363308">
-        <mark key="'" line="30" column="29" />
-        <mark key="[" line="143" column="26" />
-        <mark key="]" line="145" column="8" />
-        <mark key="^" line="145" column="8" />
-        <mark key="." line="145" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" timestamp="1589311117910">
+        <mark key="'" line="126" column="17" />
+        <mark key="[" line="120" column="29" />
+        <mark key="]" line="120" column="48" />
+        <mark key="." line="120" column="47" />
+        <mark key="^" line="120" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/complete/Makefile" timestamp="1588066926104">
         <mark key="[" line="9" column="4" />
@@ -200,19 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="245" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="249" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="259" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="262" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="266" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="263" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="260" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="254" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
-      <jump line="0" column="17" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
-      <jump line="19" column="19" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
@@ -300,51 +287,64 @@
       <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
       <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
       <jump line="30" column="29" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="121" column="23" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="106" column="17" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(Residual)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Node</text>
+        <text>Sieve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoYXJnLCBTaWV2ZSk6CiAgICAgICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJoYXZlbid0IGltcGxlbWVudGVkIHlldCIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXQoc2VsZik6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAjIFRPRE86IFJldmVyc2UgR2VuZXJhdGUgWGVuYWtpcyBTdHJ1Y3R1cmUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoYXJnLCBSZXNpZHVhbCk6CiAgICAgICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJoYXZlbid0IGltcGxlbWVudGVkIHlldCIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShhcmcsIFNpZXZlUmVzdWx0KToKICAgICAgICAgICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgU2lldmUoUmVzaWR1YWwpOgogICAgIiIiCiAgICB0aGUgZW5jYXBzdWxhdGlvbiBjbGFzcyBvZiBhIHJlc2lkdWFsLCBvciBvbmUgb3IgbW9yZSBpbnRlcnNlY3Rpb24gb3IgdW5pb24gZ3JvdXBzLiBoYXMgdmFyaW91cwogICAgYWRkaXRpb25hbCBtZXRob2RzIGZvciBmb3JtYXR0aW5nLCB0ZXN0aW5nLCBhbmQgaW50ZXJhY3Rpbmcgd2l0aCBvdGhlciBYZW5ha2lzIFN0cnVjdHVyZXMuCiAgICAiIiIKCiAgICB0eXBlID0gInNpZXZlIgoKICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJoYXZlbid0IGltcGxlbWVudGVkIHlldCIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogQm9vbGVhbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogRGVsdGEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogU2V0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogVW5pdAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CmNsYXNzIEludGVyc2VjdGlvbihHcm91cCwgVW5hcnkpOgogICAgIiIiCiAgICBhIGNsYXNzIGNvbnRhaW5pbmcgaW5mb3JtYXRpb24gb24gQU5ELWNvdXBsZWQgeGVuYWtpcyBzdHJ1Y3R1cmVzLiB0aGlzIGlzIHRoZSBsb2dpY2FsIEFORCBvcGVyYXRpb24sCiAgICBhbHNvIHNlZW4gaW4gc3RhdGlzdGljcyBhbmQgcHJvYmFiaWxpdHkgYXMgd2hlcmUgdHdvIGRpZmZlcmVudCBzZXRzIHNoYXJlIHNpbWlsYXIgbWVtYmVycy4KICAgICIiIgoKICAgIHR5cGUgPSAiaW50ZXJzZWN0aW9uIgoKICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikKCiAgICBkZWYgX19yZXByX18oc2VsZik6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigiaGF2ZW4ndCBpbXBsZW1lbnRlZCB5ZXQiKQoKICAgIGRlZiBwZXJpb2Qoc2VsZik6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoKCmNsYXNzIFVuaW9uKEdyb3VwLCBVbmFyeSk6CiAgICAiIiIKICAgIGEgY2xhc3MgY29udGFpbmluZyBpbmZvcm1hdGlvbiBvbiBPUi1jb3VwbGVkIHhlbmFraXMgc3RydWN0dXJlcy4gdGhpcyBpcyB0aGUgbG9naWNhbCBPUiBvcGVyYXRpb24sCiAgICBhbHNvIHNlZW4gaW4gc3RhdGlzdGljcyBhbmQgcHJvYmFiaWxpdHkgYXMgdGhlIHJlc3VsdCBvZiB0aGUgY29tYmluaW5nIG9mIHR3byBzZXRzJyBtZW1iZXJzLgogICAgIiIiCgogICAgdHlwZSA9ICJ1bmlvbiIKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJoYXZlbid0IGltcGxlbWVudGVkIHlldCIpCgogICAgZGVmIF9fcmVwcl9fKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikKCiAgICBkZWYgcGVyaW9kKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBwZXJpb2Qoc2VsZik6CiAgICAgICAgcGFzcwoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IFN0cmluZyByZXByZXNlbnRhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -353,11 +353,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Node</last-search>
+      <last-search>Sieve</last-search>
       <last-offset />
-      <last-pattern>Node</last-pattern>
-      <last-replace>Component</last-replace>
-      <last-substitute>Node</last-substitute>
+      <last-pattern>Sieve</last-pattern>
+      <last-replace>Group</last-replace>
+      <last-substitute>Sieve</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
