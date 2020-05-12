@@ -127,6 +127,12 @@
       <file name="/a.dummy" timestamp="1588238719824">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" timestamp="1589296104752">
+        <mark key="[" line="413" column="23" />
+        <mark key="]" line="415" column="51" />
+        <mark key="^" line="415" column="51" />
+        <mark key="." line="415" column="50" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/complete/src/sandbox.c" timestamp="1588065739904">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="13" />
@@ -147,12 +153,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/project-hotspot/business/README.md" timestamp="1588051939992">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/complete/scripts/hello.py" timestamp="1588067058564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="10" />
@@ -165,6 +165,12 @@
         <mark key="]" line="63" column="84" />
         <mark key="." line="63" column="83" />
         <mark key="^" line="63" column="84" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" timestamp="1589297915840">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/complete/Makefile" timestamp="1588066926104">
         <mark key="[" line="9" column="4" />
@@ -184,12 +190,6 @@
         <mark key="]" line="101" column="0" />
         <mark key="^" line="101" column="0" />
         <mark key="." line="101" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/lissajous.py" timestamp="1588272958799">
         <mark key="[" line="2" column="0" />
@@ -303,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>current</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogVW5pdAogICAgIyBUT0RPOiBTZXQKICAgICMgVE9ETzogRGVsdGEKICAgICMgVE9ETzogQm9vbGVhbgoK</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>Residual</text>
       </register>
       <register name="/" type="4">
         <text>Node</text>
@@ -316,34 +316,34 @@
         <text encoding="base64">ICAgIHNpemU6IGludCA9IDggKiAoMiAqKiAxNikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBEQwo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogVW5pdAogICAgIyBUT0RPOiBTZXQKICAgICMgVE9ETzogRGVsdGEKICAgICMgVE9ETzogQm9vbGVhbgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFDID0gMAogICAgREMgPSAxCgo=</text>
+        <text encoding="base64">ICAgICMgejogQW55W0l0ZXJhYmxlXQogICAgIyB4czogQW55WydYZW5ha2lzU3RydWN0dXJlJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHNlbGYudm9sdGFnZSAhPSAwCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Y2xhc3MgUmVzaWR1YWwoWGVuYWtpc1N0cnVjdHVyZSk6CiAgICBwYXNzCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQ3VycmVudDoKICAgIF92b2x0YWdlID0gTm9uZQogICAgX3Jlc2lzdGFuY2UgPSBOb25lCgogICAgQHByb3BlcnR5CiAgICBkZWYgYW1wZXJlcyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi52b2x0YWdlIC8gc2VsZi5yZXNpc3RhbmNlCgogICAgQHByb3BlcnR5CiAgICBkZWYgdm9sdGFnZShzZWxmKToKICAgICAgICBpZiBzZWxmLl92b2x0YWdlIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiAwCgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl92b2x0YWdlCgogICAgQHByb3BlcnR5CiAgICBkZWYgcmVzaXN0YW5jZShzZWxmKToKICAgICAgICBpZiBzZWxmLl9yZXNpc3RhbmNlIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiAwCgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl9yZXNpc3RhbmNlCgoK</text>
+        <text encoding="base64">ICAgIAogICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb25zID0ge30KICAgIHRlcm1pbmFscyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBEQwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MAo=</text>
+        <text encoding="base64">ICAgIEFDID0gMAogICAgREMgPSAxCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHNlbGYudm9sdGFnZSAhPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
