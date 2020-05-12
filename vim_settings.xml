@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>8192</entry>
         <entry>mono</entry>
         <entry>font</entry>
         <entry>$^</entry>
@@ -25,15 +24,14 @@
         <entry>y</entry>
         <entry>Memory</entry>
         <entry>lw</entry>
+        <entry>Node</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Zvb3Rlci9wYWdlX2NvbnRlbnQvZw==</entry>
         <entry encoding="base64">JzwsJz48Mg==</entry>
         <entry encoding="base64">JzwsJz5zL15cdy4qLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2hvbWUvc2hvcC9n</entry>
         <entry encoding="base64">JzwsJz5zL215LTAvbXktNS9n</entry>
         <entry>%s/shadow-lg/shadow-sm/g</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Wq</entry>
         <entry encoding="base64">JzwsJz5zL3gvcC9n</entry>
@@ -46,6 +44,8 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL01lbW9yeS9SZWdpc3Rlci9n</entry>
         <entry>s</entry>
+        <entry encoding="base64">JzwsJz5zL05vZGUvQ29tcG9uZW50L2c=</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -97,11 +97,11 @@
         <mark key="]" line="55" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588396158524">
+      <file name="/Dummy.txt" timestamp="1589278600769">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1588396158388">
+      <file name="/Python Console" timestamp="1589278600659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/auth.py" timestamp="1588052016618">
@@ -133,12 +133,6 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/main.js" timestamp="1588040877389">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="8" column="70" />
-        <mark key="^" line="8" column="71" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/config.py" timestamp="1588052072812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="38" />
@@ -147,6 +141,11 @@
       </file>
       <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1588396140497">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/main.py" timestamp="1588579493094">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/business/README.md" timestamp="1588051939992">
         <mark key="[" line="3" column="8" />
@@ -180,6 +179,12 @@
         <mark key="^" line="325" column="63" />
         <mark key="." line="325" column="62" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" timestamp="1589280977378">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="43" column="15" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="43" column="14" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/project-hotspot/Pipfile" timestamp="1588044458046">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="13" column="13" />
@@ -194,14 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="205" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="211" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="213" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="216" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="221" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
-      <jump line="227" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="233" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="239" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
       <jump line="245" column="0" filename="$USER_HOME$/PycharmProjects/allmaths/Sound Stuff - Splines, Oscillators.py" />
@@ -294,51 +291,59 @@
       <jump line="207" column="0" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
       <jump line="277" column="73" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
       <jump line="322" column="43" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
+      <jump line="19" column="16" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
+      <jump line="65" column="7" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
+      <jump line="8" column="13" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHR5cGUgPSBEQwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">c2VsZi52b2x0YWdlIC8g</text>
       </register>
       <register name="/" type="4">
-        <text>lw</text>
+        <text>Node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNpemU6IGludCA9IDggKiAoMiAqKiAxNikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mdW5jID0gbGFtYmRhICppOiBpICAjIGEgcGFzcy10aHJ1IGZ1bmN0aW9uIGFzIGRlZmF1bHQ7IGEgd2lyZQo=</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBEQwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgZnVuYyBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgIEFDID0gMAogICAgREMgPSAxCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcGluczogCiAgICAgICAgOnBhcmFtIGZ1bmM6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHNlbGYudm9sdGFnZSAhPSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgQ3VycmVudDoKICAgIF92b2x0YWdlID0gTm9uZQogICAgX3Jlc2lzdGFuY2UgPSBOb25lCgogICAgQHByb3BlcnR5CiAgICBkZWYgYW1wZXJlcyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi52b2x0YWdlIC8gc2VsZi5yZXNpc3RhbmNlCgogICAgQHByb3BlcnR5CiAgICBkZWYgdm9sdGFnZShzZWxmKToKICAgICAgICBpZiBzZWxmLl92b2x0YWdlIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiAwCgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl92b2x0YWdlCgogICAgQHByb3BlcnR5CiAgICBkZWYgcmVzaXN0YW5jZShzZWxmKToKICAgICAgICBpZiBzZWxmLl9yZXNpc3RhbmNlIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiAwCgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLl9yZXNpc3RhbmNlCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc2l6ZToKICAgICAgICA6cGFyYW0gdmFsdWU6Cg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb25zID0ge30KICAgIHRlcm1pbmFscyA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">MAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -347,11 +352,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lw</last-search>
+      <last-search>Node</last-search>
       <last-offset />
-      <last-pattern>lw</last-pattern>
-      <last-replace>Register</last-replace>
-      <last-substitute>Memory</last-substitute>
+      <last-pattern>Node</last-pattern>
+      <last-replace>Component</last-replace>
+      <last-substitute>Node</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
