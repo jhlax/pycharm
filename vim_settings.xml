@@ -92,11 +92,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/complete/app.py" timestamp="1588064679623">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="55" column="13" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/wtf.py" timestamp="1589354169475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="18" />
@@ -168,6 +163,9 @@
         <mark key="]" line="9" column="4" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="9" column="4" />
+      </file>
+      <file name="/Stocks.ipynb" timestamp="1589360527067">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588328162088">
         <mark key="'" line="322" column="43" />
