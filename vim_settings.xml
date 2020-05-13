@@ -110,14 +110,6 @@
       <file name="/Python Console" timestamp="1589278600659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/project-hotspot/scripts/README.md" timestamp="1588052091749">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1588064668817">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="60" column="13" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/complete/Pipfile" timestamp="1588065498636">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -139,7 +131,7 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1588396140497">
+      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1589360426183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/wtf" timestamp="1589354184792">
@@ -170,6 +162,7 @@
         <mark key="." line="310" column="18" />
         <mark key="^" line="310" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/waves.py" timestamp="1589360273032" />
       <file name="$USER_HOME$/PycharmProjects/complete/Makefile" timestamp="1588066926104">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -194,6 +187,9 @@
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
+      </file>
+      <file name="/Digital Signal Workstation.ipynb" timestamp="1589360508182">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
