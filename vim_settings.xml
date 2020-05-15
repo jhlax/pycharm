@@ -92,7 +92,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1589278600659">
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/wtf.py" timestamp="1589354169475">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589522177358">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="/Python Console" timestamp="1589522176628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1589308155803">
@@ -104,40 +114,19 @@
         <mark key="^" line="416" column="51" />
         <mark key="." line="416" column="50" />
       </file>
+      <file name="/experiments" timestamp="1589512486262">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/wtf" timestamp="1589354184792">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1589360426183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/main.py" timestamp="1588579493094">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/waves.py" timestamp="1589512304579" />
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/util.py" timestamp="1589512461154" />
-      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588328162088">
-        <mark key="'" line="322" column="43" />
-        <mark key="[" line="325" column="48" />
-        <mark key="]" line="325" column="63" />
-        <mark key="^" line="325" column="63" />
-        <mark key="." line="325" column="62" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/wtf.py" timestamp="1589354169475">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589324391503">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" timestamp="1589512403627" />
-      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1589512697654" />
-      <file name="/experiments" timestamp="1589512486262">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1589360426183">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/__main__" timestamp="1589512566045">
         <mark key="[" line="0" column="0" />
@@ -151,6 +140,13 @@
       </file>
       <file name="/Stocks.ipynb" timestamp="1589360527067">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588328162088">
+        <mark key="'" line="322" column="43" />
+        <mark key="[" line="325" column="48" />
+        <mark key="]" line="325" column="63" />
+        <mark key="^" line="325" column="63" />
+        <mark key="." line="325" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" timestamp="1589281288059">
         <mark key="[" line="115" column="23" />
