@@ -98,11 +98,11 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589522177358">
+      <file name="/Dummy.txt" timestamp="1589522366966">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1589522176628">
+      <file name="/Python Console" timestamp="1589522366075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1589308155803">
@@ -131,6 +131,7 @@
       <file name="/__main__" timestamp="1589512566045">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/models/audio/oscil.py" timestamp="1589522472636" />
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" timestamp="1589324426195">
         <mark key="'" line="309" column="14" />
         <mark key="[" line="310" column="0" />
