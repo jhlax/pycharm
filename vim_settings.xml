@@ -102,7 +102,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1589619237358">
+      <file name="/Python Console" timestamp="1589695503654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/golf1.yml" timestamp="1589694761502">
@@ -144,11 +144,11 @@
         <mark key="^" line="77" column="4" />
         <mark key="." line="77" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/wg.py" timestamp="1589694985615">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/wg.py" timestamp="1589695027982">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="/Stocks.ipynb" timestamp="1589360527067">
         <mark key="[" line="0" column="0" />
@@ -167,6 +167,9 @@
         <mark key="." line="101" column="0" />
       </file>
       <file name="/Digital Signal Workstation.ipynb" timestamp="1589360508182">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wg" timestamp="1589695044963">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
