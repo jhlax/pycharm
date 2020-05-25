@@ -144,12 +144,14 @@
         <mark key="^" line="77" column="4" />
         <mark key="." line="77" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/wg.py" timestamp="1589695027982">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/wg.py" timestamp="1590402762131">
+        <mark key="'" line="7" column="7" />
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="52" />
+        <mark key="^" line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/util.py" timestamp="1590401249025" />
       <file name="/Stocks.ipynb" timestamp="1589360527067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -169,13 +171,11 @@
       <file name="/Digital Signal Workstation.ipynb" timestamp="1589360508182">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wg" timestamp="1589695044963">
+      <file name="/wg" timestamp="1590402764472">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="60" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
@@ -274,15 +274,17 @@
       <jump line="237" column="14" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
       <jump line="238" column="10" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
       <jump line="258" column="14" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
+      <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
+      <jump line="5" column="7" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>arg</text>
@@ -291,34 +293,34 @@
         <text encoding="base64">ICAgICAgICB0cmFuc3Bvc2UgPSB0cmFuc3Bvc2UgaWYgdHJhbnNwb3NlIGVsc2Ugc2VsZi50cmFuc3Bvc2UKICAgICAgICByZXR1cm4ge24gZm9yIG4gaW4geiBpZiBpc19tZW1iZXIobiwgc2VsZiwgdHJhbnNwb3NlKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB0cmFuc3Bvc2U6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBuOiAKICAgIDpwYXJhbSByZXM6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXRlIjogewogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImhvbGVzIjogW10sICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoImhhdmVuJ3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBsYXllcnMgPSBwbGF5ZXJzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IHBsYXllcnMgaXMgTm9uZToK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGxheWVycyA9IFsiSmFjayJdCiAgICAgICAgc2VsZi5wbGF5ZXJzID0gcGxheWVycwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBhc19zaWV2ZSgqYXJncyk6CiAgICBpZiBsZW4oYXJncyk6CiAgICAgICAgX2FyZ3MgPSB0dXBsZShtYXAoYXNfb3BlcmFibGUsIGFyZ3MpKQogICAgICAgIHJldHVybiBTaWV2ZSgqX2FyZ3MpCgogICAgZWxzZToKICAgICAgICByZXR1cm4gU2lldmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
