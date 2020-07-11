@@ -45,8 +45,8 @@
         <entry encoding="base64">JzwsJz5zL2FyZy9vL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -98,12 +98,18 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593168783728">
+      <file name="/Dummy.txt" timestamp="1594471128617">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1591604733738">
+      <file name="/Python Console" timestamp="1594471128409">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1594471307845">
+        <mark key="[" line="145" column="13" />
+        <mark key="]" line="145" column="13" />
+        <mark key="." line="145" column="12" />
+        <mark key="^" line="145" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/golf1.yml" timestamp="1589694761502">
         <mark key="[" line="0" column="0" />
@@ -158,13 +164,6 @@
       </file>
       <file name="/Stocks.ipynb" timestamp="1591604712927">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/complete/turing.py" timestamp="1588328162088">
-        <mark key="'" line="322" column="43" />
-        <mark key="[" line="325" column="48" />
-        <mark key="]" line="325" column="63" />
-        <mark key="^" line="325" column="63" />
-        <mark key="." line="325" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" timestamp="1589281288059">
         <mark key="[" line="115" column="23" />
@@ -621,11 +620,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -664,7 +663,7 @@
         <text encoding="base64">ICAgICJXR0Jhc2UiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
