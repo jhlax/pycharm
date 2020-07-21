@@ -171,6 +171,12 @@
         <mark key="^" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/information/public/documents/topics.md" timestamp="1595307093376">
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+        <mark key="." line="13" column="66" />
+      </file>
       <file name="/Digital Signal Workstation.ipynb" timestamp="1591604712734">
         <mark key="[" line="0" column="0" />
       </file>
@@ -621,10 +627,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">YXJlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">YXJlIA==</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
