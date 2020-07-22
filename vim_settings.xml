@@ -178,6 +178,11 @@
       <file name="/wg" timestamp="1590403982313">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/information/public/documents/epistile-21-jul-20.md" timestamp="1595390732701">
+        <mark key="[" line="27" column="275" />
+        <mark key="]" line="27" column="275" />
+        <mark key="." line="27" column="275" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="123" column="21" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
@@ -622,10 +627,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXJlIA==</text>
+        <text>Concrete)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJlIA==</text>
+        <text>Concrete)</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
