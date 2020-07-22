@@ -3,10 +3,11 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="executable_scripts_go_here" type="PLAIN_TEXT" />
-      <mapping pattern="primis" type="PLAIN_TEXT" />
+      <mapping pattern="epistle-sebastian-21-jul-20.md" type="PLAIN_TEXT" />
       <mapping pattern="binaries_go_here" type="PLAIN_TEXT" />
-      <mapping pattern="css/o4.css" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="css/o4.css" type="PLAIN_TEXT" />
+      <mapping pattern="primis" type="PLAIN_TEXT" />
       <mapping pattern="data/data_goes_here" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="als" type="XML" />
