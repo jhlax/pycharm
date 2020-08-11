@@ -98,18 +98,19 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596266584310">
+      <file name="/Dummy.txt" timestamp="1597121734980">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1596266559909">
+      <file name="/Python Console" timestamp="1597121733983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1594471307845">
-        <mark key="[" line="145" column="13" />
-        <mark key="]" line="145" column="13" />
-        <mark key="." line="145" column="12" />
-        <mark key="^" line="145" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1597121997703">
+        <mark key="'" line="158" column="43" />
+        <mark key="[" line="158" column="43" />
+        <mark key="]" line="158" column="44" />
+        <mark key="." line="158" column="43" />
+        <mark key="^" line="158" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/golf1.yml" timestamp="1589694761502">
         <mark key="[" line="0" column="0" />
@@ -185,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="21" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="53" column="43" filename="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" />
       <jump line="31" column="3" filename="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" />
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" />
@@ -285,6 +285,7 @@
       <jump line="33" column="12" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="63" column="47" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="81" column="45" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
+      <jump line="158" column="43" filename="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
