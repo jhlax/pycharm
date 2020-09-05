@@ -92,56 +92,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599296897130">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="19" />
-      </file>
       <file name="/Python Console" timestamp="1599263626224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1597121997703">
-        <mark key="'" line="158" column="43" />
-        <mark key="[" line="158" column="43" />
-        <mark key="]" line="158" column="44" />
-        <mark key="." line="158" column="43" />
-        <mark key="^" line="158" column="44" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1599296675389">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="60" column="36" />
-        <mark key="^" line="60" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/easyshit.py" timestamp="1597537010146">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1591604711771">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/__main__" timestamp="1595204665236">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/index.html" timestamp="1593169121239">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" timestamp="1595250163014">
-        <mark key="'" line="313" column="14" />
-        <mark key="[" line="76" column="7" />
-        <mark key="]" line="77" column="4" />
-        <mark key="^" line="77" column="4" />
-        <mark key="." line="77" column="3" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/wg.py" timestamp="1590411657098">
-        <mark key="'" line="81" column="45" />
-        <mark key="[" line="163" column="30" />
-        <mark key="]" line="164" column="28" />
-        <mark key="." line="164" column="27" />
-        <mark key="^" line="164" column="28" />
-      </file>
-      <file name="/Stocks.ipynb" timestamp="1591604712927">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/clsc-tests/package.json" timestamp="1599298208418">
+        <mark key="'" line="19" column="24" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1599267961384">
         <mark key="[" line="203" column="80" />
@@ -173,10 +132,57 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="/Digital Signal Workstation.ipynb" timestamp="1591604712734">
+      <file name="$USER_HOME$/PycharmProjects/clsc-tests/README.md" timestamp="1599298015819">
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="65" />
+        <mark key="." line="39" column="64" />
+        <mark key="^" line="39" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1599298265755">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1597121997703">
+        <mark key="'" line="158" column="43" />
+        <mark key="[" line="158" column="43" />
+        <mark key="]" line="158" column="44" />
+        <mark key="." line="158" column="43" />
+        <mark key="^" line="158" column="44" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1599296675389">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="60" column="36" />
+        <mark key="^" line="60" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/easyshit.py" timestamp="1597537010146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/wg" timestamp="1590403982313">
+      <file name="/__main__" timestamp="1595204665236">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/dev137/web/templates/index.html" timestamp="1593169121239">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" timestamp="1595250163014">
+        <mark key="'" line="313" column="14" />
+        <mark key="[" line="76" column="7" />
+        <mark key="]" line="77" column="4" />
+        <mark key="^" line="77" column="4" />
+        <mark key="." line="77" column="3" />
+      </file>
+      <file name="/Stocks.ipynb" timestamp="1591604712927">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/router/index.ts" timestamp="1599298612970">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="4" />
+      </file>
+      <file name="/Digital Signal Workstation.ipynb" timestamp="1591604712734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/information/public/documents/epistile-21-jul-20.md" timestamp="1595390732701">
@@ -186,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="246" column="19" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="218" column="108" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
       <jump line="270" column="27" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
@@ -286,6 +291,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="13" column="32" filename="$USER_HOME$/PycharmProjects/clsc-tests/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/clsc-tests/server.py" />
+      <jump line="19" column="24" filename="$USER_HOME$/PycharmProjects/clsc-tests/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -627,11 +633,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>hack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hack</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -640,34 +646,34 @@
         <text encoding="base64">IiIiCm1vcmUgcHJvZHVjdGlvbi1vcmllbnRlZCBzZXJ2ZXIgdXNpbmcgRmxhc2suIHBvdGVudGlhbGx5IEFQSSBmdW5jdGlvbmFsaXR5IGFuZCBzZXNzaW9uIG1hbmFnZW1lbnQgY2FuIGJlIGFkZGVkIHRvCnRoaXMuCiIiIgoKZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKCmFwcCA9IEZsYXNrKF9fbmFtZV9fLCBzdGF0aWNfZm9sZGVyPSJkaXN0IikKCiIiIgp0aGUgbnBtIGJ1aWxkIGV4cG9ydHMgdG8gZGlzdCwgd2hpY2ggaGFzIG91ciBidWlsdCBhbmQgb3B0aW1pemVkIHN0YXRpYyBmaWxlcy4gaW4gb3JkZXIgdG8gdXNlIGRpc3QgYXMgdGhlIHN0YXRpYwpmb2xkZXIgd2hpbGUgbm90IGJyZWFraW5nIHRoZSBsaW5rcyBhbmQgc3VjaCBpbiB0aGUgYnVpbHQganMgLyBjc3MgLyBodG1sLCB3ZSBhZGQgYSByb3V0ZSBmb3IgZWFjaCBvZiB0aGUgc3RhdGljIHR5cGVzCnRoYXQgdGhpcyB3ZWIgYXBwIHVzZXM6CgotIGNzcwotIGpzCi0gaW1nCi0gZmF2aWNvbgoKc29tZXdoYXQgb2YgYSBoYWNrIGJ1dCBpIGRvIG5vdCBjYXJlLiBpdCB3b3Jrcy4KIiIiCgoKQGFwcC5yb3V0ZSgiL2Nzcy88cGF0aDpwYXRoPiIpCmRlZiBjc3MocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImNzcy8iICsgcGF0aCkKCgpAYXBwLnJvdXRlKCIvanMvPHBhdGg6cGF0aD4iKQpkZWYganMocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImpzLyIgKyBwYXRoKQoKCkBhcHAucm91dGUoIi9pbWcvPHBhdGg6cGF0aD4iKQpkZWYgaW1nKHBhdGgpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCJpbWcvIiArIHBhdGgpCgoKQGFwcC5yb3V0ZSgiL2Zhdmljb24uaWNvIikKZGVmIGZhdmljb24oKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiZmF2aWNvbi5pY28iKQoKCiIiIgpzaW5nbGUtcGFnZSBhcHBsaWNhdGlvbiBjYXRjaC1hbGwgcm91dGUuCiIiIgoKCkBhcHAucm91dGUoIi8iLCBkZWZhdWx0cz17InBhdGgiOiAiIn0pCkBhcHAucm91dGUoIi88cGF0aDpwYXRoPiIpCmRlZiBpbmRleChwYXRoKToKICAgIGRlbCBwYXRoCiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImluZGV4Lmh0bWwiKQoKCiIiIgpydW4gdGhlIG1haW4gaWYgdGhpcyBzY3JpcHQgaXMgZXhlY3V0ZWQuCiIiIgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcC5ydW4oaG9zdD0iMC4wLjAuMCIsIHBvcnQ9ODApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKCmFwcCA9IEZsYXNrKF9fbmFtZV9fLCBzdGF0aWNfZm9sZGVyPSIuL2Rpc3QiKQoKCkBhcHAucm91dGUoIi9zdGF0aWMvPHBhdGg6cGF0aD4iKQpkZWYgc3RhdGljKHBhdGgpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKHBhdGgpCgoKQGFwcC5yb3V0ZSgiLyIsIGRlZmF1bHRzPXsicGF0aCI6ICIifSkKQGFwcC5yb3V0ZSgiLzxwYXRoOnBhdGg+IikKZGVmIHNlcnZlKHBhdGgpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCJpbmRleC5odG1sIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgYXBwLnJ1bihwb3J0PSI4MCIpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgiL2Nzcy88cGF0aDpwYXRoPiIpCmRlZiBjc3MocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImNzcy8iICsgcGF0aCkKCgpAYXBwLnJvdXRlKCIvanMvPHBhdGg6cGF0aD4iKQpkZWYganMocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImpzLyIgKyBwYXRoKQoKCkBhcHAucm91dGUoIi9pbWcvPHBhdGg6cGF0aD4iKQpkZWYgaW1nKHBhdGgpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCJpbWcvIiArIHBhdGgpCgoKQGFwcC5yb3V0ZSgiL2Zhdmljb24uaWNvIikKZGVmIGZhdmljb24oKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiZmF2aWNvbi5pY28iKQoKCiIiIgpzaW5nbGUtcGFnZSBhcHBsaWNhdGlvbiBjYXRjaC1hbGwgcm91dGUuCiIiIgoKCg==</text>
+        <text encoding="base64">ICB7CiAgICBwYXRoOiAiL2hvbWVfb2ciLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgiLyIpCg==</text>
+        <text encoding="base64">ICAgIG5hbWU6ICJIb21lIChPcmlnaW5hbCkiLAogICAgY29tcG9uZW50OiBBcHBPcmlnaW5hbAo=</text>
       </register>
       <register name="4" type="2">
-        <text>import flask</text>
+        <text encoding="base64">ICAgICJwb3BwZXMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJib290c3RyYXAtc2FzcyI6ICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwYXJ0aWNsZXM+PC9wYXJ0aWNsZXM+Cg==</text>
+        <text encoding="base64">KiBSRVNUZnVsIEFQSQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKCmFwcCA9IEZsYXNrKF9fbmFtZV9fLCBzdGF0aWNfZm9sZGVyPSIuL2Rpc3QiKQoKCkBhcHAucm91dGUoIi9zdGF0aWMvPHBhdGg6cGF0aD4iKQpkZWYgc3RhdGljKHBhdGgpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKHBhdGgpCgoKQGFwcC5yb3V0ZSgiLyIsIGRlZmF1bHRzPXsicGF0aCI6ICIifSkKQGFwcC5yb3V0ZSgiLzxwYXRoOnBhdGg+IikKZGVmIHNlcnZlKHBhdGgpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCJpbmRleC5odG1sIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgYXBwLnJ1bihwb3J0PSI4MCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgiL2Nzcy88cGF0aDpwYXRoPiIpCmRlZiBjc3MocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImNzcy8iICsgcGF0aCkKCgpAYXBwLnJvdXRlKCIvanMvPHBhdGg6cGF0aD4iKQpkZWYganMocGF0aCk6CiAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoImpzLyIgKyBwYXRoKQoKCkBhcHAucm91dGUoIi9pbWcvPHBhdGg6cGF0aD4iKQpkZWYgaW1nKHBhdGgpOgogICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCJpbWcvIiArIHBhdGgpCgoKQGFwcC5yb3V0ZSgiL2Zhdmljb24uaWNvIikKZGVmIGZhdmljb24oKToKICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgiZmF2aWNvbi5pY28iKQoKCiIiIgpzaW5nbGUtcGFnZSBhcHBsaWNhdGlvbiBjYXRjaC1hbGwgcm91dGUuCiIiIgoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEgPSB7ICAjIGRlZmF1bHQgZGljdGlvbmFyeSBmb3IgZ2FtZSBkYXRhCiAgICAgICAgICAgICJuYW1lIjogICAgbmFtZSwgICMgbmFtZSBvZiB0aGUgc2Vzc2lvbgogICAgICAgICAgICAibl9ob2xlcyI6IDYsICAjIGhvbGVzIHBlciBzZXNzaW9uIGJlZm9yZSBzY29yZSBhbmQgcmVjb3JkCiAgICAgICAgICAgICJjX2hvbGUiOiAwLCAgIyBjdXJyZW50IGhvbGUKICAgICAgICAgICAgInBsYXllcnMiOiBwbGF5ZXJzLCAgIyBsaXN0IG9mIHBsYXllcnMKICAgICAgICAgICAgInNjb3JlcyI6ICBbXSwgICMgdG9kbzogZmlndXJlIGRlZmF1bHQ7IGFkZCBvcHRpb24KICAgICAgICAgICAgInJvdXRlcyI6ICBbXSwgICMgdG9kbzogYWJvdmUKICAgICAgICAgICAgInBhZ2VzIjogICBbXSwgICMgcG9zc2libHkgYSByYW5kb20gcGFnZQogICAgICAgIH0KICAgICAgICBzZWxmLmRhdGEudXBkYXRlKGRhdGEpICAjIHVwZGF0ZSBkZWZhdWx0IHdpdGggYW55IGdpdmVuIGRhdGEK</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgiLyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
