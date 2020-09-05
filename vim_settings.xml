@@ -27,7 +27,6 @@
         <entry>w</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2hvbWUvc2hvcC9n</entry>
         <entry encoding="base64">JzwsJz5zL215LTAvbXktNS9n</entry>
         <entry>%s/shadow-lg/shadow-sm/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -45,8 +44,9 @@
         <entry encoding="base64">JzwsJz5zL2FyZy9vL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>sa</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -92,7 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599267900044">
+      <file name="/Dummy.txt" timestamp="1599267980327">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -162,9 +162,9 @@
       <file name="/Stocks.ipynb" timestamp="1591604712927">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1599267734359">
-        <mark key="[" line="203" column="53" />
-        <mark key="]" line="203" column="81" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1599267961384">
+        <mark key="[" line="203" column="80" />
+        <mark key="]" line="203" column="80" />
         <mark key="." line="203" column="80" />
         <mark key="^" line="203" column="81" />
       </file>
@@ -629,10 +629,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>*warning: super __gay__.*</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>*warning: super __gay__.*</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -671,7 +671,7 @@
         <text encoding="base64">ICAgICJXR0Jhc2UiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
