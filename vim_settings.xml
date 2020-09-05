@@ -98,11 +98,11 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597686464075">
+      <file name="/Dummy.txt" timestamp="1599263626614">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1597686463357">
+      <file name="/Python Console" timestamp="1599263626224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1597121997703">
@@ -118,8 +118,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1589308155803">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/app.py" timestamp="1599263790960">
+        <mark key="'" line="7" column="41" />
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="35" />
+        <mark key="^" line="60" column="35" />
+        <mark key="." line="60" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xenakis.py" timestamp="1589522698152">
         <mark key="[" line="414" column="23" />
@@ -183,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="43" filename="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" />
       <jump line="31" column="3" filename="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" />
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" />
       <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/csrc/interp.c" />
@@ -283,6 +286,7 @@
       <jump line="63" column="47" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="81" column="45" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="158" column="43" filename="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" />
+      <jump line="7" column="41" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
