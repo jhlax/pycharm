@@ -92,13 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/sndalgo/wtf.py" timestamp="1589354169475">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1599263626614">
+      <file name="/Dummy.txt" timestamp="1599267900044">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -167,6 +161,12 @@
       </file>
       <file name="/Stocks.ipynb" timestamp="1591604712927">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1599267734359">
+        <mark key="[" line="203" column="53" />
+        <mark key="]" line="203" column="81" />
+        <mark key="." line="203" column="80" />
+        <mark key="^" line="203" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/information/public/documents/topics.md" timestamp="1595388585586">
         <mark key="[" line="29" column="73" />
@@ -629,10 +629,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>11</text>
+        <text>*warning: super __gay__.*</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>*warning: super __gay__.*</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
