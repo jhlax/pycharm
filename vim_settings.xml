@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz5zL2FyZy9vL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>sa</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -92,7 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599267980327">
+      <file name="/Dummy.txt" timestamp="1599294959550">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
@@ -129,9 +129,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/easyshit.py" timestamp="1597537010146">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/wtf" timestamp="1589354184792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Sound Stuff - Splines, Oscillators.ipynb" timestamp="1591604711771">
@@ -173,6 +170,12 @@
         <mark key="]" line="30" column="20" />
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flexnet/Pipfile" timestamp="1599295221570">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="/Digital Signal Workstation.ipynb" timestamp="1591604712734">
         <mark key="[" line="0" column="0" />
@@ -629,10 +632,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -671,7 +674,7 @@
         <text encoding="base64">ICAgICJXR0Jhc2UiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
