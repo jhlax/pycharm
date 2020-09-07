@@ -644,10 +644,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>92.168.1</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>92.168.1</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
