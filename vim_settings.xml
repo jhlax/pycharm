@@ -98,11 +98,11 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599295333901">
+      <file name="/Dummy.txt" timestamp="1601276476420">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1599263626224">
+      <file name="/Python Console" timestamp="1601276475786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/views/Markdown.vue" timestamp="1599293243923">
@@ -111,7 +111,7 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1597121997703">
+      <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1601276508767">
         <mark key="'" line="158" column="43" />
         <mark key="[" line="158" column="43" />
         <mark key="]" line="158" column="44" />
@@ -123,9 +123,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="60" column="36" />
         <mark key="^" line="60" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/easyshit.py" timestamp="1597537010146">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/App.vue" timestamp="1599299721860">
         <mark key="[" line="6" column="30" />
@@ -157,18 +154,15 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskvue/src/App.vue" timestamp="1599267961384">
-        <mark key="[" line="203" column="80" />
-        <mark key="]" line="203" column="80" />
-        <mark key="." line="203" column="80" />
-        <mark key="^" line="203" column="81" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/router/index.ts" timestamp="1599288636703">
         <mark key="'" line="37" column="4" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="27" column="14" />
+      </file>
+      <file name="/Stocks.ipynb" timestamp="1601276609537">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/pub/md/README.md" timestamp="1599297248095">
         <mark key="[" line="4" column="36" />
@@ -189,6 +183,7 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/allmaths/ju/numbers.py" timestamp="1601276749878" />
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/server.py" timestamp="1599294142601">
         <mark key="[" line="71" column="27" />
         <mark key="]" line="72" column="8" />
@@ -201,10 +196,8 @@
         <mark key="." line="66" column="60" />
         <mark key="^" line="66" column="61" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/information/public/documents/epistile-21-jul-20.md" timestamp="1595390732701">
-        <mark key="[" line="27" column="275" />
-        <mark key="]" line="27" column="275" />
-        <mark key="." line="27" column="275" />
+      <file name="/Digital Signal Workstation.ipynb" timestamp="1601276609175">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
