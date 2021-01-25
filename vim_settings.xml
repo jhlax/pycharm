@@ -98,11 +98,11 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1608590336635">
+      <file name="/Dummy.txt" timestamp="1611616756245">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1611616702002">
+      <file name="/Python Console" timestamp="1611616756192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1603013937888">
@@ -145,6 +145,9 @@
       <file name="/__main__" timestamp="1603013947506">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/hopeful" timestamp="1611616783511">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/views/Database.vue" timestamp="1599299818427">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="29" />
@@ -161,18 +164,17 @@
         <mark key="^" line="37" column="19" />
         <mark key="." line="37" column="18" />
       </file>
+      <file name="/synths" timestamp="1611616764239">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/prototype" timestamp="1611616798646">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/pub/md/README.md" timestamp="1599297248095">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/clsc-tests/clsctests.py" timestamp="1599294824782">
-        <mark key="'" line="20" column="57" />
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="7" />
-        <mark key="^" line="59" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flexnet/Pipfile" timestamp="1599459500449">
         <mark key="[" line="17" column="20" />
