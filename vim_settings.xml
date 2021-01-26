@@ -118,11 +118,11 @@
         <mark key="]" line="60" column="36" />
         <mark key="^" line="60" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/numbers/qanon.py" timestamp="1611617718042">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/numbers/qanon.py" timestamp="1611618798487">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/App.vue" timestamp="1599299721860">
         <mark key="[" line="6" column="30" />
@@ -634,11 +634,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c2luLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>assumptions</text>
+        <text encoding="base64">c2luLCA=</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
