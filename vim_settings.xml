@@ -38,7 +38,6 @@
         <entry encoding="base64">JzwsJz5zL1NpZXZlL0dyb3VwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2FyZy9vL2c=</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>sa</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0hvbWUvRGF0YWJhc2UvZw==</entry>
@@ -46,6 +45,7 @@
         <entry encoding="base64">JzwsJz5zL0hvbWUvTWFya2Rvd24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hvbWUvU2NyaXB0cy9n</entry>
         <entry>s</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -92,12 +92,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/views/Docs.vue" timestamp="1599299858946">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1614240785364">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
@@ -111,6 +105,13 @@
         <mark key="]" line="158" column="44" />
         <mark key="." line="158" column="43" />
         <mark key="^" line="158" column="44" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sem/mod.py" timestamp="1614243875500">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="45" />
+        <mark key="^" line="32" column="45" />
+        <mark key="." line="32" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/numbers/qanon.py" timestamp="1611618798487">
         <mark key="[" line="21" column="34" />
@@ -136,11 +137,11 @@
       <file name="/hopeful" timestamp="1612607787514">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sem/README.md" timestamp="1614240900357">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/sem/README.md" timestamp="1614241102669">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/money" timestamp="1612609677455">
         <mark key="[" line="0" column="0" />
@@ -177,11 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="25" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
-      <jump line="355" column="19" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
-      <jump line="361" column="9" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/spline.py" />
-      <jump line="9" column="2" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
@@ -277,6 +273,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/satcom/sacs.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/satcom/sacs.py" />
       <jump line="3" column="10" filename="$USER_HOME$/PycharmProjects/satcom/sacs.py" />
+      <jump line="13" column="21" filename="$USER_HOME$/PycharmProjects/sem/mod.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/sem/mod.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/sem/mod.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/sem/mod.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/sem/mod.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -622,13 +623,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2luLCA=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxocT48L2hxPiJNYXJrZG93biIgLz4K</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAnbmFtZSc6ICdhZGQnLAogICAgICAgICdkZXNjJzogJ0FkZGl0aW9uJywKICAgICAgICAnZnVuYyc6IGFkZCwKICAgICAgICAnaWZ1bmMnOiBpYWRkLAogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -637,28 +638,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50KGkpKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBweWxhYiBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXR2YWx1ZXMoc2VsZik6CiAgICAgICAgZm9yIGkgaW4gc2VsZi52YWx1ZXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBwb19zaW4oZnJlcXVlbmN5PTEsIHBoYXNlPTApOgogICAgICAgICIiIgogICAgICAgIFJldHVybnMgYSBzaW5lIHdhdmUgUGhpdE9zY2lsIG9iamVjdCBnaXZlbiBhIGZyZXF1ZW5jeSBhbmQgcGhhc2UgWzAsIDFdCiAgICAgICAgIiIiCgogICAgICAgIHJldHVybiBQaGl0T3NjaWwoCiAgICAgICAgICAgIHZhbHVlcz1bCiAgICAgICAgICAgICAgICBtYXRoLnNpbihpICogZnJlcXVlbmN5ICogVEFVIC8gUGhpdE9zY2lsLlRCTFNJWkUgKwogICAgICAgICAgICAgICAgICAgICAgICAgcGhhc2UgKiBUQVUKICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKFBoaXRPc2NpbC5UQkxTSVpFKQogICAgICAgICAgICBdCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">CiAgICAgICAgZnJlcXVlbmN5ID0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">cHJpbnQoUGhpdE9zY2lsLnBvX3NpbihwaGFzZT0zMCkudmFsdWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IwojIFNldCB1cCBwYXRocwo=</text>
+        <text>import black</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
