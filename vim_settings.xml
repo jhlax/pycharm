@@ -118,18 +118,6 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/App.vue" timestamp="1599299721860">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="36" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/clsc-tests/package.json" timestamp="1599298208418">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="30" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/flexnet/vpc.py" timestamp="1599446245729">
         <mark key="[" line="338" column="16" />
         <mark key="]" line="338" column="23" />
@@ -154,7 +142,10 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="/Stocks.ipynb" timestamp="1611616293338">
+      <file name="/money" timestamp="1612609677455">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Stocks.ipynb" timestamp="1612609617536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/satcom/sacs.py" timestamp="1603262119118">
@@ -170,11 +161,10 @@
       <file name="/prototype" timestamp="1612607741048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/clsc-tests/pub/md/README.md" timestamp="1599297248095">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-        <mark key="." line="4" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/nimyph/signal.py" timestamp="1612610161831">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/prototype.py" timestamp="1612607745367" />
       <file name="$USER_HOME$/PycharmProjects/flexnet/Pipfile" timestamp="1599459500449">
@@ -183,6 +173,7 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/allmaths/ju/numbers.py" timestamp="1612609698002" />
       <file name="/Digital Signal Workstation.ipynb" timestamp="1612609617252">
         <mark key="[" line="0" column="0" />
       </file>
@@ -629,8 +620,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2luLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c2luLCA=</text>
@@ -648,28 +639,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBweWxhYiBpbXBvcnQgKgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBweWxhYiBpbXBvcnQgKgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IwojIFNldCB1cCBwYXRocwo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IwojIENyZWF0ZSB0aGUgQmx1ZXByaW50IGludGVyZmFjZQojCg==</text>
+        <text encoding="base64">IwojIFNldCB1cCBwYXRocwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
