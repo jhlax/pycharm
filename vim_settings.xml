@@ -92,9 +92,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1614240785364">
+      <file name="/Dummy.txt" timestamp="1614321151886">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" timestamp="1614321848982">
+        <mark key="'" line="17" column="66" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="/Python Console" timestamp="1612607707424">
         <mark key="[" line="0" column="0" />
@@ -178,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
@@ -278,6 +284,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/sem/mod.py" />
       <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/sem/mod.py" />
       <jump line="10" column="8" filename="$USER_HOME$/PycharmProjects/sem/mod.py" />
+      <jump line="17" column="66" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -620,10 +627,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>er</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>er</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
@@ -632,34 +639,35 @@
         <text encoding="base64">ICAgIHsKICAgICAgICAnbmFtZSc6ICdhZGQnLAogICAgICAgICdkZXNjJzogJ0FkZGl0aW9uJywKICAgICAgICAnZnVuYyc6IGFkZCwKICAgICAgICAnaWZ1bmMnOiBpYWRkLAogICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50KGkpKQoK</text>
+        <text>import loguru as logging
+import o365 as office</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXR2YWx1ZXMoc2VsZik6CiAgICAgICAgZm9yIGkgaW4gc2VsZi52YWx1ZXM6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBwb19zaW4oZnJlcXVlbmN5PTEsIHBoYXNlPTApOgogICAgICAgICIiIgogICAgICAgIFJldHVybnMgYSBzaW5lIHdhdmUgUGhpdE9zY2lsIG9iamVjdCBnaXZlbiBhIGZyZXF1ZW5jeSBhbmQgcGhhc2UgWzAsIDFdCiAgICAgICAgIiIiCgogICAgICAgIHJldHVybiBQaGl0T3NjaWwoCiAgICAgICAgICAgIHZhbHVlcz1bCiAgICAgICAgICAgICAgICBtYXRoLnNpbihpICogZnJlcXVlbmN5ICogVEFVIC8gUGhpdE9zY2lsLlRCTFNJWkUgKwogICAgICAgICAgICAgICAgICAgICAgICAgcGhhc2UgKiBUQVUKICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKFBoaXRPc2NpbC5UQkxTSVpFKQogICAgICAgICAgICBdCiAgICAgICAgKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW50KGkpKQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgZnJlcXVlbmN5ID0K</text>
+        <text encoding="base64">ICAgIGRlZiBnZXR2YWx1ZXMoc2VsZik6CiAgICAgICAgZm9yIGkgaW4gc2VsZi52YWx1ZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBwb19zaW4oZnJlcXVlbmN5PTEsIHBoYXNlPTApOgogICAgICAgICIiIgogICAgICAgIFJldHVybnMgYSBzaW5lIHdhdmUgUGhpdE9zY2lsIG9iamVjdCBnaXZlbiBhIGZyZXF1ZW5jeSBhbmQgcGhhc2UgWzAsIDFdCiAgICAgICAgIiIiCgogICAgICAgIHJldHVybiBQaGl0T3NjaWwoCiAgICAgICAgICAgIHZhbHVlcz1bCiAgICAgICAgICAgICAgICBtYXRoLnNpbihpICogZnJlcXVlbmN5ICogVEFVIC8gUGhpdE9zY2lsLlRCTFNJWkUgKwogICAgICAgICAgICAgICAgICAgICAgICAgcGhhc2UgKiBUQVUKICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKFBoaXRPc2NpbC5UQkxTSVpFKQogICAgICAgICAgICBdCiAgICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoUGhpdE9zY2lsLnBvX3NpbihwaGFzZT0zMCkudmFsdWVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
