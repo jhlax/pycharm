@@ -92,16 +92,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1614322707530">
+      <file name="/Dummy.txt" timestamp="1614326476642">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="19" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" timestamp="1614325473480">
+      <file name="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" timestamp="1614326462763">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="/Python Console" timestamp="1612607707424">
         <mark key="[" line="0" column="0" />
@@ -626,11 +627,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text>writing functions; added example config.yml</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>https://1</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
@@ -639,34 +640,34 @@
         <text encoding="base64">ICAgICAgICBjb25maWdfY3JlYXRlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjdHg6IAogICAgOnJldHVybjogCg==</text>
+        <text>writing functions; added example config.yml</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
+        <text>initial commit</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBjdHg6IAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cl9fYXV0aG9yX18gPSAiSm9obiBIYXJyaW5ndG9uOyAxMzcgRGV2ZWxvcG1lbnQsIEwuTC5DLiIK</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMKIyBJbml0aWFsaXplIExvZ2dpbmcgYW5kIENvbnN0YW50cwojCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMKIyBGdW5jdGlvbnMKIwo=</text>
+        <text encoding="base64">Cl9fYXV0aG9yX18gPSAiSm9obiBIYXJyaW5ndG9uOyAxMzcgRGV2ZWxvcG1lbnQsIEwuTC5DLiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">CiMKIyBJbml0aWFsaXplIExvZ2dpbmcgYW5kIENvbnN0YW50cwojCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMKIyBGdW5jdGlvbnMKIwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
