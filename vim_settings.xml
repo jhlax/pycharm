@@ -96,12 +96,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" timestamp="1614323009673">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="88" />
-        <mark key="." line="10" column="87" />
-        <mark key="^" line="10" column="88" />
+      <file name="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" timestamp="1614324463125">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="96" column="114" />
+        <mark key="]" line="97" column="30" />
+        <mark key="." line="97" column="29" />
+        <mark key="^" line="97" column="30" />
       </file>
       <file name="/Python Console" timestamp="1612607707424">
         <mark key="[" line="0" column="0" />
@@ -185,25 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="10" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="24" column="10" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="27" column="23" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="59" column="21" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="14" column="26" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="101" column="29" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="78" column="8" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="0" column="20" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="82" column="42" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="119" column="29" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="15" column="17" filename="$USER_HOME$/PycharmProjects/complete/sandbox.py" />
-      <jump line="167" column="10" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
-      <jump line="189" column="0" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
-      <jump line="207" column="0" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
-      <jump line="277" column="73" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
       <jump line="322" column="43" filename="$USER_HOME$/PycharmProjects/complete/turing.py" />
       <jump line="19" column="16" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
       <jump line="65" column="7" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
@@ -282,9 +263,28 @@
       <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
       <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
       <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
       <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
       <jump line="72" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="12" column="13" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -626,47 +626,47 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMKIyBJbml0aWFsaXplIExvZ2dpbmcgYW5kIENvbnN0YW50cwojCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>will be made</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAnbmFtZSc6ICdhZGQnLAogICAgICAgICdkZXNjJzogJ0FkZGl0aW9uJywKICAgICAgICAnZnVuYyc6IGFkZCwKICAgICAgICAnaWZ1bmMnOiBpYWRkLAogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfY3JlYXRlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMKIyBJbml0aWFsaXplIExvZ2dpbmcgYW5kIENvbnN0YW50cwojCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBjdHg6IAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMKIyBGdW5jdGlvbnMKIwo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cl9fYXV0aG9yX18gPSAiSm9obiBIYXJyaW5ndG9uOyAxMzcgRGV2ZWxvcG1lbnQsIEwuTC5DLiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMKIyBJbml0aWFsaXplIExvZ2dpbmcgYW5kIENvbnN0YW50cwojCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMKIyBGdW5jdGlvbnMKIwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoIk9mZmljZSAzNjUgU2NyYXBlclxuIiwgZmlsZT1zeXMuc3RkZXJyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
