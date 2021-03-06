@@ -133,6 +133,12 @@
         <mark key="." line="338" column="22" />
         <mark key="^" line="338" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/zwavc/zwavc.py" timestamp="1615043744039">
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="59" />
+        <mark key="." line="24" column="58" />
+        <mark key="^" line="24" column="59" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/views/Scripts.vue" timestamp="1599299939590">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="16" />
@@ -627,11 +633,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>writing functions; added example config.yml</text>
+      <register name="&quot;" type="4">
+        <text>22</text>
       </register>
       <register name="-" type="4">
-        <text>https://1</text>
+        <text>22</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
@@ -640,34 +646,34 @@
         <text encoding="base64">ICAgICAgICBjb25maWdfY3JlYXRlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text>writing functions; added example config.yml</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbXByZXNzZWRfZGF0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>initial commit</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGlvLkJ5dGVzSU8oKSBhcyBibzoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjdHg6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcHJlc3NlZF9kYXQgPSBiby5nZXR2YWx1ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZG9uZSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJkb25lIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cl9fYXV0aG9yX18gPSAiSm9obiBIYXJyaW5ndG9uOyAxMzcgRGV2ZWxvcG1lbnQsIEwuTC5DLiIK</text>
+        <text encoding="base64">cHJpbnQoImRvbmUiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMKIyBJbml0aWFsaXplIExvZ2dpbmcgYW5kIENvbnN0YW50cwojCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZi5yZWFkZnJhbWVzKClbMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMKIyBGdW5jdGlvbnMKIwo=</text>
+        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBXYXZlRmlsZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgIHBhdGg6IFBhdGhMaWtlCiAgICBkYXRhOiBucC5uZGFycmF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
