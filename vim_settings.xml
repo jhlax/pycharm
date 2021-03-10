@@ -27,7 +27,6 @@
         <entry>Home</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3gvcC9n</entry>
         <entry>:w</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL1lbL2c=</entry>
@@ -46,6 +45,7 @@
         <entry>s</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -104,7 +104,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1612607707424">
+      <file name="/Python Console" timestamp="1615364443990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1612609586329">
@@ -140,12 +140,6 @@
         <mark key="." line="24" column="58" />
         <mark key="^" line="24" column="59" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/clsc-tests/src/views/Scripts.vue" timestamp="1599299939590">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="12" column="16" />
-      </file>
       <file name="/__main__" timestamp="1612607783876">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,6 +151,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/zwavc/zwavdb.py" timestamp="1615365321687">
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="27" />
       </file>
       <file name="/money" timestamp="1612609677455">
         <mark key="[" line="0" column="0" />
@@ -635,10 +635,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>open</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>open</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
@@ -647,34 +647,35 @@
         <text encoding="base64">ICAgICAgICBjb25maWdfY3JlYXRlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBmcm9tIHdhdmUgaW1wb3J0IG9wZW4gYXMgb3Blbl93YXZlCg==</text>
+        <text encoding="base64">cHJpbnQoKmN4LnByb2plY3RzLCBzZXA9IlxuIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCg1KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3NuZGZ6ID0gY3NuZHAuc3RhdCgpLnN0X3NpemUK</text>
+        <text encoding="base64">CkBkYXRhY2xhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbXByZXNzZWRfZGF0KQo=</text>
+        <text>class AWavDB:
+    dir:</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGlvLkJ5dGVzSU8oKSBhcyBibzoK</text>
+        <text encoding="base64">aW1wb3J0IGZpcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcHJlc3NlZF9kYXQgPSBiby5nZXR2YWx1ZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zLCBzeXMKaW1wb3J0IHBhdGhsaWIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZG9uZSIpCg==</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJkb25lIikK</text>
+        <text encoding="base64">ClBMQVRGT1JNID0gc3lzLnBsYXRmb3JtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoImRvbmUiKQo=</text>
+        <text encoding="base64">VVNFUkRJUiA9IHBhdGhsaWIuUGF0aCgifi8iKS5leHBhbmR1c2VyKCkKQ09ORklHX0ZJTEVfTkFNRSA9IHBhdGhsaWIuUGF0aCgiendhdmMueW1sIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
