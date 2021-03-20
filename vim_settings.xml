@@ -104,7 +104,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1615364443990">
+      <file name="/Python Console" timestamp="1616201066545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1612609586329">
@@ -114,10 +114,12 @@
         <mark key="." line="158" column="43" />
         <mark key="^" line="158" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616200449187">
-        <mark key="'" line="88" column="13" />
-        <mark key="[" line="91" column="44" />
-        <mark key="^" line="91" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616202187434">
+        <mark key="'" line="102" column="21" />
+        <mark key="[" line="116" column="15" />
+        <mark key="]" line="116" column="17" />
+        <mark key="." line="116" column="16" />
+        <mark key="^" line="116" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sem/mod.py" timestamp="1614247604718">
         <mark key="'" line="9" column="8" />
@@ -192,9 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
       <jump line="115" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
       <jump line="122" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
       <jump line="124" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
@@ -285,13 +284,16 @@
       <jump line="46" column="19" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="62" column="3" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="5" column="18" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
-      <jump line="65" column="12" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="71" column="16" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="6" column="19" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="73" column="4" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="66" column="16" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="88" column="13" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="65" column="7" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="100" column="12" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="7" column="18" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="101" column="21" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -633,11 +635,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>print(f&quot;{w=}, {sig=}, {w.get_components(PhaseComponent, AmplitudeComponent)}&quot;)</text>
+      <register name="&quot;" type="4">
+        <text>60 * 1</text>
       </register>
       <register name="-" type="4">
-        <text>: np.ndarray | None</text>
+        <text>60 * 1</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
@@ -646,34 +648,34 @@
         <text encoding="base64">ICAgICAgICBjb25maWdfY3JlYXRlZCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text>print(f&quot;{w=}, {sig=}, {w.get_components(PhaseComponent, AmplitudeComponent)}&quot;)</text>
+        <text encoding="base64">ICAgIHNob3coKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJtYWtpbmcgc2lnbmFsIikK</text>
+        <text encoding="base64">ICAgIHhrY2QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCaWFzQ29tcG9uZW50KCksCg==</text>
+        <text encoding="base64">ICAgIGYgPSAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBlcwo=</text>
+        <text encoding="base64">cHJpbnQody5jb21wb25lbnRzX2Zvcl9lbnRpdHkoc2lnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFtcGxpdHVkZTogZmxvYXQgPSAxLjAK</text>
+        <text>print(f&quot;{w=}, {sig=}, {w.get_components(PhaseComponent, AmplitudeComponent)}&quot;)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5bXB5Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJtYWtpbmcgc2lnbmFsIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoKmN4LnByb2plY3RzLCBzZXA9IlxuIikK</text>
+        <text encoding="base64">ICAgICAgICBCaWFzQ29tcG9uZW50KCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCg1KQo=</text>
+        <text encoding="base64">ZnJvbSBlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkBkYXRhY2xhc3MK</text>
+        <text encoding="base64">ICAgIGFtcGxpdHVkZTogZmxvYXQgPSAxLjAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
