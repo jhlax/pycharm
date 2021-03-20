@@ -37,7 +37,6 @@
         <entry encoding="base64">JzwsJz5zL1NpZXZlL0dyb3VwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2FyZy9vL2c=</entry>
         <entry>sa</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0hvbWUvRGF0YWJhc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hvbWUvRG9jcy9n</entry>
         <entry encoding="base64">JzwsJz5zL0hvbWUvTWFya2Rvd24vZw==</entry>
@@ -47,6 +46,7 @@
         <entry>W</entry>
         <entry>Lw</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,11 +114,12 @@
         <mark key="." line="158" column="43" />
         <mark key="^" line="158" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616199211051">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616199359748">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sem/mod.py" timestamp="1614247604718">
         <mark key="'" line="9" column="8" />
@@ -139,6 +140,12 @@
         <mark key="]" line="24" column="59" />
         <mark key="." line="24" column="58" />
         <mark key="^" line="24" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/xecsz/ecstuff.py" timestamp="1616199758896">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="/__main__" timestamp="1612607783876">
         <mark key="[" line="0" column="0" />
@@ -182,18 +189,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flexnet/Pipfile" timestamp="1599459500449">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="21" />
-      </file>
       <file name="/Digital Signal Workstation.ipynb" timestamp="1612609617252">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="16" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
       <jump line="65" column="7" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
       <jump line="8" column="13" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/wires.py" />
@@ -293,6 +293,7 @@
       <jump line="84" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
       <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/office365-scrape/scraper.py" />
       <jump line="24" column="58" filename="$USER_HOME$/PycharmProjects/zwavc/zwavc.py" />
+      <jump line="38" column="20" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -634,11 +635,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFtcGxpdHVkZTogZmxvYXQgPSAxLjAK</text>
+      <register name="&quot;" type="4">
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text>signal</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
@@ -678,7 +679,7 @@
         <text encoding="base64">aW1wb3J0IHlhbWwKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
