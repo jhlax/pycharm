@@ -42,10 +42,10 @@
         <entry encoding="base64">JzwsJz5zL0hvbWUvTWFya2Rvd24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hvbWUvU2NyaXB0cy9n</entry>
         <entry>s</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>Lw</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -114,12 +114,11 @@
         <mark key="." line="158" column="43" />
         <mark key="^" line="158" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616665722094">
-        <mark key="'" line="102" column="21" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="12" />
-        <mark key="." line="117" column="11" />
-        <mark key="^" line="117" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616669722012">
+        <mark key="[" line="113" column="40" />
+        <mark key="]" line="113" column="40" />
+        <mark key="." line="113" column="39" />
+        <mark key="^" line="113" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sem/mod.py" timestamp="1614247604718">
         <mark key="'" line="9" column="8" />
@@ -194,11 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
       <jump line="133" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
       <jump line="106" column="17" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
       <jump line="56" column="19" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
@@ -294,6 +288,11 @@
       <jump line="100" column="12" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="7" column="18" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="101" column="21" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="142" column="99" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="179" column="27" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="139" column="6" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -636,46 +635,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfY3JlYXRlZCA9IFRydWUK</text>
+        <text encoding="base64">IyB4a2NkKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNob3coKQo=</text>
+        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBHbG9iYWxDb21wb25lbnQ6CiAgICBzID0gMTAyNAogICAgdHMgPSBzICogOAogICAgZiA9IG5wLmFwcGVuZChucC5saW5zcGFjZSgzLjk5OTk5OTk5LCAyLCB0cyAvLyAyLCBkdHlwZT1mbG9hdCksIC1ucC5saW5zcGFjZSgyLCAwLjAwMDAwMDAxLCB0cyAvLyAyLCBkdHlwZT1mbG9hdCkpCiAgICB0ID0gbnAuYXJhbmdlKHRzKQoKICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIGxvZ2dlci5kZWJ1ZygKICAgICAgICAgICAgZiJjcmVhdGVkIGdsb2JhbCBjb21wb25lbnQ6IHNyYXRlPXtzZWxmLnN9aHogZnJlcT17c2VsZi5mWzBdfS17c2VsZi5mWy0xXX1oeiB0PXtzZWxmLnRbMF19LXtzZWxmLnRbLTFdfSIpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHhrY2QoKQo=</text>
+        <text encoding="base64">CiMgb3V0ID0gW10KIyB4a2NkKCkKIyAgICAgY29tcG9uZW50cyA9IHcuY29tcG9uZW50c19mb3JfZW50aXR5KHNpZykKIyAgICAgbG9nZ2VyLmluZm8oZiJ7Y29tcG9uZW50cz19IikKIyAgICAgd2F2ZWZ1bmMgPSBjb21wb25lbnRzWy0xXQojICAgICBvdXQgKz0gW2kgZm9yIGkgaW4gd2F2ZWZ1bmMud2F2ZSh0LCBzLCBmKV0KCiMgb3V0ID0gbnAuYXNhcnJheShvdXQsIGR0eXBlPWZsb2F0KQojIGxvZ2dlci5zdWNjZXNzKGYiY2FsY3VsYXRlZCB7bGVuKG91dCl9IHNhbXBsZXMge291dH0iKQojIGxvZ2dlci5pbmZvKCJwbG90dGluZyBkYXRhIikKIyBwbG90KG91dCkKIyBzaG93KCkKIyBsb2dnZXIuc3VjY2VzcygiY29tcGxldGUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGYgPSAxCg==</text>
+        <text encoding="base64">bG9nZ2VyLnN1Y2Nlc3MoImdsb2JhbCBhbmQgcHJvY2Vzc29yIGluc3RhbnRpYXRpb24gY29tcGxldGUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQody5jb21wb25lbnRzX2Zvcl9lbnRpdHkoc2lnKSkK</text>
+        <text encoding="base64">bG9nZ2VyLnN1Y2Nlc3MoZiJwcmVwYXJhdGlvbnMgY29tcGxldGUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text>print(f&quot;{w=}, {sig=}, {w.get_components(PhaseComponent, AmplitudeComponent)}&quot;)</text>
+        <text encoding="base64">CnNpZyA9IG1ha2Vfc2lnbmFsKHcpCnNpZyA9IG1ha2Vfc2lnbmFsX3dhdmUodywgc2lnLCBzaW5lX2Z1bmN0aW9uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJtYWtpbmcgc2lnbmFsIikK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIGxvZ2dlci5jb250ZXh0dWFsaXplKCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCaWFzQ29tcG9uZW50KCksCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBlcwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFtcGxpdHVkZTogZmxvYXQgPSAxLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBsb2dnZXIuaW5mbyhmInNpZ25hbCB7a31cbiIgKyBmIntzZWxmLm91dFtrXX0iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
