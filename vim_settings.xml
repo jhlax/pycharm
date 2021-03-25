@@ -27,7 +27,6 @@
         <entry>Home</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL1lbL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3kvWS4vZw==</entry>
@@ -46,6 +45,7 @@
         <entry>wq</entry>
         <entry>Lw</entry>
         <entry>q</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -114,11 +114,11 @@
         <mark key="." line="158" column="43" />
         <mark key="^" line="158" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616669722012">
-        <mark key="[" line="113" column="40" />
-        <mark key="]" line="113" column="40" />
-        <mark key="." line="113" column="39" />
-        <mark key="^" line="113" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616681848454">
+        <mark key="[" line="171" column="45" />
+        <mark key="]" line="173" column="69" />
+        <mark key="." line="173" column="68" />
+        <mark key="^" line="173" column="69" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sem/mod.py" timestamp="1614247604718">
         <mark key="'" line="9" column="8" />
@@ -635,10 +635,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>1.9999999</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>1.9999999</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
