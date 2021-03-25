@@ -92,7 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1614326476642">
+      <file name="/Dummy.txt" timestamp="1616665412225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,7 +104,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1616201066545">
+      <file name="/Python Console" timestamp="1616665412114">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1612609586329">
@@ -114,12 +114,12 @@
         <mark key="." line="158" column="43" />
         <mark key="^" line="158" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616202187434">
+      <file name="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" timestamp="1616665722094">
         <mark key="'" line="102" column="21" />
-        <mark key="[" line="116" column="15" />
-        <mark key="]" line="116" column="17" />
-        <mark key="." line="116" column="16" />
-        <mark key="^" line="116" column="17" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="12" />
+        <mark key="." line="117" column="11" />
+        <mark key="^" line="117" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sem/mod.py" timestamp="1614247604718">
         <mark key="'" line="9" column="8" />
@@ -636,10 +636,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>60 * 1</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>60 * 1</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
