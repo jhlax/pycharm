@@ -41,11 +41,11 @@
         <entry encoding="base64">JzwsJz5zL0hvbWUvTWFya2Rvd24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hvbWUvU2NyaXB0cy9n</entry>
         <entry>s</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry>Lw</entry>
         <entry>q</entry>
         <entry>:w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -92,7 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1616907292318">
+      <file name="/Dummy.txt" timestamp="1617089703386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,7 +104,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1616907292179">
+      <file name="/Python Console" timestamp="1617089703302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1612609586329">
@@ -158,6 +158,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/zwavc/socs.py" timestamp="1617091566385">
+        <mark key="[" line="128" column="20" />
+        <mark key="]" line="128" column="49" />
+        <mark key="." line="128" column="48" />
+        <mark key="^" line="128" column="49" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/zwavc/zwavdb.py" timestamp="1615365462634">
         <mark key="[" line="40" column="45" />
         <mark key="]" line="40" column="45" />
@@ -169,13 +175,6 @@
       </file>
       <file name="/Stocks.ipynb" timestamp="1612609617536">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/satcom/sacs.py" timestamp="1603262119118">
-        <mark key="'" line="3" column="10" />
-        <mark key="[" line="35" column="75" />
-        <mark key="]" line="37" column="19" />
-        <mark key="^" line="37" column="19" />
-        <mark key="." line="37" column="18" />
       </file>
       <file name="/synths" timestamp="1611616764239">
         <mark key="[" line="0" column="0" />
@@ -193,17 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="106" column="17" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="56" column="19" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="30" column="21" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="227" column="18" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="237" column="14" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="238" column="10" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="258" column="14" filename="$USER_HOME$/PycharmProjects/sndalgo/sndalgo/xks.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
-      <jump line="5" column="7" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="30" column="28" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="121" column="3" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
@@ -293,6 +281,17 @@
       <jump line="173" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="139" column="6" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="145" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="109" column="25" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="14" column="10" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="120" column="3" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/PycharmProjects/zwavc/socs.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -635,46 +634,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1.9999999</text>
+        <text>double_gaussian</text>
       </register>
       <register name="-" type="4">
-        <text>1.9999999</text>
+        <text>double_gaussian</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyB4a2NkKCkK</text>
+        <text encoding="base64">cHJpbnQodC5pbnRlZ3JhdGVfc2luZ2xlKC0xMCwgMTApLCB0LmVycm9yKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBHbG9iYWxDb21wb25lbnQ6CiAgICBzID0gMTAyNAogICAgdHMgPSBzICogOAogICAgZiA9IG5wLmFwcGVuZChucC5saW5zcGFjZSgzLjk5OTk5OTk5LCAyLCB0cyAvLyAyLCBkdHlwZT1mbG9hdCksIC1ucC5saW5zcGFjZSgyLCAwLjAwMDAwMDAxLCB0cyAvLyAyLCBkdHlwZT1mbG9hdCkpCiAgICB0ID0gbnAuYXJhbmdlKHRzKQoKICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIGxvZ2dlci5kZWJ1ZygKICAgICAgICAgICAgZiJjcmVhdGVkIGdsb2JhbCBjb21wb25lbnQ6IHNyYXRlPXtzZWxmLnN9aHogZnJlcT17c2VsZi5mWzBdfS17c2VsZi5mWy0xXX1oeiB0PXtzZWxmLnRbMF19LXtzZWxmLnRbLTFdfSIpCgo=</text>
+        <text encoding="base64">ICAgIGRlZiBkb3VibGVfZ2F1c3NpYW4oeCwgeSk6CiAgICAgICAgcmV0dXJuIG5wLmV4cCgtKHggKiogMiArIHkgKiogMikpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgb3V0ID0gW10KIyB4a2NkKCkKIyAgICAgY29tcG9uZW50cyA9IHcuY29tcG9uZW50c19mb3JfZW50aXR5KHNpZykKIyAgICAgbG9nZ2VyLmluZm8oZiJ7Y29tcG9uZW50cz19IikKIyAgICAgd2F2ZWZ1bmMgPSBjb21wb25lbnRzWy0xXQojICAgICBvdXQgKz0gW2kgZm9yIGkgaW4gd2F2ZWZ1bmMud2F2ZSh0LCBzLCBmKV0KCiMgb3V0ID0gbnAuYXNhcnJheShvdXQsIGR0eXBlPWZsb2F0KQojIGxvZ2dlci5zdWNjZXNzKGYiY2FsY3VsYXRlZCB7bGVuKG91dCl9IHNhbXBsZXMge291dH0iKQojIGxvZ2dlci5pbmZvKCJwbG90dGluZyBkYXRhIikKIyBwbG90KG91dCkKIyBzaG93KCkKIyBsb2dnZXIuc3VjY2VzcygiY29tcGxldGUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyLnN1Y2Nlc3MoImdsb2JhbCBhbmQgcHJvY2Vzc29yIGluc3RhbnRpYXRpb24gY29tcGxldGUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nZ2VyLnN1Y2Nlc3MoZiJwcmVwYXJhdGlvbnMgY29tcGxldGUiKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBkb3VibGVfZ2F1c3NpYW4oeCwgeSk6CiAgICAgICAgcmV0dXJuIG5wLmV4cCgtKHggKiogMiArIHkgKiogMikpCgoKICAgIHQgPSBJbnRlZ3JhdG9yKGxhbWJkYSB4OiBucC5zaW4oMiAqIG5wLnBpICogeCkpCiAgICBwcmludCh0LmludGVncmF0ZV9zaW5nbGUoLTEwLCAxMCksIHQuZXJyb3IpCgogICAgdCA9IEludGVncmF0b3IoZG91YmxlX2dhdXNzaWFuKQogICAgcHJpbnQodC5pbnRlZ3JhdGVfZG91YmxlKFtbLTUwMCwgNTAwXSwgWy01MDAsIDUwMF1dLCBwcmVjaXNpb249MyksIHQuZXJyb3IpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnNpZyA9IG1ha2Vfc2lnbmFsKHcpCnNpZyA9IG1ha2Vfc2lnbmFsX3dhdmUodywgc2lnLCBzaW5lX2Z1bmN0aW9uKQo=</text>
+        <text encoding="base64">X19hbGxfXyA9IFtJbnRlZ3JhdGlvbkVycm9yLCBJbnRlZ3JhdG9yXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGxvZ2dlci5jb250ZXh0dWFsaXplKCk6Cg==</text>
+        <text encoding="base64">X19hdXRob3JfXyA9ICJKb2huIEhhcnJpbmd0b24iCl9fdmVyc2lvbl9fID0gIjEuMC4wIgoKX19hbGxfXyA9IFtJbnRlZ3JhdGlvbkVycm9yLCBJbnRlZ3JhdG9yXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
+        <text encoding="base64">ZGVmIGRvdWJsZV9nYXVzc2lhbih4LCB5KToKICAgIHJldHVybiBucC5leHAoLSh4ICoqIDIgKyB5ICoqIDIpKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBsb2dnZXIuaW5mbyhmInNpZ25hbCB7a31cbiIgKyBmIntzZWxmLm91dFtrXX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
