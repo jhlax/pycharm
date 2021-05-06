@@ -104,7 +104,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1620293769192">
+      <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1612609586329">
@@ -148,11 +148,12 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/phoenix/abcdef.py" timestamp="1620294004124">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/phoenix/abcdef.py" timestamp="1620294144126">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="/__main__" timestamp="1612607783876">
         <mark key="[" line="0" column="0" />
@@ -200,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="12" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="63" column="47" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="81" column="45" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="158" column="43" filename="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" />
@@ -300,6 +300,7 @@
       <jump line="162" column="15" filename="$USER_HOME$/PycharmProjects/zwavc/ecynth.py" />
       <jump line="9" column="47" filename="$USER_HOME$/PycharmProjects/zwavc/zwcg2.py" />
       <jump line="14" column="15" filename="$USER_HOME$/PycharmProjects/zwavc/zwcg2.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/PycharmProjects/phoenix/abcdef.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -641,8 +642,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text>print(math.sin(1))</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -654,34 +655,34 @@
         <text encoding="base64">c2lnX2IgPSBlY3ludGgubWFrZV9zaWduYWwodywgLjUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text>w.add_processor(ecynth.)</text>
+        <text>print(math.sin(1))</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiBgcmljaGAK</text>
+        <text>w.add_processor(ecynth.)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEZpcmUoSW50ZWdyYXRvcihsYW1iZGEgeDogbnAuY29zKHggLyBucC5zaW4oeCkpKSkK</text>
+        <text encoding="base64">KiBgcmljaGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpcmUoSW50ZWdyYXRvcihsYW1iZGEgeDogbnAuY29zKHggLyBucC5zaW4oeCkpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CldPUkxEID0gZWN5bnRoLnc=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CldPUkxEID0gZWN5bnRoLnc=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBkb3VibGVfZ2F1c3NpYW4oeCwgeSk6CiAgICAgICAgcmV0dXJuIG5wLmV4cCgtKHggKiogMiArIHkgKiogMikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvdygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBkb3VibGVfZ2F1c3NpYW4oeCwgeSk6CiAgICAgICAgcmV0dXJuIG5wLmV4cCgtKHggKiogMiArIHkgKiogMikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
