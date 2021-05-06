@@ -92,7 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1617156336218">
+      <file name="/Dummy.txt" timestamp="1620293769307">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,7 +104,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1617156336101">
+      <file name="/Python Console" timestamp="1620293769192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" timestamp="1612609586329">
@@ -148,6 +148,12 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="23" column="33" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/phoenix/abcdef.py" timestamp="1620294004124">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="/__main__" timestamp="1612607783876">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,9 +182,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Stocks.ipynb" timestamp="1612609617536">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/prototype" timestamp="1612607741048">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/nimyph/signal.py" timestamp="1612610161831">
