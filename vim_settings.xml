@@ -104,11 +104,11 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1621423945715">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1621425201190">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -646,10 +646,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text encoding="base64">aW1wb3J0IGV0aGJyb3duaWUK</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
@@ -658,34 +658,34 @@
         <text encoding="base64">c2lnX2IgPSBlY3ludGgubWFrZV9zaWduYWwodywgLjUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text encoding="base64">aW1wb3J0IGV0aGJyb3duaWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCByaWNo</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="3" type="2">
-        <text>print(math.sin(1))</text>
+        <text encoding="base64">CmltcG9ydCByaWNo</text>
       </register>
       <register name="4" type="2">
-        <text>w.add_processor(ecynth.)</text>
+        <text>print(math.sin(1))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KiBgcmljaGAK</text>
+        <text>w.add_processor(ecynth.)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZpcmUoSW50ZWdyYXRvcihsYW1iZGEgeDogbnAuY29zKHggLyBucC5zaW4oeCkpKSkK</text>
+        <text encoding="base64">KiBgcmljaGAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpcmUoSW50ZWdyYXRvcihsYW1iZGEgeDogbnAuY29zKHggLyBucC5zaW4oeCkpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CldPUkxEID0gZWN5bnRoLnc=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CldPUkxEID0gZWN5bnRoLnc=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
