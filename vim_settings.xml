@@ -155,9 +155,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/__main__" timestamp="1612607783876">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/hopeful" timestamp="1612607787514">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,6 +169,9 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
         <mark key="^" line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/vsocx/README.md" timestamp="1621421181213">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zwavc/zwavdb.py" timestamp="1615365462634">
         <mark key="[" line="40" column="45" />
