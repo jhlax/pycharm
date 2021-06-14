@@ -104,11 +104,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1621427849934">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623637571681">
+        <mark key="'" line="0" column="44" />
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="1" column="39" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -204,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="47" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="81" column="45" filename="$USER_HOME$/PycharmProjects/sndalgo/wg.py" />
       <jump line="158" column="43" filename="$USER_HOME$/PycharmProjects/neurodial/neurodial/__main__.py" />
       <jump line="7" column="41" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
@@ -304,6 +304,7 @@
       <jump line="9" column="47" filename="$USER_HOME$/PycharmProjects/zwavc/zwcg2.py" />
       <jump line="14" column="15" filename="$USER_HOME$/PycharmProjects/zwavc/zwcg2.py" />
       <jump line="0" column="10" filename="$USER_HOME$/PycharmProjects/phoenix/abcdef.py" />
+      <jump line="3" column="44" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -646,10 +647,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
@@ -658,34 +659,36 @@
         <text encoding="base64">c2lnX2IgPSBlY3ludGgubWFrZV9zaWduYWwodywgLjUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGV0aGJyb3duaWUK</text>
+        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBUaW1ldDoKICAgIHNlY29uZHM6IGZsb2F0ID0gMC4wCiAgICBtaW51dGVzOiBmbG9hdCA9IDAuMAogICAgaG91cnM6IGZsb2F0ID0gMC4wCiAgICAKICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IA==</text>
+      <register name="2" type="4">
+        <text>&quot;
+polyhedra
+&quot;&quot;&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCByaWNo</text>
+        <text encoding="base64">aW1wb3J0IHdlYjMgICAgICAgICAgICAgICAgICAgICAgIyBldGhlcmV1bSBvcHMgbGliCmltcG9ydCBpcGZzaHR0cGNsaWVudCBhcyBpcGZzICAgICMgaXBmcyBpbnRlcmZhY2UKaW1wb3J0IGFpcnRhYmxlIGFzIGF0ICAgICAgICAgICAgIyBhaXJ0YWJsZSBpbnRlcmZhY2UKCmltcG9ydCBwYW5kYXMgYXMgcGQgICAgICAgICAgICAgICMgZGF0YXRhYmxlcwppbXBvcnQgbnVtcHkgYXMgbnAgICAgICAgICAgICAgICAjIGxpbmFsZyAvIG51bWVyaWMgbGliCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQgICMgZ3JhcGhpbmcgYW5kIGZpZ3VyZSBsaWIKaW1wb3J0IHNjaXB5IGFzIHNjcCAgICAgICAgICAgICAgIyBzY2llbnRpZmljIHByb2dyYW1taW5nIGxpYgppbXBvcnQgc3ltcHkgYXMgc3ltICAgICAgICAgICAgICAjIHN5bWJvbGljIHByb2dyYW1taW5nIGxpYgoKZGF0YSA9IG5wLmRpYWcoWzExLCAxMF0sIGR0eXBlPWZsb2F0KQoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text>print(math.sin(1))</text>
+        <text encoding="base64">aW1wb3J0IGV0aGJyb3duaWUK</text>
       </register>
       <register name="5" type="2">
-        <text>w.add_processor(ecynth.)</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBgcmljaGAK</text>
+        <text encoding="base64">CmltcG9ydCByaWNo</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZpcmUoSW50ZWdyYXRvcihsYW1iZGEgeDogbnAuY29zKHggLyBucC5zaW4oeCkpKSkK</text>
+        <text>print(math.sin(1))</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>w.add_processor(ecynth.)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CldPUkxEID0gZWN5bnRoLnc=</text>
+        <text encoding="base64">KiBgcmljaGAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
