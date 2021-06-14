@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>footer</entry>
         <entry>^\w.*</entry>
         <entry>link</entry>
         <entry>home</entry>
@@ -25,9 +24,9 @@
         <entry>ls</entry>
         <entry>w</entry>
         <entry>Home</entry>
+        <entry>24</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1lbL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3kvWS4vZw==</entry>
         <entry>ws</entry>
         <entry encoding="base64">JzwsJz5zL01lbW9yeS9SZWdpc3Rlci9n</entry>
@@ -46,6 +45,7 @@
         <entry>:w</entry>
         <entry>W</entry>
         <entry>ew</entry>
+        <entry encoding="base64">JzwsJz5zLzI0LzYwL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -104,12 +104,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623641503087">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="15" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623644305909">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="61" column="11" />
+        <mark key="^" line="61" column="11" />
+        <mark key="." line="61" column="10" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -205,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
-      <jump line="13" column="32" filename="$USER_HOME$/PycharmProjects/clsc-tests/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/clsc-tests/server.py" />
       <jump line="19" column="24" filename="$USER_HOME$/PycharmProjects/clsc-tests/package.json" />
       <jump line="15" column="26" filename="$USER_HOME$/PycharmProjects/clsc-tests/src/router/index.ts" />
@@ -302,9 +300,11 @@
       <jump line="3" column="44" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
       <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
       <jump line="11" column="12" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
-      <jump line="21" column="12" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
       <jump line="20" column="32" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
       <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
+      <jump line="42" column="5" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
+      <jump line="0" column="17" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -647,48 +647,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>maths3</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>maths3</text>
       </register>
       <register name="/" type="4">
-        <text>Home</text>
+        <text>24</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWF0aHMxMyA9IGxpc3QobWFwKGxhbWJkYSB4OiAxMiAvIHggKiAyNCAvIHggKiB4LCBzdWJkaXZpc2lvbnMpKQo=</text>
+        <text encoding="base64">bWF0aHMxMyA9IGxpc3QobWFwKGxhbWJkYSB4OiAxMiAqKiA0IC8geCAqIDYwIC8geCAqIHgsIHN1YmRpdmlzaW9ucykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGthYmFsKG4pOgogICAgaWYgbm90IGlzaW5zdGFuY2Uobiwgc3RyKToKICAgICAgICBuID0gc3RyKGludChuKSkKCiAgICBuID0gc3RyKG4pCiAgICB2ID0gMAogICAgZm9yIGQgaW4gbjoKICAgICAgICB2ICs9IGludChkKQogICAgICAgIGlmIHYgPiA5OgogICAgICAgICAgICB2ID0ga2FiYWwodikKICAgIHJldHVybiB2CgpwcmludChrYWJhbCg2OSkpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBNOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHYgPiA5OgogICAgICAgIHYgPSBrYWJhbCh2KQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgTVswXQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBUaW1ldDoKICAgIHNlY29uZHM6IGZsb2F0ID0gMC4wCiAgICBtaW51dGVzOiBmbG9hdCA9IDAuMAogICAgaG91cnM6IGZsb2F0ID0gMC4wCiAgICAKICAgIA==</text>
+        <text encoding="base64">bWF0aHMxMyA9IGxpc3QobWFwKGxhbWJkYSB4OiAxMDggKiogNSAvIHggKiA2MCAvIHggKiB4LCBzdWJkaXZpc2lvbnMpKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;
-polyhedra
-&quot;&quot;&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">bWF0aHMxMyA9IGxpc3QobWFwKGxhbWJkYSB4OiAxMDggKiogNSAvIHggKiA2MCAvIHggKiB4LCBzdWJkaXZpc2lvbnMpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHdlYjMgICAgICAgICAgICAgICAgICAgICAgIyBldGhlcmV1bSBvcHMgbGliCmltcG9ydCBpcGZzaHR0cGNsaWVudCBhcyBpcGZzICAgICMgaXBmcyBpbnRlcmZhY2UKaW1wb3J0IGFpcnRhYmxlIGFzIGF0ICAgICAgICAgICAgIyBhaXJ0YWJsZSBpbnRlcmZhY2UKCmltcG9ydCBwYW5kYXMgYXMgcGQgICAgICAgICAgICAgICMgZGF0YXRhYmxlcwppbXBvcnQgbnVtcHkgYXMgbnAgICAgICAgICAgICAgICAjIGxpbmFsZyAvIG51bWVyaWMgbGliCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQgICMgZ3JhcGhpbmcgYW5kIGZpZ3VyZSBsaWIKaW1wb3J0IHNjaXB5IGFzIHNjcCAgICAgICAgICAgICAgIyBzY2llbnRpZmljIHByb2dyYW1taW5nIGxpYgppbXBvcnQgc3ltcHkgYXMgc3ltICAgICAgICAgICAgICAjIHN5bWJvbGljIHByb2dyYW1taW5nIGxpYgoKZGF0YSA9IG5wLmRpYWcoWzExLCAxMF0sIGR0eXBlPWZsb2F0KQoKCg==</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGV0aGJyb3duaWUK</text>
+        <text encoding="base64">bWF0aHMxMyA9IGxpc3QobWFwKGxhbWJkYSB4OiAxMDggKiogNSAvIHggKiA2MCAvIHggKiB4LCBzdWJkaXZpc2lvbnMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text encoding="base64">ZGVmIGthYmFsKG4pOgogICAgaWYgbm90IGlzaW5zdGFuY2Uobiwgc3RyKToKICAgICAgICBuID0gc3RyKGludChuKSkKCiAgICBuID0gc3RyKG4pCiAgICB2ID0gMAogICAgZm9yIGQgaW4gbjoKICAgICAgICB2ICs9IGludChkKQogICAgICAgIGlmIHYgPiA5OgogICAgICAgICAgICB2ID0ga2FiYWwodikKICAgIHJldHVybiB2CgpwcmludChrYWJhbCg2OSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmltcG9ydCByaWNo</text>
+        <text encoding="base64">ICAgIGlmIHYgPiA5OgogICAgICAgIHYgPSBrYWJhbCh2KQo=</text>
       </register>
       <register name="9" type="2">
-        <text>print(math.sin(1))</text>
+        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBUaW1ldDoKICAgIHNlY29uZHM6IGZsb2F0ID0gMC4wCiAgICBtaW51dGVzOiBmbG9hdCA9IDAuMAogICAgaG91cnM6IGZsb2F0ID0gMC4wCiAgICAKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -697,11 +695,11 @@ polyhedra
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Home</last-search>
+      <last-search>24</last-search>
       <last-offset />
-      <last-pattern>Home</last-pattern>
-      <last-replace>Scripts</last-replace>
-      <last-substitute>Home</last-substitute>
+      <last-pattern>24</last-pattern>
+      <last-replace>60</last-replace>
+      <last-substitute>24</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
