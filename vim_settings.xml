@@ -104,12 +104,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623640780602">
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623641503087">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="14" column="64" />
-        <mark key="]" line="14" column="65" />
-        <mark key="^" line="14" column="65" />
-        <mark key="." line="14" column="64" />
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="30" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -647,10 +647,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>6.</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>6.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
