@@ -27,7 +27,6 @@
         <entry>Home</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL1lbL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3kvWS4vZw==</entry>
         <entry>ws</entry>
@@ -46,6 +45,7 @@
         <entry>q</entry>
         <entry>:w</entry>
         <entry>W</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -104,12 +104,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623637571681">
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623638294398">
         <mark key="'" line="0" column="44" />
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="38" />
-        <mark key="^" line="1" column="39" />
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="31" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -646,17 +646,17 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bWF0aHMxID0gbGlzdChtYXAobGFtYmRhIHg6IDEgLyB4ICogMjQgLyB4ICogeCwgc3ViZGl2aXNpb25zKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2lnX2IgPSBlY3ludGgubWFrZV9zaWduYWwodywgLjUpCg==</text>
+        <text encoding="base64">bWF0aHMxID0gbGlzdChtYXAobGFtYmRhIHg6IDEgLyB4ICogMjQgLyB4ICogeCwgc3ViZGl2aXNpb25zKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBUaW1ldDoKICAgIHNlY29uZHM6IGZsb2F0ID0gMC4wCiAgICBtaW51dGVzOiBmbG9hdCA9IDAuMAogICAgaG91cnM6IGZsb2F0ID0gMC4wCiAgICAKICAgIA==</text>
