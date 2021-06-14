@@ -128,11 +128,11 @@
         <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/metasign.py" timestamp="1623659421782">
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="80" column="9" />
-        <mark key="^" line="80" column="9" />
-        <mark key="." line="80" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/vsocx/metasign.py" timestamp="1623660821850">
+        <mark key="[" line="82" column="20" />
+        <mark key="]" line="82" column="39" />
+        <mark key="^" line="82" column="39" />
+        <mark key="." line="82" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zwavc/zwavc.py" timestamp="1615050172543">
         <mark key="'" line="24" column="58" />
@@ -646,10 +646,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>24</text>
