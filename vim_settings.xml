@@ -104,12 +104,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623645491587">
-        <mark key="'" line="49" column="15" />
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="47" column="4" />
-        <mark key="^" line="47" column="4" />
-        <mark key="." line="47" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623646106402">
+        <mark key="'" line="50" column="15" />
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="57" />
+        <mark key="^" line="18" column="57" />
+        <mark key="." line="18" column="56" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -647,16 +647,16 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">I3N1YmRpdmlzaW9ucyA9IFsxIC8geCAqKiAyICogMzYwIC8gMjQuIGZvciB4IGluIHJhbmdlKDQzMjAgKiAyIC8vIDQpIGlmIHggIT0gMF0K</text>
+        <text encoding="base64">c3ViZGl2aXNpb25zID0gWzEgLyB4ICoqIDIgKiAzNjAgLyAyNC4gZm9yIHggaW4gcmFuZ2UoMjU5MjApIGlmIHggIT0gMF0K</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>24</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I3N1YmRpdmlzaW9ucyA9IFsxIC8geCAqKiAyICogMzYwIC8gMjQuIGZvciB4IGluIHJhbmdlKDQzMjAgKiAyIC8vIDQpIGlmIHggIT0gMF0K</text>
+        <text encoding="base64">c3ViZGl2aXNpb25zID0gWzEgLyB4ICoqIDIgKiAzNjAgLyAyNC4gZm9yIHggaW4gcmFuZ2UoMjU5MjApIGlmIHggIT0gMF0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBNOgo=</text>
