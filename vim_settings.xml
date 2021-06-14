@@ -104,12 +104,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623646106402">
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623656728866">
         <mark key="'" line="50" column="15" />
-        <mark key="[" line="18" column="71" />
-        <mark key="]" line="18" column="57" />
-        <mark key="^" line="18" column="57" />
-        <mark key="." line="18" column="56" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="12" />
+        <mark key="^" line="77" column="12" />
+        <mark key="." line="77" column="11" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -646,17 +646,17 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ViZGl2aXNpb25zID0gWzEgLyB4ICoqIDIgKiAzNjAgLyAyNC4gZm9yIHggaW4gcmFuZ2UoMjU5MjApIGlmIHggIT0gMF0K</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>24</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ViZGl2aXNpb25zID0gWzEgLyB4ICoqIDIgKiAzNjAgLyAyNC4gZm9yIHggaW4gcmFuZ2UoMjU5MjApIGlmIHggIT0gMF0K</text>
+        <text encoding="base64">cHJpbnQoIk4gLSAxIG1vZCA2MCIpCnByaW50KChOIC0gMSkgJSA2MCkKcHJpbnQoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBNOgo=</text>
