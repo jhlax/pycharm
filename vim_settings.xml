@@ -104,12 +104,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623644305909">
-        <mark key="'" line="0" column="17" />
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="61" column="11" />
-        <mark key="^" line="61" column="11" />
-        <mark key="." line="61" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623645491587">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="47" column="4" />
+        <mark key="^" line="47" column="4" />
+        <mark key="." line="47" column="3" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -205,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/clsc-tests/server.py" />
-      <jump line="19" column="24" filename="$USER_HOME$/PycharmProjects/clsc-tests/package.json" />
       <jump line="15" column="26" filename="$USER_HOME$/PycharmProjects/clsc-tests/src/router/index.ts" />
       <jump line="3" column="6" filename="$USER_HOME$/PycharmProjects/clsc-tests/src/router/index.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/clsc-tests/src/router/index.ts" />
@@ -305,6 +303,8 @@
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
       <jump line="42" column="5" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
       <jump line="0" column="17" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
+      <jump line="48" column="15" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -646,17 +646,17 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>maths3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I3N1YmRpdmlzaW9ucyA9IFsxIC8geCAqKiAyICogMzYwIC8gMjQuIGZvciB4IGluIHJhbmdlKDQzMjAgKiAyIC8vIDQpIGlmIHggIT0gMF0K</text>
       </register>
       <register name="-" type="4">
-        <text>maths3</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>24</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWF0aHMxMyA9IGxpc3QobWFwKGxhbWJkYSB4OiAxMiAqKiA0IC8geCAqIDYwIC8geCAqIHgsIHN1YmRpdmlzaW9ucykpCg==</text>
+        <text encoding="base64">I3N1YmRpdmlzaW9ucyA9IFsxIC8geCAqKiAyICogMzYwIC8gMjQuIGZvciB4IGluIHJhbmdlKDQzMjAgKiAyIC8vIDQpIGlmIHggIT0gMF0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBNOgo=</text>
