@@ -104,12 +104,12 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623639620439">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="62" />
-        <mark key="^" line="14" column="62" />
-        <mark key="." line="14" column="61" />
+      <file name="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" timestamp="1623640780602">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="14" column="64" />
+        <mark key="]" line="14" column="65" />
+        <mark key="^" line="14" column="65" />
+        <mark key="." line="14" column="64" />
       </file>
       <file name="/Python Console" timestamp="1620294026285">
         <mark key="[" line="0" column="0" />
@@ -205,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="42" filename="$USER_HOME$/PycharmProjects/clsc-tests/server.py" />
-      <jump line="5" column="22" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/flaskvue/app.py" />
       <jump line="13" column="32" filename="$USER_HOME$/PycharmProjects/clsc-tests/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/clsc-tests/server.py" />
@@ -305,6 +303,8 @@
       <jump line="9" column="10" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
       <jump line="11" column="12" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
       <jump line="21" column="12" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
+      <jump line="20" column="32" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/PycharmProjects/vsocx/vsocx/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -647,16 +647,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>24</text>
+        <text>6.</text>
       </register>
       <register name="-" type="4">
-        <text>24</text>
+        <text>6.</text>
       </register>
       <register name="/" type="4">
         <text>Home</text>
       </register>
-      <register name="0" type="4">
-        <text>maths2.count(3) / len(maths2),</text>
+      <register name="0" type="2">
+        <text encoding="base64">bWF0aHMxMyA9IGxpc3QobWFwKGxhbWJkYSB4OiAxMiAvIHggKiAyNCAvIHggKiB4LCBzdWJkaXZpc2lvbnMpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmIGthYmFsKG4pOgogICAgaWYgbm90IGlzaW5zdGFuY2Uobiwgc3RyKToKICAgICAgICBuID0gc3RyKGludChuKSkKCiAgICBuID0gc3RyKG4pCiAgICB2ID0gMAogICAgZm9yIGQgaW4gbjoKICAgICAgICB2ICs9IGludChkKQogICAgICAgIGlmIHYgPiA5OgogICAgICAgICAgICB2ID0ga2FiYWwodikKICAgIHJldHVybiB2CgpwcmludChrYWJhbCg2OSkpCg==</text>
