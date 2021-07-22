@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="in a uniform fashion" />
+            <option value="e.g. serialization" />
           </set>
         </option>
       </SuppressingContext>
