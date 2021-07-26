@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;}}" host="10.10.11.137" id="daff9e37-21d7-49b6-8c2b-fce5e92e94ff" port="13722" nameFormat="DESCRIPTIVE" username="jch" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;},&quot;serverAliveInterval&quot;:300}" host="10.10.11.137" id="daff9e37-21d7-49b6-8c2b-fce5e92e94ff" port="13722" nameFormat="DESCRIPTIVE" username="jch" />
     </configs>
   </component>
 </application>
