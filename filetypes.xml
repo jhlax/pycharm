@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="css/o4.css" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="executable_scripts_go_here" type="PLAIN_TEXT" />
@@ -13,11 +13,10 @@
       <mapping pattern="primis" type="PLAIN_TEXT" />
       <mapping pattern="epistle-sebastian-21-jul-20.md" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
+      <removed_mapping ext="tsv" type="TSV" />
       <mapping ext="als" type="XML" />
-      <mapping ext="yaml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML" />
-      <mapping ext="yml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
     </extensionMap>
