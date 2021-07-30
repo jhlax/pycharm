@@ -59,6 +59,7 @@
       <list>
         <option value="xsb.core.decorators._wrapper.*" />
         <option value="dict.*" />
+        <option value="str.*" />
       </list>
     </option>
   </inspection_tool>
