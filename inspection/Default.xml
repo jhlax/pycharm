@@ -58,6 +58,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="xsb.core.decorators._wrapper.*" />
+        <option value="dict.*" />
       </list>
     </option>
   </inspection_tool>
