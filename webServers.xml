@@ -7,6 +7,9 @@
       <webServer id="77b73010-cfed-4625-8c7c-e6d974052915" name="jch@10.10.11.137:13722" url="http:///">
         <fileTransfer accessType="SFTP" host="10.10.11.137" port="13722" sshConfigId="daff9e37-21d7-49b6-8c2b-fce5e92e94ff" sshConfig="jch@10.10.11.137:13722 password" />
       </webServer>
+      <webServer id="f98062a7-b7b7-4462-b30b-5d50f405f2b7" name="jch@10.10.11.137:13722 password">
+        <fileTransfer accessType="SFTP" host="10.10.11.137" port="13722" sshConfigId="daff9e37-21d7-49b6-8c2b-fce5e92e94ff" sshConfig="jch@10.10.11.137:13722 password" />
+      </webServer>
     </option>
   </component>
 </application>
