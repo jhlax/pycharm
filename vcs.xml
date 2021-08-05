@@ -58,6 +58,10 @@
           <option name="url" value="http://darkmatter.systems:3000/jch/vsva" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://localhost:3000/jch/vsva.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jhlax\PycharmProjects" />
