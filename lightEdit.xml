@@ -1,0 +1,12 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/AppData/Local/Temp/prog.c" />
+      </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="580" y="196" width="1400" height="1000" />
+    </option>
+  </component>
+</application>
