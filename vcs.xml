@@ -70,6 +70,10 @@
           <option name="url" value="http://git.lasolas.dev" />
           <option name="userName" value="jch" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://darkmatter.systems:3000/jch/symbiote" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jhlax\PycharmProjects" />
