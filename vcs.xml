@@ -74,6 +74,10 @@
           <option name="url" value="http://darkmatter.systems:3000/jch/symbiote" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jhlax/publixchange.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jhlax\PycharmProjects" />
